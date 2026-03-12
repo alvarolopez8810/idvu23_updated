@@ -1,0 +1,7732 @@
+[
+  {
+    "player_id": 1465466,
+    "player_name": "Felipe Vieira Dias",
+    "team_name": "Unknown",
+    "liga": "Paranaense",
+    "birth_year": 2003,
+    "date_of_birth": "01/08/2003",
+    "rating_promedio": 6.8125,
+    "partidos_total": 8
+  },
+  {
+    "player_id": 1631901,
+    "player_name": "Brian Carvalho",
+    "team_name": "Unknown",
+    "liga": "Paranaense",
+    "birth_year": 2003,
+    "date_of_birth": "12/03/2003",
+    "rating_promedio": 6.699999999999999,
+    "partidos_total": 2
+  },
+  {
+    "player_id": 1633656,
+    "player_name": "Pedro Brito",
+    "team_name": "Unknown",
+    "liga": "Paranaense",
+    "birth_year": 2005,
+    "date_of_birth": "11/12/2005",
+    "rating_promedio": 6.466666666666666,
+    "partidos_total": 3
+  },
+  {
+    "player_id": 2040078,
+    "player_name": "Eli Junior",
+    "team_name": "Unknown",
+    "liga": "Paranaense",
+    "birth_year": 2004,
+    "date_of_birth": "23/03/2004",
+    "rating_promedio": 6.733333333333333,
+    "partidos_total": 6
+  },
+  {
+    "player_id": 1708464,
+    "player_name": "Iruan Lima Soares",
+    "team_name": "Unknown",
+    "liga": "Paranaense",
+    "birth_year": 2003,
+    "date_of_birth": "23/12/2003",
+    "rating_promedio": 6.757142857142857,
+    "partidos_total": 7
+  },
+  {
+    "player_id": 1947816,
+    "player_name": "Guilherme Papaléo de Alvarenga",
+    "team_name": "Unknown",
+    "liga": "Paranaense",
+    "birth_year": 2005,
+    "date_of_birth": "08/04/2005",
+    "rating_promedio": 6.457142857142857,
+    "partidos_total": 7
+  },
+  {
+    "player_id": 1633885,
+    "player_name": "Diego Gomes Clemente",
+    "team_name": "Unknown",
+    "liga": "Paranaense",
+    "birth_year": 2004,
+    "date_of_birth": "27/01/2004",
+    "rating_promedio": 6.4,
+    "partidos_total": 4
+  },
+  {
+    "player_id": 1634178,
+    "player_name": "Giovani Alvisi",
+    "team_name": "Unknown",
+    "liga": "Paranaense",
+    "birth_year": 2003,
+    "date_of_birth": "24/01/2003",
+    "rating_promedio": 6.4,
+    "partidos_total": 1
+  },
+  {
+    "player_id": 2167687,
+    "player_name": "Eriky Flávio Nascimento Vieira",
+    "team_name": "Unknown",
+    "liga": "Paranaense",
+    "birth_year": 2005,
+    "date_of_birth": "11/07/2005",
+    "rating_promedio": 6.757142857142857,
+    "partidos_total": 7
+  },
+  {
+    "player_id": 1807840,
+    "player_name": "Danilo Henrique Souza Silva",
+    "team_name": "Unknown",
+    "liga": "Paranaense",
+    "birth_year": 2004,
+    "date_of_birth": "18/08/2004",
+    "rating_promedio": 6.65,
+    "partidos_total": 2
+  },
+  {
+    "player_id": 1592238,
+    "player_name": "Yago Lincoln",
+    "team_name": "Unknown",
+    "liga": "Paranaense",
+    "birth_year": 2003,
+    "date_of_birth": "30/01/2003",
+    "rating_promedio": 7.066666666666666,
+    "partidos_total": 12
+  },
+  {
+    "player_id": 1485293,
+    "player_name": "Rafael Monteiro",
+    "team_name": "Unknown",
+    "liga": "Paranaense",
+    "birth_year": 2004,
+    "date_of_birth": "14/02/2004",
+    "rating_promedio": 6.85,
+    "partidos_total": 4
+  },
+  {
+    "player_id": 2125637,
+    "player_name": "Vitinho",
+    "team_name": "Unknown",
+    "liga": "Paranaense",
+    "birth_year": 2003,
+    "date_of_birth": "27/07/2003",
+    "rating_promedio": 7.154545454545455,
+    "partidos_total": 11
+  },
+  {
+    "player_id": 1400331,
+    "player_name": "João Tavares",
+    "team_name": "Unknown",
+    "liga": "Paranaense",
+    "birth_year": 2004,
+    "date_of_birth": "23/02/2004",
+    "rating_promedio": 6.76,
+    "partidos_total": 10
+  },
+  {
+    "player_id": 1517440,
+    "player_name": "João Pedro Jotta",
+    "team_name": "Unknown",
+    "liga": "Paranaense",
+    "birth_year": 2003,
+    "date_of_birth": "02/02/2003",
+    "rating_promedio": 6.6000000000000005,
+    "partidos_total": 6
+  },
+  {
+    "player_id": 1470521,
+    "player_name": "André Cardoso",
+    "team_name": "Unknown",
+    "liga": "Paranaense",
+    "birth_year": 2003,
+    "date_of_birth": "17/05/2003",
+    "rating_promedio": 6.15,
+    "partidos_total": 2
+  },
+  {
+    "player_id": 2027869,
+    "player_name": "Crysthyan Lucas Da Silva Rocha",
+    "team_name": "Unknown",
+    "liga": "Paranaense",
+    "birth_year": 2005,
+    "date_of_birth": "13/01/2005",
+    "rating_promedio": 7.0,
+    "partidos_total": 2
+  },
+  {
+    "player_id": 1177384,
+    "player_name": "André Dhominique",
+    "team_name": "Unknown",
+    "liga": "Paranaense",
+    "birth_year": 2003,
+    "date_of_birth": "07/10/2003",
+    "rating_promedio": 6.733333333333333,
+    "partidos_total": 3
+  },
+  {
+    "player_id": 1806979,
+    "player_name": "Cainã Santos Da Silva",
+    "team_name": "Unknown",
+    "liga": "Paranaense",
+    "birth_year": 2007,
+    "date_of_birth": "24/02/2007",
+    "rating_promedio": 6.5,
+    "partidos_total": 1
+  },
+  {
+    "player_id": 1631401,
+    "player_name": "João Gabriel Rodrigues Botão",
+    "team_name": "Unknown",
+    "liga": "Paranaense",
+    "birth_year": 2006,
+    "date_of_birth": "25/05/2006",
+    "rating_promedio": 6.449999999999999,
+    "partidos_total": 2
+  },
+  {
+    "player_id": 2198470,
+    "player_name": "Kauã Henrique",
+    "team_name": "Unknown",
+    "liga": "Paranaense",
+    "birth_year": 2003,
+    "date_of_birth": "04/11/2003",
+    "rating_promedio": 6.6,
+    "partidos_total": 5
+  },
+  {
+    "player_id": 1802226,
+    "player_name": "Eduardo Franzon Mosconi",
+    "team_name": "Unknown",
+    "liga": "Paranaense",
+    "birth_year": 2007,
+    "date_of_birth": "19/06/2007",
+    "rating_promedio": 6.65,
+    "partidos_total": 2
+  },
+  {
+    "player_id": 1047176,
+    "player_name": "Dioran",
+    "team_name": "Unknown",
+    "liga": "Paranaense",
+    "birth_year": 2003,
+    "date_of_birth": "03/03/2003",
+    "rating_promedio": 6.685714285714285,
+    "partidos_total": 7
+  },
+  {
+    "player_id": 1634135,
+    "player_name": "Ibson",
+    "team_name": "Unknown",
+    "liga": "Paranaense",
+    "birth_year": 2004,
+    "date_of_birth": "17/03/2004",
+    "rating_promedio": 6.766666666666667,
+    "partidos_total": 6
+  },
+  {
+    "player_id": 1634737,
+    "player_name": "Pedro Ivo",
+    "team_name": "Unknown",
+    "liga": "Paranaense",
+    "birth_year": 2004,
+    "date_of_birth": "09/06/2004",
+    "rating_promedio": 6.557142857142857,
+    "partidos_total": 7
+  },
+  {
+    "player_id": 2147375,
+    "player_name": "Aislan de Jesus Jacinto",
+    "team_name": "Unknown",
+    "liga": "Paranaense",
+    "birth_year": 2005,
+    "date_of_birth": "17/04/2005",
+    "rating_promedio": 6.6,
+    "partidos_total": 2
+  },
+  {
+    "player_id": 1937606,
+    "player_name": "Guilherme Lopes",
+    "team_name": "Unknown",
+    "liga": "Paranaense",
+    "birth_year": 2004,
+    "date_of_birth": "02/04/2004",
+    "rating_promedio": 7.1,
+    "partidos_total": 1
+  },
+  {
+    "player_id": 2148200,
+    "player_name": "Luan Guilherme Martins Fernandes",
+    "team_name": "Unknown",
+    "liga": "Paranaense",
+    "birth_year": 2008,
+    "date_of_birth": "18/04/2008",
+    "rating_promedio": 6.6,
+    "partidos_total": 1
+  },
+  {
+    "player_id": 1066686,
+    "player_name": "Jonathan Alecxander",
+    "team_name": "Unknown",
+    "liga": "Paranaense",
+    "birth_year": 2003,
+    "date_of_birth": "12/02/2003",
+    "rating_promedio": 6.88,
+    "partidos_total": 5
+  },
+  {
+    "player_id": 1490609,
+    "player_name": "Bruno Cheron",
+    "team_name": "Unknown",
+    "liga": "Paranaense",
+    "birth_year": 2004,
+    "date_of_birth": "17/01/2004",
+    "rating_promedio": 6.975,
+    "partidos_total": 4
+  },
+  {
+    "player_id": 1863782,
+    "player_name": "Cauã Tavares Cruz",
+    "team_name": "Unknown",
+    "liga": "Paranaense",
+    "birth_year": 2004,
+    "date_of_birth": "24/04/2004",
+    "rating_promedio": 6.9125,
+    "partidos_total": 8
+  },
+  {
+    "player_id": 2140769,
+    "player_name": "Felipe",
+    "team_name": "Unknown",
+    "liga": "Paranaense",
+    "birth_year": 2004,
+    "date_of_birth": "11/08/2004",
+    "rating_promedio": 7.2,
+    "partidos_total": 1
+  },
+  {
+    "player_id": 1171911,
+    "player_name": "Yugo Masukake",
+    "team_name": "Unknown",
+    "liga": "Paranaense",
+    "birth_year": 2003,
+    "date_of_birth": "24/08/2003",
+    "rating_promedio": 6.6,
+    "partidos_total": 1
+  },
+  {
+    "player_id": 1174621,
+    "player_name": "Benassi",
+    "team_name": "Unknown",
+    "liga": "Paranaense",
+    "birth_year": 2003,
+    "date_of_birth": "17/12/2003",
+    "rating_promedio": 6.4,
+    "partidos_total": 2
+  },
+  {
+    "player_id": 1871902,
+    "player_name": "Felipe Guimarães",
+    "team_name": "Unknown",
+    "liga": "Paranaense",
+    "birth_year": 2004,
+    "date_of_birth": "08/04/2004",
+    "rating_promedio": 6.733333333333333,
+    "partidos_total": 6
+  },
+  {
+    "player_id": 1845365,
+    "player_name": "Guilherme Aquino",
+    "team_name": "Unknown",
+    "liga": "Paranaense",
+    "birth_year": 2004,
+    "date_of_birth": "13/01/2004",
+    "rating_promedio": 7.199999999999999,
+    "partidos_total": 2
+  },
+  {
+    "player_id": 1589464,
+    "player_name": "João Pedro Santos Oliveira",
+    "team_name": "Unknown",
+    "liga": "Paranaense",
+    "birth_year": 2005,
+    "date_of_birth": "01/12/2005",
+    "rating_promedio": 6.35,
+    "partidos_total": 2
+  },
+  {
+    "player_id": 1864297,
+    "player_name": "Lucas Taverna",
+    "team_name": "Unknown",
+    "liga": "Paranaense",
+    "birth_year": 2007,
+    "date_of_birth": "08/05/2007",
+    "rating_promedio": 6.25,
+    "partidos_total": 2
+  },
+  {
+    "player_id": 1588320,
+    "player_name": "Diogo Batista de Souza",
+    "team_name": "Unknown",
+    "liga": "Paranaense",
+    "birth_year": 2003,
+    "date_of_birth": "29/08/2003",
+    "rating_promedio": 6.9,
+    "partidos_total": 1
+  },
+  {
+    "player_id": 1864296,
+    "player_name": "Vitor Gonçalves Tissi",
+    "team_name": "Unknown",
+    "liga": "Paranaense",
+    "birth_year": 2007,
+    "date_of_birth": "22/04/2007",
+    "rating_promedio": 6.733333333333333,
+    "partidos_total": 3
+  },
+  {
+    "player_id": 1836073,
+    "player_name": "Matheus Dias",
+    "team_name": "Unknown",
+    "liga": "Paranaense",
+    "birth_year": 2007,
+    "date_of_birth": "09/08/2007",
+    "rating_promedio": 6.95,
+    "partidos_total": 2
+  },
+  {
+    "player_id": 1507611,
+    "player_name": "Jean Gabriel",
+    "team_name": "Unknown",
+    "liga": "Paranaense",
+    "birth_year": 2003,
+    "date_of_birth": "15/02/2003",
+    "rating_promedio": 6.9799999999999995,
+    "partidos_total": 5
+  },
+  {
+    "player_id": 1802559,
+    "player_name": "Thiago Azaf",
+    "team_name": "Unknown",
+    "liga": "Paranaense",
+    "birth_year": 2007,
+    "date_of_birth": "14/01/2007",
+    "rating_promedio": 6.7,
+    "partidos_total": 2
+  },
+  {
+    "player_id": 1936168,
+    "player_name": "Brayan",
+    "team_name": "Unknown",
+    "liga": "Paranaense",
+    "birth_year": 2006,
+    "date_of_birth": "03/02/2006",
+    "rating_promedio": 6.625,
+    "partidos_total": 4
+  },
+  {
+    "player_id": 2429934,
+    "player_name": "Miguel Kayk Da Silva",
+    "team_name": "Unknown",
+    "liga": "Paranaense",
+    "birth_year": 2007,
+    "date_of_birth": "01/09/2007",
+    "rating_promedio": 6.6,
+    "partidos_total": 2
+  },
+  {
+    "player_id": 2429936,
+    "player_name": "Paulo Roberto",
+    "team_name": "Unknown",
+    "liga": "Paranaense",
+    "birth_year": 2005,
+    "date_of_birth": "20/05/2005",
+    "rating_promedio": 6.9,
+    "partidos_total": 2
+  },
+  {
+    "player_id": 2438960,
+    "player_name": "Dani Gruber",
+    "team_name": "Unknown",
+    "liga": "Paranaense",
+    "birth_year": 2007,
+    "date_of_birth": "31/01/2007",
+    "rating_promedio": 6.5,
+    "partidos_total": 1
+  },
+  {
+    "player_id": 1464672,
+    "player_name": "Ruan Lima",
+    "team_name": "Unknown",
+    "liga": "Paranaense",
+    "birth_year": 2005,
+    "date_of_birth": "26/12/2005",
+    "rating_promedio": 6.550000000000001,
+    "partidos_total": 2
+  },
+  {
+    "player_id": 1875994,
+    "player_name": "Vinicius Peixoto",
+    "team_name": "Unknown",
+    "liga": "Paranaense",
+    "birth_year": 2003,
+    "date_of_birth": "31/10/2003",
+    "rating_promedio": 7.25,
+    "partidos_total": 8
+  },
+  {
+    "player_id": 1588234,
+    "player_name": "Wellington Silva",
+    "team_name": "Unknown",
+    "liga": "Paranaense",
+    "birth_year": 2005,
+    "date_of_birth": "04/01/2005",
+    "rating_promedio": 6.3999999999999995,
+    "partidos_total": 3
+  },
+  {
+    "player_id": 2438130,
+    "player_name": "Tiago Sarmento Novaes",
+    "team_name": "Unknown",
+    "liga": "Paranaense",
+    "birth_year": 2007,
+    "date_of_birth": "17/09/2007",
+    "rating_promedio": 6.5,
+    "partidos_total": 1
+  },
+  {
+    "player_id": 1588163,
+    "player_name": "Renan Cosenza",
+    "team_name": "Unknown",
+    "liga": "Paranaense",
+    "birth_year": 2004,
+    "date_of_birth": "21/11/2004",
+    "rating_promedio": 7.025,
+    "partidos_total": 4
+  },
+  {
+    "player_id": 2436630,
+    "player_name": "Vanderlei Kauã Alves Freire",
+    "team_name": "Unknown",
+    "liga": "Paranaense",
+    "birth_year": 2004,
+    "date_of_birth": "16/10/2004",
+    "rating_promedio": 6.640000000000001,
+    "partidos_total": 5
+  },
+  {
+    "player_id": 1807866,
+    "player_name": "Gustavo Silva do Espirito Santo \"Tapioca\"",
+    "team_name": "Unknown",
+    "liga": "Paranaense",
+    "birth_year": 2006,
+    "date_of_birth": "04/07/2006",
+    "rating_promedio": 6.733333333333333,
+    "partidos_total": 6
+  },
+  {
+    "player_id": 1807875,
+    "player_name": "Gustavo Amaro Machado \"Guru\"",
+    "team_name": "Unknown",
+    "liga": "Paranaense",
+    "birth_year": 2006,
+    "date_of_birth": "18/05/2006",
+    "rating_promedio": 6.3999999999999995,
+    "partidos_total": 3
+  },
+  {
+    "player_id": 1657016,
+    "player_name": "Antony Riboli Dalbello",
+    "team_name": "Unknown",
+    "liga": "Paranaense",
+    "birth_year": 2005,
+    "date_of_birth": "26/01/2005",
+    "rating_promedio": 6.56,
+    "partidos_total": 5
+  },
+  {
+    "player_id": 1631857,
+    "player_name": "Gabriel Rosa Lyra",
+    "team_name": "Unknown",
+    "liga": "Paranaense",
+    "birth_year": 2004,
+    "date_of_birth": "21/03/2004",
+    "rating_promedio": 6.65,
+    "partidos_total": 4
+  },
+  {
+    "player_id": 2436731,
+    "player_name": "Sidnei Fernandes Junior",
+    "team_name": "Unknown",
+    "liga": "Paranaense",
+    "birth_year": 2003,
+    "date_of_birth": "28/03/2003",
+    "rating_promedio": 6.6,
+    "partidos_total": 1
+  },
+  {
+    "player_id": 1462224,
+    "player_name": "Léo Herrero",
+    "team_name": "Unknown",
+    "liga": "Paranaense",
+    "birth_year": 2004,
+    "date_of_birth": "10/04/2004",
+    "rating_promedio": 6.333333333333333,
+    "partidos_total": 3
+  },
+  {
+    "player_id": 1807858,
+    "player_name": "Thiago Lubatchewsky Junior",
+    "team_name": "Unknown",
+    "liga": "Paranaense",
+    "birth_year": 2004,
+    "date_of_birth": "14/02/2004",
+    "rating_promedio": 6.6,
+    "partidos_total": 2
+  },
+  {
+    "player_id": 1469515,
+    "player_name": "Hygor",
+    "team_name": "Unknown",
+    "liga": "Paranaense",
+    "birth_year": 2004,
+    "date_of_birth": "17/04/2004",
+    "rating_promedio": 7.0,
+    "partidos_total": 5
+  },
+  {
+    "player_id": 1905722,
+    "player_name": "Ary Garcia Lima",
+    "team_name": "Unknown",
+    "liga": "Paranaense",
+    "birth_year": 2003,
+    "date_of_birth": "29/09/2003",
+    "rating_promedio": 6.957142857142857,
+    "partidos_total": 7
+  },
+  {
+    "player_id": 2030884,
+    "player_name": "Marcão",
+    "team_name": "Unknown",
+    "liga": "Paranaense",
+    "birth_year": 2005,
+    "date_of_birth": "13/01/2005",
+    "rating_promedio": 6.4799999999999995,
+    "partidos_total": 5
+  },
+  {
+    "player_id": 1469520,
+    "player_name": "Léo Guerra",
+    "team_name": "Unknown",
+    "liga": "Paranaense",
+    "birth_year": 2003,
+    "date_of_birth": "11/04/2003",
+    "rating_promedio": 6.616666666666667,
+    "partidos_total": 6
+  },
+  {
+    "player_id": 1805171,
+    "player_name": "Vinícios de Matos Rebeschini",
+    "team_name": "Unknown",
+    "liga": "Paranaense",
+    "birth_year": 2007,
+    "date_of_birth": "13/11/2007",
+    "rating_promedio": 6.5,
+    "partidos_total": 1
+  },
+  {
+    "player_id": 1634224,
+    "player_name": "Marquinhos",
+    "team_name": "Unknown",
+    "liga": "Paranaense",
+    "birth_year": 2005,
+    "date_of_birth": "29/04/2005",
+    "rating_promedio": 6.828571428571428,
+    "partidos_total": 7
+  },
+  {
+    "player_id": 2030392,
+    "player_name": "Luizão",
+    "team_name": "Unknown",
+    "liga": "Paranaense",
+    "birth_year": 2006,
+    "date_of_birth": "27/01/2006",
+    "rating_promedio": 6.35,
+    "partidos_total": 2
+  },
+  {
+    "player_id": 1589494,
+    "player_name": "Cleiton",
+    "team_name": "Unknown",
+    "liga": "Paranaense",
+    "birth_year": 2004,
+    "date_of_birth": "01/06/2004",
+    "rating_promedio": 6.542857142857143,
+    "partidos_total": 7
+  },
+  {
+    "player_id": 2437042,
+    "player_name": "Ronald Kauã Lopes da Cruz",
+    "team_name": "Unknown",
+    "liga": "Paranaense",
+    "birth_year": 2005,
+    "date_of_birth": "08/04/2005",
+    "rating_promedio": 6.6,
+    "partidos_total": 8
+  },
+  {
+    "player_id": 1805515,
+    "player_name": "Lucas Bueno Kosinski",
+    "team_name": "Unknown",
+    "liga": "Paranaense",
+    "birth_year": 2004,
+    "date_of_birth": "01/07/2004",
+    "rating_promedio": 6.95,
+    "partidos_total": 8
+  },
+  {
+    "player_id": 2029968,
+    "player_name": "Tiago Brito",
+    "team_name": "Unknown",
+    "liga": "Paranaense",
+    "birth_year": 2003,
+    "date_of_birth": "14/04/2003",
+    "rating_promedio": 6.483333333333333,
+    "partidos_total": 6
+  },
+  {
+    "player_id": 2025563,
+    "player_name": "Marcão Ramos da Silva",
+    "team_name": "Unknown",
+    "liga": "Paranaense",
+    "birth_year": 2004,
+    "date_of_birth": "26/09/2004",
+    "rating_promedio": 6.866666666666667,
+    "partidos_total": 6
+  },
+  {
+    "player_id": 1805526,
+    "player_name": "Matheus Ploszaj Araujo",
+    "team_name": "Unknown",
+    "liga": "Paranaense",
+    "birth_year": 2005,
+    "date_of_birth": "22/10/2005",
+    "rating_promedio": 6.75,
+    "partidos_total": 4
+  },
+  {
+    "player_id": 1485244,
+    "player_name": "Matheus Soares",
+    "team_name": "Unknown",
+    "liga": "Paranaense",
+    "birth_year": 2005,
+    "date_of_birth": "09/01/2005",
+    "rating_promedio": 6.550000000000001,
+    "partidos_total": 2
+  },
+  {
+    "player_id": 1941312,
+    "player_name": "Gilberto Junior",
+    "team_name": "Unknown",
+    "liga": "Paranaense",
+    "birth_year": 2005,
+    "date_of_birth": "27/03/2005",
+    "rating_promedio": 7.044444444444444,
+    "partidos_total": 9
+  },
+  {
+    "player_id": 1130040,
+    "player_name": "Lucas Belezi",
+    "team_name": "Unknown",
+    "liga": "Paranaense",
+    "birth_year": 2003,
+    "date_of_birth": "08/05/2003",
+    "rating_promedio": 6.88,
+    "partidos_total": 5
+  },
+  {
+    "player_id": 1633871,
+    "player_name": "Claudinho",
+    "team_name": "Unknown",
+    "liga": "Paranaense",
+    "birth_year": 2005,
+    "date_of_birth": "26/10/2005",
+    "rating_promedio": 6.757142857142857,
+    "partidos_total": 7
+  },
+  {
+    "player_id": 2436878,
+    "player_name": "Bruno Braga Ramos",
+    "team_name": "Unknown",
+    "liga": "Paranaense",
+    "birth_year": 2008,
+    "date_of_birth": "16/08/2008",
+    "rating_promedio": 7.029999999999999,
+    "partidos_total": 10
+  },
+  {
+    "player_id": 1635772,
+    "player_name": "Diogo Riquelme",
+    "team_name": "Unknown",
+    "liga": "Paranaense",
+    "birth_year": 2005,
+    "date_of_birth": "23/04/2005",
+    "rating_promedio": 6.728571428571429,
+    "partidos_total": 7
+  },
+  {
+    "player_id": 1482354,
+    "player_name": "Dudu",
+    "team_name": "Unknown",
+    "liga": "Paranaense",
+    "birth_year": 2006,
+    "date_of_birth": "01/01/2006",
+    "rating_promedio": 6.816666666666666,
+    "partidos_total": 6
+  },
+  {
+    "player_id": 1459788,
+    "player_name": "Chiqueti",
+    "team_name": "Unknown",
+    "liga": "Paranaense",
+    "birth_year": 2005,
+    "date_of_birth": "02/09/2005",
+    "rating_promedio": 7.7,
+    "partidos_total": 8
+  },
+  {
+    "player_id": 1485226,
+    "player_name": "João Cruz",
+    "team_name": "Unknown",
+    "liga": "Paranaense",
+    "birth_year": 2006,
+    "date_of_birth": "12/05/2006",
+    "rating_promedio": 7.5,
+    "partidos_total": 7
+  },
+  {
+    "player_id": 1804713,
+    "player_name": "Lucas Marezi",
+    "team_name": "Unknown",
+    "liga": "Paranaense",
+    "birth_year": 2006,
+    "date_of_birth": "18/01/2006",
+    "rating_promedio": 6.82,
+    "partidos_total": 5
+  },
+  {
+    "player_id": 1804699,
+    "player_name": "Gustavo Veiga",
+    "team_name": "Unknown",
+    "liga": "Paranaense",
+    "birth_year": 2006,
+    "date_of_birth": "16/01/2006",
+    "rating_promedio": 6.2,
+    "partidos_total": 1
+  },
+  {
+    "player_id": 2436883,
+    "player_name": "Kayke Ayrton",
+    "team_name": "Unknown",
+    "liga": "Paranaense",
+    "birth_year": 2008,
+    "date_of_birth": "26/04/2008",
+    "rating_promedio": 6.15,
+    "partidos_total": 2
+  },
+  {
+    "player_id": 1631240,
+    "player_name": "Sorriso",
+    "team_name": "Unknown",
+    "liga": "Paranaense",
+    "birth_year": 2006,
+    "date_of_birth": "15/04/2006",
+    "rating_promedio": 6.728571428571429,
+    "partidos_total": 7
+  },
+  {
+    "player_id": 1459787,
+    "player_name": "Renan Viana",
+    "team_name": "Unknown",
+    "liga": "Paranaense",
+    "birth_year": 2003,
+    "date_of_birth": "31/01/2003",
+    "rating_promedio": 6.5200000000000005,
+    "partidos_total": 5
+  },
+  {
+    "player_id": 1882409,
+    "player_name": "Murilo Camargo",
+    "team_name": "Unknown",
+    "liga": "Paranaense",
+    "birth_year": 2009,
+    "date_of_birth": "20/02/2009",
+    "rating_promedio": 6.4,
+    "partidos_total": 1
+  },
+  {
+    "player_id": 1882417,
+    "player_name": "Victor Vinicius Ferraz",
+    "team_name": "Unknown",
+    "liga": "Paranaense",
+    "birth_year": 2007,
+    "date_of_birth": "19/04/2007",
+    "rating_promedio": 6.433333333333334,
+    "partidos_total": 3
+  },
+  {
+    "player_id": 2025640,
+    "player_name": "Kauan Augusto Stabelini",
+    "team_name": "Unknown",
+    "liga": "Paranaense",
+    "birth_year": 2007,
+    "date_of_birth": "13/05/2007",
+    "rating_promedio": 6.45,
+    "partidos_total": 2
+  },
+  {
+    "player_id": 2436884,
+    "player_name": "Lucas Guimarães Amorim",
+    "team_name": "Unknown",
+    "liga": "Paranaense",
+    "birth_year": 2006,
+    "date_of_birth": "05/06/2006",
+    "rating_promedio": 6.56,
+    "partidos_total": 5
+  },
+  {
+    "player_id": 1124329,
+    "player_name": "Tiago Cóser",
+    "team_name": "Unknown",
+    "liga": "Paranaense",
+    "birth_year": 2004,
+    "date_of_birth": "16/01/2004",
+    "rating_promedio": 6.9,
+    "partidos_total": 5
+  },
+  {
+    "player_id": 1588318,
+    "player_name": "João Almeida",
+    "team_name": "Unknown",
+    "liga": "Paranaense",
+    "birth_year": 2006,
+    "date_of_birth": "16/01/2006",
+    "rating_promedio": 6.483333333333333,
+    "partidos_total": 6
+  },
+  {
+    "player_id": 1495892,
+    "player_name": "Ruan Lucas de Assis",
+    "team_name": "Unknown",
+    "liga": "Mineiro",
+    "birth_year": 2004,
+    "date_of_birth": "20/04/2004",
+    "rating_promedio": 6.35,
+    "partidos_total": 4
+  },
+  {
+    "player_id": 1589382,
+    "player_name": "Renato Victor",
+    "team_name": "Unknown",
+    "liga": "Paranaense",
+    "birth_year": 2004,
+    "date_of_birth": "03/08/2004",
+    "rating_promedio": 6.300000000000001,
+    "partidos_total": 2
+  },
+  {
+    "player_id": 1468294,
+    "player_name": "Lucas Santos Balotelli",
+    "team_name": "Unknown",
+    "liga": "Paranaense",
+    "birth_year": 2005,
+    "date_of_birth": "27/01/2005",
+    "rating_promedio": 6.5,
+    "partidos_total": 3
+  },
+  {
+    "player_id": 1520881,
+    "player_name": "Iago Motta",
+    "team_name": "Unknown",
+    "liga": "Paranaense",
+    "birth_year": 2003,
+    "date_of_birth": "15/04/2003",
+    "rating_promedio": 6.62,
+    "partidos_total": 5
+  },
+  {
+    "player_id": 1545726,
+    "player_name": "Robinho",
+    "team_name": "Unknown",
+    "liga": "Paranaense",
+    "birth_year": 2004,
+    "date_of_birth": "10/03/2004",
+    "rating_promedio": 6.425000000000001,
+    "partidos_total": 4
+  },
+  {
+    "player_id": 1634233,
+    "player_name": "Rai Natalino da Silva Ramos",
+    "team_name": "Unknown",
+    "liga": "Paranaense",
+    "birth_year": 2004,
+    "date_of_birth": "25/12/2004",
+    "rating_promedio": 6.5,
+    "partidos_total": 5
+  },
+  {
+    "player_id": 1507616,
+    "player_name": "Pedro Morisco",
+    "team_name": "Unknown",
+    "liga": "Paranaense",
+    "birth_year": 2004,
+    "date_of_birth": "10/01/2004",
+    "rating_promedio": 7.06,
+    "partidos_total": 5
+  },
+  {
+    "player_id": 1172056,
+    "player_name": "Lucas Ronier",
+    "team_name": "Unknown",
+    "liga": "Paranaense",
+    "birth_year": 2004,
+    "date_of_birth": "26/11/2004",
+    "rating_promedio": 7.383333333333333,
+    "partidos_total": 6
+  },
+  {
+    "player_id": 1122737,
+    "player_name": "Joaquín Lavega",
+    "team_name": "Unknown",
+    "liga": "Paranaense",
+    "birth_year": 2005,
+    "date_of_birth": "03/02/2005",
+    "rating_promedio": 6.742857142857143,
+    "partidos_total": 7
+  },
+  {
+    "player_id": 2444672,
+    "player_name": "Enzo",
+    "team_name": "Unknown",
+    "liga": "Paranaense",
+    "birth_year": 2006,
+    "date_of_birth": "28/07/2006",
+    "rating_promedio": 6.8500000000000005,
+    "partidos_total": 4
+  },
+  {
+    "player_id": 1819690,
+    "player_name": "Fabiano",
+    "team_name": "Unknown",
+    "liga": "Paranaense",
+    "birth_year": 2005,
+    "date_of_birth": "11/06/2005",
+    "rating_promedio": 6.6375,
+    "partidos_total": 8
+  },
+  {
+    "player_id": 2443393,
+    "player_name": "Cristian David Banguera  Sinisterra",
+    "team_name": "Unknown",
+    "liga": "Paranaense",
+    "birth_year": 2006,
+    "date_of_birth": "02/09/2006",
+    "rating_promedio": 5.633333333333333,
+    "partidos_total": 3
+  },
+  {
+    "player_id": 1128850,
+    "player_name": "Mycael",
+    "team_name": "Unknown",
+    "liga": "Paranaense",
+    "birth_year": 2004,
+    "date_of_birth": "12/03/2004",
+    "rating_promedio": 7.133333333333333,
+    "partidos_total": 6
+  },
+  {
+    "player_id": 1589424,
+    "player_name": "Fabrício",
+    "team_name": "Unknown",
+    "liga": "Paranaense",
+    "birth_year": 2004,
+    "date_of_birth": "19/01/2004",
+    "rating_promedio": 6.466666666666666,
+    "partidos_total": 3
+  },
+  {
+    "player_id": 2405283,
+    "player_name": "Tulio  Sutilli",
+    "team_name": "Unknown",
+    "liga": "Paranaense",
+    "birth_year": 2005,
+    "date_of_birth": "02/05/2005",
+    "rating_promedio": 6.566666666666666,
+    "partidos_total": 3
+  },
+  {
+    "player_id": 1634061,
+    "player_name": "Haruna Hassan",
+    "team_name": "Unknown",
+    "liga": "Paranaense",
+    "birth_year": 2004,
+    "date_of_birth": "05/10/2004",
+    "rating_promedio": 6.9,
+    "partidos_total": 5
+  },
+  {
+    "player_id": 1589178,
+    "player_name": "Kauhe Florentino Galdino",
+    "team_name": "Unknown",
+    "liga": "Paranaense",
+    "birth_year": 2005,
+    "date_of_birth": "09/09/2005",
+    "rating_promedio": 6.699999999999999,
+    "partidos_total": 4
+  },
+  {
+    "player_id": 1903238,
+    "player_name": "Joao Pedro dos Santos Silva",
+    "team_name": "Unknown",
+    "liga": "Paranaense",
+    "birth_year": 2006,
+    "date_of_birth": "27/06/2006",
+    "rating_promedio": 6.566666666666666,
+    "partidos_total": 3
+  },
+  {
+    "player_id": 1586439,
+    "player_name": "Marcos Maia",
+    "team_name": "Unknown",
+    "liga": "Paranaense",
+    "birth_year": 2006,
+    "date_of_birth": "23/06/2006",
+    "rating_promedio": 7.1,
+    "partidos_total": 2
+  },
+  {
+    "player_id": 1650156,
+    "player_name": "Rafael  Da Conceição",
+    "team_name": "Unknown",
+    "liga": "Mineiro",
+    "birth_year": 2004,
+    "date_of_birth": "09/02/2004",
+    "rating_promedio": 6.4624999999999995,
+    "partidos_total": 8
+  },
+  {
+    "player_id": 1845395,
+    "player_name": "Carlos Miguel Dias da Silva",
+    "team_name": "Unknown",
+    "liga": "Mineiro",
+    "birth_year": 2005,
+    "date_of_birth": "16/09/2005",
+    "rating_promedio": 7.1,
+    "partidos_total": 1
+  },
+  {
+    "player_id": 2440198,
+    "player_name": "Brayan Diaz",
+    "team_name": "Unknown",
+    "liga": "Mineiro",
+    "birth_year": 2005,
+    "date_of_birth": "09/04/2005",
+    "rating_promedio": 6.425,
+    "partidos_total": 4
+  },
+  {
+    "player_id": 1589134,
+    "player_name": "Wanderson Barros de Sousa",
+    "team_name": "Unknown",
+    "liga": "Mineiro",
+    "birth_year": 2004,
+    "date_of_birth": "14/04/2004",
+    "rating_promedio": 6.283333333333334,
+    "partidos_total": 6
+  },
+  {
+    "player_id": 1800319,
+    "player_name": "João Vitor Oliveira",
+    "team_name": "Unknown",
+    "liga": "Mineiro",
+    "birth_year": 2003,
+    "date_of_birth": "08/12/2003",
+    "rating_promedio": 6.722222222222222,
+    "partidos_total": 9
+  },
+  {
+    "player_id": 1469621,
+    "player_name": "Xavier",
+    "team_name": "Unknown",
+    "liga": "Mineiro",
+    "birth_year": 2004,
+    "date_of_birth": "20/02/2004",
+    "rating_promedio": 6.475,
+    "partidos_total": 8
+  },
+  {
+    "player_id": 1466463,
+    "player_name": "Dyego",
+    "team_name": "Unknown",
+    "liga": "Mineiro",
+    "birth_year": 2003,
+    "date_of_birth": "02/01/2003",
+    "rating_promedio": 6.8625,
+    "partidos_total": 8
+  },
+  {
+    "player_id": 2035930,
+    "player_name": "Luiz Felipe",
+    "team_name": "Unknown",
+    "liga": "Mineiro",
+    "birth_year": 2004,
+    "date_of_birth": "04/12/2004",
+    "rating_promedio": 6.371428571428572,
+    "partidos_total": 7
+  },
+  {
+    "player_id": 1589358,
+    "player_name": "Otávio Costa",
+    "team_name": "Unknown",
+    "liga": "Mineiro",
+    "birth_year": 2005,
+    "date_of_birth": "27/12/2005",
+    "rating_promedio": 6.1000000000000005,
+    "partidos_total": 3
+  },
+  {
+    "player_id": 2057367,
+    "player_name": "Kauã Moraes",
+    "team_name": "Unknown",
+    "liga": "Mineiro",
+    "birth_year": 2006,
+    "date_of_birth": "29/09/2006",
+    "rating_promedio": 6.466666666666666,
+    "partidos_total": 3
+  },
+  {
+    "player_id": 1498670,
+    "player_name": "Jonathan Jesus",
+    "team_name": "Unknown",
+    "liga": "Mineiro",
+    "birth_year": 2004,
+    "date_of_birth": "27/05/2004",
+    "rating_promedio": 6.6499999999999995,
+    "partidos_total": 6
+  },
+  {
+    "player_id": 1887796,
+    "player_name": "Kauã Prates",
+    "team_name": "Unknown",
+    "liga": "Mineiro",
+    "birth_year": 2008,
+    "date_of_birth": "11/08/2008",
+    "rating_promedio": 7.025,
+    "partidos_total": 4
+  },
+  {
+    "player_id": 1459623,
+    "player_name": "Japa",
+    "team_name": "Unknown",
+    "liga": "Mineiro",
+    "birth_year": 2004,
+    "date_of_birth": "02/01/2004",
+    "rating_promedio": 6.957142857142857,
+    "partidos_total": 7
+  },
+  {
+    "player_id": 1831101,
+    "player_name": "Rayan Lelis",
+    "team_name": "Unknown",
+    "liga": "Mineiro",
+    "birth_year": 2007,
+    "date_of_birth": "19/01/2007",
+    "rating_promedio": 6.15,
+    "partidos_total": 2
+  },
+  {
+    "player_id": 1174770,
+    "player_name": "Rodriguinho",
+    "team_name": "Unknown",
+    "liga": "Mineiro",
+    "birth_year": 2003,
+    "date_of_birth": "05/06/2003",
+    "rating_promedio": 7.1,
+    "partidos_total": 2
+  },
+  {
+    "player_id": 1647579,
+    "player_name": "Kaique Kenji",
+    "team_name": "Unknown",
+    "liga": "Mineiro",
+    "birth_year": 2006,
+    "date_of_birth": "30/01/2006",
+    "rating_promedio": 6.85,
+    "partidos_total": 4
+  },
+  {
+    "player_id": 1589354,
+    "player_name": "Murilo Rhikman",
+    "team_name": "Unknown",
+    "liga": "Mineiro",
+    "birth_year": 2006,
+    "date_of_birth": "13/03/2006",
+    "rating_promedio": 6.550000000000001,
+    "partidos_total": 2
+  },
+  {
+    "player_id": 1836052,
+    "player_name": "Vitinho",
+    "team_name": "Unknown",
+    "liga": "Mineiro",
+    "birth_year": 2004,
+    "date_of_birth": "18/02/2004",
+    "rating_promedio": 6.7,
+    "partidos_total": 2
+  },
+  {
+    "player_id": 1459634,
+    "player_name": "Luis Fernando",
+    "team_name": "Unknown",
+    "liga": "Mineiro",
+    "birth_year": 2005,
+    "date_of_birth": "12/04/2005",
+    "rating_promedio": 6.5,
+    "partidos_total": 2
+  },
+  {
+    "player_id": 1647577,
+    "player_name": "Nicolas Pontes",
+    "team_name": "Unknown",
+    "liga": "Mineiro",
+    "birth_year": 2006,
+    "date_of_birth": "14/01/2006",
+    "rating_promedio": 6.7,
+    "partidos_total": 2
+  },
+  {
+    "player_id": 1589422,
+    "player_name": "Victor Araújo",
+    "team_name": "Unknown",
+    "liga": "Mineiro",
+    "birth_year": 2004,
+    "date_of_birth": "11/02/2004",
+    "rating_promedio": 6.8428571428571425,
+    "partidos_total": 7
+  },
+  {
+    "player_id": 1588928,
+    "player_name": "Marcelo Cauã de Aguiar Alves",
+    "team_name": "Unknown",
+    "liga": "Mineiro",
+    "birth_year": 2003,
+    "date_of_birth": "10/06/2003",
+    "rating_promedio": 7.06,
+    "partidos_total": 10
+  },
+  {
+    "player_id": 1808042,
+    "player_name": "Alexandre Pena",
+    "team_name": "Unknown",
+    "liga": "Mineiro",
+    "birth_year": 2005,
+    "date_of_birth": "21/02/2005",
+    "rating_promedio": 6.677777777777778,
+    "partidos_total": 9
+  },
+  {
+    "player_id": 1502080,
+    "player_name": "Pedro Arthur",
+    "team_name": "Unknown",
+    "liga": "Mineiro",
+    "birth_year": 2003,
+    "date_of_birth": "11/01/2003",
+    "rating_promedio": 6.6875,
+    "partidos_total": 8
+  },
+  {
+    "player_id": 2410020,
+    "player_name": "Gabriel Adriano da Costa",
+    "team_name": "Unknown",
+    "liga": "Mineiro",
+    "birth_year": 2008,
+    "date_of_birth": "10/04/2008",
+    "rating_promedio": 6.433333333333334,
+    "partidos_total": 3
+  },
+  {
+    "player_id": 1631995,
+    "player_name": "Pedro Balotelli",
+    "team_name": "Unknown",
+    "liga": "Mineiro",
+    "birth_year": 2005,
+    "date_of_birth": "15/01/2005",
+    "rating_promedio": 6.65,
+    "partidos_total": 2
+  },
+  {
+    "player_id": 2060245,
+    "player_name": "Denzel",
+    "team_name": "Unknown",
+    "liga": "Mineiro",
+    "birth_year": 2003,
+    "date_of_birth": "18/08/2003",
+    "rating_promedio": 6.640000000000001,
+    "partidos_total": 5
+  },
+  {
+    "player_id": 2045720,
+    "player_name": "Wallace",
+    "team_name": "Unknown",
+    "liga": "Mineiro",
+    "birth_year": 2004,
+    "date_of_birth": "24/09/2004",
+    "rating_promedio": 6.8125,
+    "partidos_total": 8
+  },
+  {
+    "player_id": 2086031,
+    "player_name": "Luis Campero",
+    "team_name": "Unknown",
+    "liga": "Mineiro",
+    "birth_year": 2003,
+    "date_of_birth": "29/03/2003",
+    "rating_promedio": 6.566666666666666,
+    "partidos_total": 3
+  },
+  {
+    "player_id": 1631398,
+    "player_name": "Matheus Galdino Silva",
+    "team_name": "Unknown",
+    "liga": "Mineiro",
+    "birth_year": 2005,
+    "date_of_birth": "03/03/2005",
+    "rating_promedio": 6.775,
+    "partidos_total": 8
+  },
+  {
+    "player_id": 1631402,
+    "player_name": "Renan Gustavo Ribeiro Moreira",
+    "team_name": "Unknown",
+    "liga": "Mineiro",
+    "birth_year": 2005,
+    "date_of_birth": "16/02/2005",
+    "rating_promedio": 6.4,
+    "partidos_total": 1
+  },
+  {
+    "player_id": 2440287,
+    "player_name": "Mateus",
+    "team_name": "Unknown",
+    "liga": "Mineiro",
+    "birth_year": 2005,
+    "date_of_birth": "21/09/2005",
+    "rating_promedio": 7.5,
+    "partidos_total": 1
+  },
+  {
+    "player_id": 1591024,
+    "player_name": "Luiz Henrique Lima da Silva",
+    "team_name": "Unknown",
+    "liga": "Mineiro",
+    "birth_year": 2003,
+    "date_of_birth": "24/03/2003",
+    "rating_promedio": 6.8375,
+    "partidos_total": 8
+  },
+  {
+    "player_id": 1199262,
+    "player_name": "Dourado",
+    "team_name": "Unknown",
+    "liga": "Mineiro",
+    "birth_year": 2004,
+    "date_of_birth": "17/05/2004",
+    "rating_promedio": 6.45,
+    "partidos_total": 6
+  },
+  {
+    "player_id": 1588712,
+    "player_name": "Gabriel Augusto",
+    "team_name": "Unknown",
+    "liga": "Mineiro",
+    "birth_year": 2004,
+    "date_of_birth": "25/05/2004",
+    "rating_promedio": 6.822222222222222,
+    "partidos_total": 9
+  },
+  {
+    "player_id": 1829020,
+    "player_name": "Vitor Fernandes Chaves Teixeira",
+    "team_name": "Unknown",
+    "liga": "Mineiro",
+    "birth_year": 2008,
+    "date_of_birth": "05/03/2008",
+    "rating_promedio": 6.6,
+    "partidos_total": 2
+  },
+  {
+    "player_id": 1199473,
+    "player_name": "Cadu",
+    "team_name": "Unknown",
+    "liga": "Mineiro",
+    "birth_year": 2004,
+    "date_of_birth": "24/05/2004",
+    "rating_promedio": 6.95,
+    "partidos_total": 2
+  },
+  {
+    "player_id": 1829022,
+    "player_name": "Kauã Pascini",
+    "team_name": "Unknown",
+    "liga": "Mineiro",
+    "birth_year": 2008,
+    "date_of_birth": "05/03/2008",
+    "rating_promedio": 6.433333333333334,
+    "partidos_total": 3
+  },
+  {
+    "player_id": 2231192,
+    "player_name": "Mateus Jose Iseppe",
+    "team_name": "Unknown",
+    "liga": "Mineiro",
+    "birth_year": 2006,
+    "date_of_birth": "02/05/2006",
+    "rating_promedio": 6.949999999999999,
+    "partidos_total": 2
+  },
+  {
+    "player_id": 1829023,
+    "player_name": "Índio",
+    "team_name": "Unknown",
+    "liga": "Mineiro",
+    "birth_year": 2008,
+    "date_of_birth": "02/04/2008",
+    "rating_promedio": 6.5,
+    "partidos_total": 2
+  },
+  {
+    "player_id": 1633621,
+    "player_name": "Robert Alves",
+    "team_name": "Unknown",
+    "liga": "Mineiro",
+    "birth_year": 2005,
+    "date_of_birth": "03/02/2005",
+    "rating_promedio": 6.15,
+    "partidos_total": 2
+  },
+  {
+    "player_id": 2155474,
+    "player_name": "Mamady Cissé",
+    "team_name": "Unknown",
+    "liga": "Mineiro",
+    "birth_year": 2007,
+    "date_of_birth": "01/01/2007",
+    "rating_promedio": 6.5,
+    "partidos_total": 5
+  },
+  {
+    "player_id": 2118857,
+    "player_name": "Cauã Soares",
+    "team_name": "Unknown",
+    "liga": "Mineiro",
+    "birth_year": 2008,
+    "date_of_birth": "30/06/2008",
+    "rating_promedio": 6.5,
+    "partidos_total": 1
+  },
+  {
+    "player_id": 1589436,
+    "player_name": "Pedro Henrique",
+    "team_name": "Unknown",
+    "liga": "Mineiro",
+    "birth_year": 2003,
+    "date_of_birth": "09/12/2003",
+    "rating_promedio": 6.7,
+    "partidos_total": 8
+  },
+  {
+    "player_id": 1129113,
+    "player_name": "Vitinho",
+    "team_name": "Unknown",
+    "liga": "Mineiro",
+    "birth_year": 2004,
+    "date_of_birth": "11/11/2004",
+    "rating_promedio": 6.516666666666667,
+    "partidos_total": 6
+  },
+  {
+    "player_id": 2040730,
+    "player_name": "Cauã Marangoni dos Santos",
+    "team_name": "Unknown",
+    "liga": "Mineiro",
+    "birth_year": 2004,
+    "date_of_birth": "14/07/2004",
+    "rating_promedio": 6.5200000000000005,
+    "partidos_total": 5
+  },
+  {
+    "player_id": 1201949,
+    "player_name": "Felipe Amaral",
+    "team_name": "Unknown",
+    "liga": "Mineiro",
+    "birth_year": 2003,
+    "date_of_birth": "08/07/2003",
+    "rating_promedio": 6.9799999999999995,
+    "partidos_total": 10
+  },
+  {
+    "player_id": 1485488,
+    "player_name": "Yago Souza",
+    "team_name": "Unknown",
+    "liga": "Mineiro",
+    "birth_year": 2006,
+    "date_of_birth": "11/02/2006",
+    "rating_promedio": 6.7555555555555555,
+    "partidos_total": 9
+  },
+  {
+    "player_id": 1589390,
+    "player_name": "Thauan Willians",
+    "team_name": "Unknown",
+    "liga": "Mineiro",
+    "birth_year": 2004,
+    "date_of_birth": "17/04/2004",
+    "rating_promedio": 6.844444444444445,
+    "partidos_total": 9
+  },
+  {
+    "player_id": 1125086,
+    "player_name": "Yago Santos",
+    "team_name": "Unknown",
+    "liga": "Mineiro",
+    "birth_year": 2003,
+    "date_of_birth": "03/04/2003",
+    "rating_promedio": 6.8,
+    "partidos_total": 3
+  },
+  {
+    "player_id": 1485496,
+    "player_name": "Paulinho",
+    "team_name": "Unknown",
+    "liga": "Mineiro",
+    "birth_year": 2004,
+    "date_of_birth": "29/06/2004",
+    "rating_promedio": 6.822222222222222,
+    "partidos_total": 9
+  },
+  {
+    "player_id": 1485499,
+    "player_name": "Rafael Barcelos",
+    "team_name": "Unknown",
+    "liga": "Mineiro",
+    "birth_year": 2005,
+    "date_of_birth": "25/01/2005",
+    "rating_promedio": 7.3500000000000005,
+    "partidos_total": 6
+  },
+  {
+    "player_id": 1485503,
+    "player_name": "Samuel",
+    "team_name": "Unknown",
+    "liga": "Mineiro",
+    "birth_year": 2004,
+    "date_of_birth": "09/01/2004",
+    "rating_promedio": 6.3,
+    "partidos_total": 1
+  },
+  {
+    "player_id": 2026354,
+    "player_name": "Otávio Gonçalves",
+    "team_name": "Unknown",
+    "liga": "Mineiro",
+    "birth_year": 2006,
+    "date_of_birth": "22/03/2006",
+    "rating_promedio": 6.5,
+    "partidos_total": 1
+  },
+  {
+    "player_id": 1860952,
+    "player_name": "Jhonatan Lima",
+    "team_name": "Unknown",
+    "liga": "Mineiro",
+    "birth_year": 2005,
+    "date_of_birth": "02/06/2005",
+    "rating_promedio": 6.65,
+    "partidos_total": 4
+  },
+  {
+    "player_id": 1589311,
+    "player_name": "Felipe Vieira",
+    "team_name": "Unknown",
+    "liga": "Mineiro",
+    "birth_year": 2005,
+    "date_of_birth": "09/02/2005",
+    "rating_promedio": 7.15,
+    "partidos_total": 2
+  },
+  {
+    "player_id": 1650031,
+    "player_name": "Kauan Lindes",
+    "team_name": "Unknown",
+    "liga": "Mineiro",
+    "birth_year": 2003,
+    "date_of_birth": "28/11/2003",
+    "rating_promedio": 6.725,
+    "partidos_total": 8
+  },
+  {
+    "player_id": 1099301,
+    "player_name": "Gian Cabezas",
+    "team_name": "Unknown",
+    "liga": "Mineiro",
+    "birth_year": 2003,
+    "date_of_birth": "01/01/2003",
+    "rating_promedio": 6.6000000000000005,
+    "partidos_total": 6
+  },
+  {
+    "player_id": 2033906,
+    "player_name": "Cauã Medeiros Araujo",
+    "team_name": "Unknown",
+    "liga": "Mineiro",
+    "birth_year": 2004,
+    "date_of_birth": "20/10/2004",
+    "rating_promedio": 6.7,
+    "partidos_total": 1
+  },
+  {
+    "player_id": 2441017,
+    "player_name": "Gabriel Carioca",
+    "team_name": "Unknown",
+    "liga": "Mineiro",
+    "birth_year": 2006,
+    "date_of_birth": "05/06/2006",
+    "rating_promedio": 6.6000000000000005,
+    "partidos_total": 6
+  },
+  {
+    "player_id": 1485471,
+    "player_name": "Eduardo Freire",
+    "team_name": "Unknown",
+    "liga": "Mineiro",
+    "birth_year": 2004,
+    "date_of_birth": "25/05/2004",
+    "rating_promedio": 6.733333333333333,
+    "partidos_total": 3
+  },
+  {
+    "player_id": 1650015,
+    "player_name": "Marcos",
+    "team_name": "Unknown",
+    "liga": "Mineiro",
+    "birth_year": 2006,
+    "date_of_birth": "04/06/2006",
+    "rating_promedio": 6.62,
+    "partidos_total": 5
+  },
+  {
+    "player_id": 2440291,
+    "player_name": "Pedrinho",
+    "team_name": "Unknown",
+    "liga": "Mineiro",
+    "birth_year": 2003,
+    "date_of_birth": "07/01/2003",
+    "rating_promedio": 6.3,
+    "partidos_total": 1
+  },
+  {
+    "player_id": 1640669,
+    "player_name": "Deividi Oliveira da Silva",
+    "team_name": "Unknown",
+    "liga": "Mineiro",
+    "birth_year": 2004,
+    "date_of_birth": "24/06/2004",
+    "rating_promedio": 6.533333333333334,
+    "partidos_total": 3
+  },
+  {
+    "player_id": 2221654,
+    "player_name": "Guilherme Buscarioli",
+    "team_name": "Unknown",
+    "liga": "Mineiro",
+    "birth_year": 2006,
+    "date_of_birth": "30/01/2006",
+    "rating_promedio": 6.44,
+    "partidos_total": 5
+  },
+  {
+    "player_id": 1485225,
+    "player_name": "Jhonatan Kauan",
+    "team_name": "Unknown",
+    "liga": "Mineiro",
+    "birth_year": 2004,
+    "date_of_birth": "23/08/2004",
+    "rating_promedio": 6.642857142857143,
+    "partidos_total": 7
+  },
+  {
+    "player_id": 1482431,
+    "player_name": "Keny Arroyo",
+    "team_name": "Unknown",
+    "liga": "Mineiro",
+    "birth_year": 2006,
+    "date_of_birth": "14/02/2006",
+    "rating_promedio": 6.95,
+    "partidos_total": 8
+  },
+  {
+    "player_id": 1590246,
+    "player_name": "Caick",
+    "team_name": "Unknown",
+    "liga": "Mineiro",
+    "birth_year": 2005,
+    "date_of_birth": "29/12/2005",
+    "rating_promedio": 6.4,
+    "partidos_total": 1
+  },
+  {
+    "player_id": 1112484,
+    "player_name": "Kaiki",
+    "team_name": "Unknown",
+    "liga": "Mineiro",
+    "birth_year": 2003,
+    "date_of_birth": "08/03/2003",
+    "rating_promedio": 6.65,
+    "partidos_total": 8
+  },
+  {
+    "player_id": 1185617,
+    "player_name": "Alexsander",
+    "team_name": "Unknown",
+    "liga": "Mineiro",
+    "birth_year": 2003,
+    "date_of_birth": "08/10/2003",
+    "rating_promedio": 6.4,
+    "partidos_total": 2
+  },
+  {
+    "player_id": 1122552,
+    "player_name": "Alan Minda",
+    "team_name": "Unknown",
+    "liga": "Mineiro",
+    "birth_year": 2003,
+    "date_of_birth": "14/05/2003",
+    "rating_promedio": 6.5,
+    "partidos_total": 4
+  },
+  {
+    "player_id": 1643162,
+    "player_name": "João Vitor Führ",
+    "team_name": "Unknown",
+    "liga": "Mineiro",
+    "birth_year": 2005,
+    "date_of_birth": "23/08/2005",
+    "rating_promedio": 6.5,
+    "partidos_total": 3
+  },
+  {
+    "player_id": 1587938,
+    "player_name": "Mateus Peloggia",
+    "team_name": "Unknown",
+    "liga": "Mineiro",
+    "birth_year": 2003,
+    "date_of_birth": "19/05/2003",
+    "rating_promedio": 6.711111111111111,
+    "partidos_total": 9
+  },
+  {
+    "player_id": 1046496,
+    "player_name": "Ian Luccas",
+    "team_name": "Unknown",
+    "liga": "Mineiro",
+    "birth_year": 2003,
+    "date_of_birth": "11/02/2003",
+    "rating_promedio": 6.840000000000001,
+    "partidos_total": 5
+  },
+  {
+    "player_id": 1197424,
+    "player_name": "Dixon Vera",
+    "team_name": "Unknown",
+    "liga": "Mineiro",
+    "birth_year": 2003,
+    "date_of_birth": "06/04/2003",
+    "rating_promedio": 6.859999999999999,
+    "partidos_total": 5
+  },
+  {
+    "player_id": 2448026,
+    "player_name": "Nathan",
+    "team_name": "Unknown",
+    "liga": "Mineiro",
+    "birth_year": 2005,
+    "date_of_birth": "05/08/2005",
+    "rating_promedio": 6.5,
+    "partidos_total": 3
+  },
+  {
+    "player_id": 1807776,
+    "player_name": "Yarlen",
+    "team_name": "Unknown",
+    "liga": "Mineiro",
+    "birth_year": 2006,
+    "date_of_birth": "20/02/2006",
+    "rating_promedio": 6.633333333333333,
+    "partidos_total": 6
+  },
+  {
+    "player_id": 988622,
+    "player_name": "Matías Segovia",
+    "team_name": "Unknown",
+    "liga": "Mineiro",
+    "birth_year": 2003,
+    "date_of_birth": "04/01/2003",
+    "rating_promedio": 6.85,
+    "partidos_total": 4
+  },
+  {
+    "player_id": 1170954,
+    "player_name": "Victor Hugo",
+    "team_name": "Unknown",
+    "liga": "Mineiro",
+    "birth_year": 2004,
+    "date_of_birth": "11/05/2004",
+    "rating_promedio": 6.9375,
+    "partidos_total": 8
+  },
+  {
+    "player_id": 1539599,
+    "player_name": "Néiser Villarreal",
+    "team_name": "Unknown",
+    "liga": "Mineiro",
+    "birth_year": 2005,
+    "date_of_birth": "24/04/2005",
+    "rating_promedio": 6.65,
+    "partidos_total": 4
+  },
+  {
+    "player_id": 2440197,
+    "player_name": "Arthur Longatto",
+    "team_name": "Unknown",
+    "liga": "Mineiro",
+    "birth_year": 2005,
+    "date_of_birth": "31/05/2005",
+    "rating_promedio": 6.9,
+    "partidos_total": 1
+  },
+  {
+    "player_id": 1411160,
+    "player_name": "Thomás Agustin Fretes",
+    "team_name": "Unknown",
+    "liga": "Mineiro",
+    "birth_year": 2004,
+    "date_of_birth": "16/03/2004",
+    "rating_promedio": 6.2,
+    "partidos_total": 1
+  },
+  {
+    "player_id": 2456434,
+    "player_name": "Ryan",
+    "team_name": "Unknown",
+    "liga": "Mineiro",
+    "birth_year": 2003,
+    "date_of_birth": "21/06/2003",
+    "rating_promedio": 6.4,
+    "partidos_total": 2
+  },
+  {
+    "player_id": 1464929,
+    "player_name": "Iván Román",
+    "team_name": "Unknown",
+    "liga": "Mineiro",
+    "birth_year": 2006,
+    "date_of_birth": "12/07/2006",
+    "rating_promedio": 6.6,
+    "partidos_total": 1
+  },
+  {
+    "player_id": 1516708,
+    "player_name": "Kauan Rodrigues",
+    "team_name": "Unknown",
+    "liga": "Mineiro",
+    "birth_year": 2005,
+    "date_of_birth": "16/04/2005",
+    "rating_promedio": 6.333333333333333,
+    "partidos_total": 3
+  },
+  {
+    "player_id": 2442922,
+    "player_name": "João Valença",
+    "team_name": "Unknown",
+    "liga": "Carioca",
+    "birth_year": 2006,
+    "date_of_birth": "26/04/2006",
+    "rating_promedio": 6.35,
+    "partidos_total": 2
+  },
+  {
+    "player_id": 1860520,
+    "player_name": "Kauã Ubá",
+    "team_name": "Unknown",
+    "liga": "Carioca",
+    "birth_year": 2005,
+    "date_of_birth": "23/12/2005",
+    "rating_promedio": 6.633333333333333,
+    "partidos_total": 3
+  },
+  {
+    "player_id": 1516543,
+    "player_name": "Igor França",
+    "team_name": "Unknown",
+    "liga": "Carioca",
+    "birth_year": 2003,
+    "date_of_birth": "14/08/2003",
+    "rating_promedio": 6.8999999999999995,
+    "partidos_total": 3
+  },
+  {
+    "player_id": 1189442,
+    "player_name": "Emanuel Jesus dos Santos",
+    "team_name": "Unknown",
+    "liga": "Carioca",
+    "birth_year": 2004,
+    "date_of_birth": "31/01/2004",
+    "rating_promedio": 7.06,
+    "partidos_total": 5
+  },
+  {
+    "player_id": 1587853,
+    "player_name": "Fellipinho",
+    "team_name": "Unknown",
+    "liga": "Carioca",
+    "birth_year": 2004,
+    "date_of_birth": "13/05/2004",
+    "rating_promedio": 6.825,
+    "partidos_total": 8
+  },
+  {
+    "player_id": 1589927,
+    "player_name": "Juan Batista Gonçalves Lemes",
+    "team_name": "Unknown",
+    "liga": "Carioca",
+    "birth_year": 2003,
+    "date_of_birth": "17/03/2003",
+    "rating_promedio": 6.5,
+    "partidos_total": 2
+  },
+  {
+    "player_id": 1856349,
+    "player_name": "Pedro Cantarin Carrijo",
+    "team_name": "Unknown",
+    "liga": "Carioca",
+    "birth_year": 2008,
+    "date_of_birth": "11/04/2008",
+    "rating_promedio": 6.7,
+    "partidos_total": 1
+  },
+  {
+    "player_id": 1805166,
+    "player_name": "Ryan Couto",
+    "team_name": "Unknown",
+    "liga": "Carioca",
+    "birth_year": 2005,
+    "date_of_birth": "03/03/2005",
+    "rating_promedio": 6.6000000000000005,
+    "partidos_total": 7
+  },
+  {
+    "player_id": 1561524,
+    "player_name": "Júlio Fidelis",
+    "team_name": "Unknown",
+    "liga": "Carioca",
+    "birth_year": 2006,
+    "date_of_birth": "06/11/2006",
+    "rating_promedio": 5.9,
+    "partidos_total": 2
+  },
+  {
+    "player_id": 1884803,
+    "player_name": "Riquelme Felipe",
+    "team_name": "Unknown",
+    "liga": "Carioca",
+    "birth_year": 2007,
+    "date_of_birth": "13/03/2007",
+    "rating_promedio": 6.85,
+    "partidos_total": 2
+  },
+  {
+    "player_id": 1884816,
+    "player_name": "Wallace Davi",
+    "team_name": "Unknown",
+    "liga": "Carioca",
+    "birth_year": 2007,
+    "date_of_birth": "10/05/2007",
+    "rating_promedio": 6.35,
+    "partidos_total": 2
+  },
+  {
+    "player_id": 1393308,
+    "player_name": "Rubén Lezcano",
+    "team_name": "Unknown",
+    "liga": "Carioca",
+    "birth_year": 2004,
+    "date_of_birth": "09/02/2004",
+    "rating_promedio": 6.75,
+    "partidos_total": 2
+  },
+  {
+    "player_id": 2057300,
+    "player_name": "Agner",
+    "team_name": "Unknown",
+    "liga": "Carioca",
+    "birth_year": 2005,
+    "date_of_birth": "22/03/2005",
+    "rating_promedio": 7.300000000000001,
+    "partidos_total": 2
+  },
+  {
+    "player_id": 1483339,
+    "player_name": "Matheus Reis",
+    "team_name": "Unknown",
+    "liga": "Carioca",
+    "birth_year": 2007,
+    "date_of_birth": "02/04/2007",
+    "rating_promedio": 6.675,
+    "partidos_total": 4
+  },
+  {
+    "player_id": 1631686,
+    "player_name": "Léo Jance",
+    "team_name": "Unknown",
+    "liga": "Carioca",
+    "birth_year": 2005,
+    "date_of_birth": "23/03/2005",
+    "rating_promedio": 6.55,
+    "partidos_total": 2
+  },
+  {
+    "player_id": 1485285,
+    "player_name": "Luis Fernando",
+    "team_name": "Unknown",
+    "liga": "Carioca",
+    "birth_year": 2005,
+    "date_of_birth": "18/02/2005",
+    "rating_promedio": 6.6,
+    "partidos_total": 1
+  },
+  {
+    "player_id": 1631679,
+    "player_name": "Davi Duarte",
+    "team_name": "Unknown",
+    "liga": "Carioca",
+    "birth_year": 2004,
+    "date_of_birth": "26/04/2004",
+    "rating_promedio": 6.7,
+    "partidos_total": 1
+  },
+  {
+    "player_id": 1631680,
+    "player_name": "Davi Melo Nagel",
+    "team_name": "Unknown",
+    "liga": "Carioca",
+    "birth_year": 2005,
+    "date_of_birth": "20/11/2005",
+    "rating_promedio": 6.5,
+    "partidos_total": 1
+  },
+  {
+    "player_id": 2082072,
+    "player_name": "Wesley Natã",
+    "team_name": "Unknown",
+    "liga": "Carioca",
+    "birth_year": 2008,
+    "date_of_birth": "18/04/2008",
+    "rating_promedio": 6.6,
+    "partidos_total": 1
+  },
+  {
+    "player_id": 1633967,
+    "player_name": "Jean Vianna de Matos",
+    "team_name": "Unknown",
+    "liga": "Carioca",
+    "birth_year": 2004,
+    "date_of_birth": "30/03/2004",
+    "rating_promedio": 6.5,
+    "partidos_total": 9
+  },
+  {
+    "player_id": 1463563,
+    "player_name": "Matheus Julião",
+    "team_name": "Unknown",
+    "liga": "Carioca",
+    "birth_year": 2003,
+    "date_of_birth": "10/04/2003",
+    "rating_promedio": 6.644444444444444,
+    "partidos_total": 9
+  },
+  {
+    "player_id": 1589937,
+    "player_name": "Wallace Camilo",
+    "team_name": "Unknown",
+    "liga": "Carioca",
+    "birth_year": 2004,
+    "date_of_birth": "26/07/2004",
+    "rating_promedio": 6.528571428571429,
+    "partidos_total": 7
+  },
+  {
+    "player_id": 1148453,
+    "player_name": "Filipe Claudino",
+    "team_name": "Unknown",
+    "liga": "Carioca",
+    "birth_year": 2003,
+    "date_of_birth": "12/10/2003",
+    "rating_promedio": 6.76,
+    "partidos_total": 5
+  },
+  {
+    "player_id": 1799269,
+    "player_name": "Cauã Coutinho",
+    "team_name": "Unknown",
+    "liga": "Carioca",
+    "birth_year": 2004,
+    "date_of_birth": "01/01/2004",
+    "rating_promedio": 6.1499999999999995,
+    "partidos_total": 6
+  },
+  {
+    "player_id": 1609794,
+    "player_name": "Ricardo de Sousa Oliveira",
+    "team_name": "Unknown",
+    "liga": "Carioca",
+    "birth_year": 2003,
+    "date_of_birth": "01/02/2003",
+    "rating_promedio": 6.6,
+    "partidos_total": 2
+  },
+  {
+    "player_id": 1587824,
+    "player_name": "Fubá",
+    "team_name": "Unknown",
+    "liga": "Carioca",
+    "birth_year": 2003,
+    "date_of_birth": "07/03/2003",
+    "rating_promedio": 6.428571428571429,
+    "partidos_total": 7
+  },
+  {
+    "player_id": 1633973,
+    "player_name": "Isaias Pereira da Silva",
+    "team_name": "Unknown",
+    "liga": "Carioca",
+    "birth_year": 2004,
+    "date_of_birth": "30/10/2004",
+    "rating_promedio": 6.6,
+    "partidos_total": 1
+  },
+  {
+    "player_id": 1459629,
+    "player_name": "Ítalo Isaac",
+    "team_name": "Unknown",
+    "liga": "Carioca",
+    "birth_year": 2004,
+    "date_of_birth": "20/02/2004",
+    "rating_promedio": 6.466666666666666,
+    "partidos_total": 3
+  },
+  {
+    "player_id": 1589933,
+    "player_name": "Welington Zarú",
+    "team_name": "Unknown",
+    "liga": "Carioca",
+    "birth_year": 2004,
+    "date_of_birth": "18/09/2004",
+    "rating_promedio": 6.3,
+    "partidos_total": 1
+  },
+  {
+    "player_id": 1883341,
+    "player_name": "Leonardo Nannetti",
+    "team_name": "Unknown",
+    "liga": "Carioca",
+    "birth_year": 2007,
+    "date_of_birth": "20/08/2007",
+    "rating_promedio": 6.5,
+    "partidos_total": 3
+  },
+  {
+    "player_id": 1459762,
+    "player_name": "Daniel Sales",
+    "team_name": "Unknown",
+    "liga": "Carioca",
+    "birth_year": 2006,
+    "date_of_birth": "23/06/2006",
+    "rating_promedio": 6.475,
+    "partidos_total": 4
+  },
+  {
+    "player_id": 1602833,
+    "player_name": "João Victor",
+    "team_name": "Unknown",
+    "liga": "Carioca",
+    "birth_year": 2007,
+    "date_of_birth": "02/01/2007",
+    "rating_promedio": 6.366666666666667,
+    "partidos_total": 3
+  },
+  {
+    "player_id": 1647585,
+    "player_name": "Iago Silva",
+    "team_name": "Unknown",
+    "liga": "Carioca",
+    "birth_year": 2005,
+    "date_of_birth": "18/04/2005",
+    "rating_promedio": 7.633333333333333,
+    "partidos_total": 3
+  },
+  {
+    "player_id": 1883339,
+    "player_name": "Johnny Monteiro",
+    "team_name": "Unknown",
+    "liga": "Carioca",
+    "birth_year": 2007,
+    "date_of_birth": "27/03/2007",
+    "rating_promedio": 6.199999999999999,
+    "partidos_total": 2
+  },
+  {
+    "player_id": 2031651,
+    "player_name": "Pablo Lucio",
+    "team_name": "Unknown",
+    "liga": "Carioca",
+    "birth_year": 2007,
+    "date_of_birth": "01/04/2007",
+    "rating_promedio": 6.666666666666667,
+    "partidos_total": 3
+  },
+  {
+    "player_id": 1883344,
+    "player_name": "Lucas Vieira dos Santos",
+    "team_name": "Unknown",
+    "liga": "Carioca",
+    "birth_year": 2007,
+    "date_of_birth": "08/03/2007",
+    "rating_promedio": 6.466666666666666,
+    "partidos_total": 3
+  },
+  {
+    "player_id": 1883297,
+    "player_name": "Douglas Costa Telles",
+    "team_name": "Unknown",
+    "liga": "Carioca",
+    "birth_year": 2007,
+    "date_of_birth": "01/06/2007",
+    "rating_promedio": 6.675,
+    "partidos_total": 4
+  },
+  {
+    "player_id": 1645868,
+    "player_name": "Guilherme Gomes",
+    "team_name": "Unknown",
+    "liga": "Carioca",
+    "birth_year": 2006,
+    "date_of_birth": "02/02/2006",
+    "rating_promedio": 7.1000000000000005,
+    "partidos_total": 3
+  },
+  {
+    "player_id": 1883287,
+    "player_name": "Caio Joshua",
+    "team_name": "Unknown",
+    "liga": "Carioca",
+    "birth_year": 2007,
+    "date_of_birth": "25/05/2007",
+    "rating_promedio": 6.766666666666667,
+    "partidos_total": 3
+  },
+  {
+    "player_id": 1466084,
+    "player_name": "Wallace Yan",
+    "team_name": "Unknown",
+    "liga": "Carioca",
+    "birth_year": 2005,
+    "date_of_birth": "08/02/2005",
+    "rating_promedio": 7.166666666666667,
+    "partidos_total": 3
+  },
+  {
+    "player_id": 1917863,
+    "player_name": "Gusttavo Sousa",
+    "team_name": "Unknown",
+    "liga": "Carioca",
+    "birth_year": 2006,
+    "date_of_birth": "10/01/2006",
+    "rating_promedio": 5.95,
+    "partidos_total": 2
+  },
+  {
+    "player_id": 1883272,
+    "player_name": "Alan da Silva Santos",
+    "team_name": "Unknown",
+    "liga": "Carioca",
+    "birth_year": 2007,
+    "date_of_birth": "10/05/2007",
+    "rating_promedio": 6.566666666666666,
+    "partidos_total": 3
+  },
+  {
+    "player_id": 1883363,
+    "player_name": "Ryan Roberto",
+    "team_name": "Unknown",
+    "liga": "Carioca",
+    "birth_year": 2008,
+    "date_of_birth": "05/03/2008",
+    "rating_promedio": 6.35,
+    "partidos_total": 2
+  },
+  {
+    "player_id": 1883366,
+    "player_name": "Wanderson Junior de Souza",
+    "team_name": "Unknown",
+    "liga": "Carioca",
+    "birth_year": 2007,
+    "date_of_birth": "17/10/2007",
+    "rating_promedio": 6.7,
+    "partidos_total": 1
+  },
+  {
+    "player_id": 1883336,
+    "player_name": "João Paulo Camargo",
+    "team_name": "Unknown",
+    "liga": "Carioca",
+    "birth_year": 2007,
+    "date_of_birth": "12/04/2007",
+    "rating_promedio": 6.6,
+    "partidos_total": 1
+  },
+  {
+    "player_id": 1640597,
+    "player_name": "Carbone",
+    "team_name": "Unknown",
+    "liga": "Carioca",
+    "birth_year": 2005,
+    "date_of_birth": "29/01/2005",
+    "rating_promedio": 3.0,
+    "partidos_total": 1
+  },
+  {
+    "player_id": 2440990,
+    "player_name": "Kaio Nóbrega",
+    "team_name": "Unknown",
+    "liga": "Carioca",
+    "birth_year": 2007,
+    "date_of_birth": "05/04/2007",
+    "rating_promedio": 6.65,
+    "partidos_total": 2
+  },
+  {
+    "player_id": 1883293,
+    "player_name": "David Viana de Oliveira",
+    "team_name": "Unknown",
+    "liga": "Carioca",
+    "birth_year": 2007,
+    "date_of_birth": "18/05/2007",
+    "rating_promedio": 6.3,
+    "partidos_total": 2
+  },
+  {
+    "player_id": 1589672,
+    "player_name": "Daniel Nunes",
+    "team_name": "Unknown",
+    "liga": "Carioca",
+    "birth_year": 2003,
+    "date_of_birth": "24/05/2003",
+    "rating_promedio": 6.7250000000000005,
+    "partidos_total": 12
+  },
+  {
+    "player_id": 1539987,
+    "player_name": "Ryan Andrade",
+    "team_name": "Unknown",
+    "liga": "Carioca",
+    "birth_year": 2004,
+    "date_of_birth": "13/05/2004",
+    "rating_promedio": 6.25,
+    "partidos_total": 4
+  },
+  {
+    "player_id": 1589677,
+    "player_name": "João Pedro Martini",
+    "team_name": "Unknown",
+    "liga": "Carioca",
+    "birth_year": 2004,
+    "date_of_birth": "03/06/2004",
+    "rating_promedio": 6.525,
+    "partidos_total": 8
+  },
+  {
+    "player_id": 1499920,
+    "player_name": "Lucas Cruz",
+    "team_name": "Unknown",
+    "liga": "Carioca",
+    "birth_year": 2004,
+    "date_of_birth": "16/05/2004",
+    "rating_promedio": 6.816666666666666,
+    "partidos_total": 12
+  },
+  {
+    "player_id": 1462121,
+    "player_name": "Leonardo David",
+    "team_name": "Unknown",
+    "liga": "Carioca",
+    "birth_year": 2003,
+    "date_of_birth": "26/05/2003",
+    "rating_promedio": 6.566666666666666,
+    "partidos_total": 6
+  },
+  {
+    "player_id": 1930193,
+    "player_name": "Zé Gabriel",
+    "team_name": "Unknown",
+    "liga": "Carioca",
+    "birth_year": 2003,
+    "date_of_birth": "17/02/2003",
+    "rating_promedio": 6.471428571428572,
+    "partidos_total": 7
+  },
+  {
+    "player_id": 1633536,
+    "player_name": "Pedro Silva",
+    "team_name": "Unknown",
+    "liga": "Carioca",
+    "birth_year": 2004,
+    "date_of_birth": "20/07/2004",
+    "rating_promedio": 6.3,
+    "partidos_total": 1
+  },
+  {
+    "player_id": 1589993,
+    "player_name": "Iago de Lacerda dos Santos",
+    "team_name": "Unknown",
+    "liga": "Carioca",
+    "birth_year": 2006,
+    "date_of_birth": "11/06/2006",
+    "rating_promedio": 6.5,
+    "partidos_total": 1
+  },
+  {
+    "player_id": 1587854,
+    "player_name": "Alex Moretti",
+    "team_name": "Unknown",
+    "liga": "Carioca",
+    "birth_year": 2003,
+    "date_of_birth": "25/09/2003",
+    "rating_promedio": 6.35,
+    "partidos_total": 4
+  },
+  {
+    "player_id": 1843325,
+    "player_name": "Kadu Santos",
+    "team_name": "Unknown",
+    "liga": "Carioca",
+    "birth_year": 2005,
+    "date_of_birth": "16/08/2005",
+    "rating_promedio": 6.916666666666667,
+    "partidos_total": 6
+  },
+  {
+    "player_id": 1828978,
+    "player_name": "Danillo",
+    "team_name": "Unknown",
+    "liga": "Carioca",
+    "birth_year": 2007,
+    "date_of_birth": "22/01/2007",
+    "rating_promedio": 6.550000000000001,
+    "partidos_total": 2
+  },
+  {
+    "player_id": 1631268,
+    "player_name": "Gabriel Justino",
+    "team_name": "Unknown",
+    "liga": "Carioca",
+    "birth_year": 2006,
+    "date_of_birth": "16/04/2006",
+    "rating_promedio": 7.0,
+    "partidos_total": 6
+  },
+  {
+    "player_id": 2084595,
+    "player_name": "Gabriel Abdias",
+    "team_name": "Unknown",
+    "liga": "Carioca",
+    "birth_year": 2006,
+    "date_of_birth": "19/06/2006",
+    "rating_promedio": 6.62,
+    "partidos_total": 5
+  },
+  {
+    "player_id": 2185481,
+    "player_name": "Marquinhos",
+    "team_name": "Unknown",
+    "liga": "Carioca",
+    "birth_year": 2007,
+    "date_of_birth": "15/02/2007",
+    "rating_promedio": 6.0,
+    "partidos_total": 4
+  },
+  {
+    "player_id": 1609919,
+    "player_name": "Bernardo Valim",
+    "team_name": "Unknown",
+    "liga": "Carioca",
+    "birth_year": 2006,
+    "date_of_birth": "30/01/2006",
+    "rating_promedio": 6.85,
+    "partidos_total": 2
+  },
+  {
+    "player_id": 1828961,
+    "player_name": "Felipe de Souza Januário",
+    "team_name": "Unknown",
+    "liga": "Carioca",
+    "birth_year": 2007,
+    "date_of_birth": "03/05/2007",
+    "rating_promedio": 6.4,
+    "partidos_total": 2
+  },
+  {
+    "player_id": 2028289,
+    "player_name": "Caio Valle",
+    "team_name": "Unknown",
+    "liga": "Carioca",
+    "birth_year": 2007,
+    "date_of_birth": "11/10/2007",
+    "rating_promedio": 6.766666666666667,
+    "partidos_total": 6
+  },
+  {
+    "player_id": 1587971,
+    "player_name": "Kauan Toledo",
+    "team_name": "Unknown",
+    "liga": "Carioca",
+    "birth_year": 2006,
+    "date_of_birth": "15/04/2006",
+    "rating_promedio": 6.7,
+    "partidos_total": 4
+  },
+  {
+    "player_id": 2428433,
+    "player_name": "Arthur Izaque",
+    "team_name": "Unknown",
+    "liga": "Carioca",
+    "birth_year": 2007,
+    "date_of_birth": "29/06/2007",
+    "rating_promedio": 6.283333333333334,
+    "partidos_total": 6
+  },
+  {
+    "player_id": 1899902,
+    "player_name": "Jordan Barrera",
+    "team_name": "Unknown",
+    "liga": "Carioca",
+    "birth_year": 2006,
+    "date_of_birth": "11/04/2006",
+    "rating_promedio": 6.714285714285714,
+    "partidos_total": 7
+  },
+  {
+    "player_id": 1106779,
+    "player_name": "Matheus Martins",
+    "team_name": "Unknown",
+    "liga": "Carioca",
+    "birth_year": 2003,
+    "date_of_birth": "16/07/2003",
+    "rating_promedio": 6.766666666666667,
+    "partidos_total": 6
+  },
+  {
+    "player_id": 1099163,
+    "player_name": "Mateo Ponte",
+    "team_name": "Unknown",
+    "liga": "Carioca",
+    "birth_year": 2003,
+    "date_of_birth": "24/05/2003",
+    "rating_promedio": 6.640000000000001,
+    "partidos_total": 5
+  },
+  {
+    "player_id": 1482356,
+    "player_name": "Lucas Camilo",
+    "team_name": "Unknown",
+    "liga": "Carioca",
+    "birth_year": 2006,
+    "date_of_birth": "25/05/2006",
+    "rating_promedio": 7.2,
+    "partidos_total": 2
+  },
+  {
+    "player_id": 1857062,
+    "player_name": "Rogerinho",
+    "team_name": "Unknown",
+    "liga": "Carioca",
+    "birth_year": 2008,
+    "date_of_birth": "11/04/2008",
+    "rating_promedio": 5.2,
+    "partidos_total": 1
+  },
+  {
+    "player_id": 1191278,
+    "player_name": "Robert Renan",
+    "team_name": "Unknown",
+    "liga": "Carioca",
+    "birth_year": 2003,
+    "date_of_birth": "11/10/2003",
+    "rating_promedio": 7.075,
+    "partidos_total": 8
+  },
+  {
+    "player_id": 1444694,
+    "player_name": "Cauan Barros",
+    "team_name": "Unknown",
+    "liga": "Carioca",
+    "birth_year": 2004,
+    "date_of_birth": "06/05/2004",
+    "rating_promedio": 6.928571428571429,
+    "partidos_total": 7
+  },
+  {
+    "player_id": 1634144,
+    "player_name": "Guilherme Estrella",
+    "team_name": "Unknown",
+    "liga": "Carioca",
+    "birth_year": 2005,
+    "date_of_birth": "22/04/2005",
+    "rating_promedio": 6.3,
+    "partidos_total": 1
+  },
+  {
+    "player_id": 1641124,
+    "player_name": "JP",
+    "team_name": "Unknown",
+    "liga": "Carioca",
+    "birth_year": 2005,
+    "date_of_birth": "19/04/2005",
+    "rating_promedio": 6.666666666666667,
+    "partidos_total": 3
+  },
+  {
+    "player_id": 2443995,
+    "player_name": "Bernardo",
+    "team_name": "Unknown",
+    "liga": "Carioca",
+    "birth_year": 2004,
+    "date_of_birth": "09/10/2004",
+    "rating_promedio": 6.4799999999999995,
+    "partidos_total": 5
+  },
+  {
+    "player_id": 2044330,
+    "player_name": "Iago",
+    "team_name": "Unknown",
+    "liga": "Carioca",
+    "birth_year": 2006,
+    "date_of_birth": "11/06/2006",
+    "rating_promedio": 6.614285714285714,
+    "partidos_total": 7
+  },
+  {
+    "player_id": 2025395,
+    "player_name": "Daniel Zavoli",
+    "team_name": "Unknown",
+    "liga": "Carioca",
+    "birth_year": 2006,
+    "date_of_birth": "12/01/2006",
+    "rating_promedio": 6.65,
+    "partidos_total": 2
+  },
+  {
+    "player_id": 1485725,
+    "player_name": "Alexandre Balbino",
+    "team_name": "Unknown",
+    "liga": "Carioca",
+    "birth_year": 2005,
+    "date_of_birth": "05/04/2005",
+    "rating_promedio": 6.533333333333334,
+    "partidos_total": 3
+  },
+  {
+    "player_id": 2053560,
+    "player_name": "Oliver",
+    "team_name": "Unknown",
+    "liga": "Carioca",
+    "birth_year": 2005,
+    "date_of_birth": "15/12/2005",
+    "rating_promedio": 6.544444444444444,
+    "partidos_total": 9
+  },
+  {
+    "player_id": 2447770,
+    "player_name": "Luan",
+    "team_name": "Unknown",
+    "liga": "Carioca",
+    "birth_year": 2007,
+    "date_of_birth": "13/07/2007",
+    "rating_promedio": 6.275,
+    "partidos_total": 4
+  },
+  {
+    "player_id": 1108462,
+    "player_name": "Marcelinho",
+    "team_name": "Unknown",
+    "liga": "Carioca",
+    "birth_year": 2003,
+    "date_of_birth": "15/02/2003",
+    "rating_promedio": 6.5,
+    "partidos_total": 5
+  },
+  {
+    "player_id": 2205965,
+    "player_name": "Alexis Quiñónes",
+    "team_name": "Unknown",
+    "liga": "Carioca",
+    "birth_year": 2004,
+    "date_of_birth": "08/08/2004",
+    "rating_promedio": 6.5,
+    "partidos_total": 1
+  },
+  {
+    "player_id": 2035892,
+    "player_name": "Cayke",
+    "team_name": "Unknown",
+    "liga": "Carioca",
+    "birth_year": 2005,
+    "date_of_birth": "13/09/2005",
+    "rating_promedio": 6.3,
+    "partidos_total": 1
+  },
+  {
+    "player_id": 1805161,
+    "player_name": "Gabriel de Azevedo",
+    "team_name": "Unknown",
+    "liga": "Carioca",
+    "birth_year": 2005,
+    "date_of_birth": "07/01/2005",
+    "rating_promedio": 6.2,
+    "partidos_total": 4
+  },
+  {
+    "player_id": 1116593,
+    "player_name": "Matheus França",
+    "team_name": "Unknown",
+    "liga": "Carioca",
+    "birth_year": 2004,
+    "date_of_birth": "01/04/2004",
+    "rating_promedio": 6.5,
+    "partidos_total": 1
+  },
+  {
+    "player_id": 1444693,
+    "player_name": "Gabriel Souza",
+    "team_name": "Unknown",
+    "liga": "Carioca",
+    "birth_year": 2005,
+    "date_of_birth": "05/01/2005",
+    "rating_promedio": 6.550000000000001,
+    "partidos_total": 4
+  },
+  {
+    "player_id": 2075165,
+    "player_name": "João Vitor Silva",
+    "team_name": "Unknown",
+    "liga": "Carioca",
+    "birth_year": 2005,
+    "date_of_birth": "29/05/2005",
+    "rating_promedio": 6.949999999999999,
+    "partidos_total": 2
+  },
+  {
+    "player_id": 1467876,
+    "player_name": "Hugo Iglesias",
+    "team_name": "Unknown",
+    "liga": "Carioca",
+    "birth_year": 2003,
+    "date_of_birth": "18/07/2003",
+    "rating_promedio": 6.65,
+    "partidos_total": 2
+  },
+  {
+    "player_id": 2050675,
+    "player_name": "João Pedro",
+    "team_name": "Unknown",
+    "liga": "Carioca",
+    "birth_year": 2004,
+    "date_of_birth": "04/02/2004",
+    "rating_promedio": 6.5,
+    "partidos_total": 3
+  },
+  {
+    "player_id": 2463605,
+    "player_name": "Cauã Mendes",
+    "team_name": "Unknown",
+    "liga": "Carioca",
+    "birth_year": 2006,
+    "date_of_birth": "26/10/2006",
+    "rating_promedio": 6.166666666666667,
+    "partidos_total": 3
+  },
+  {
+    "player_id": 1836778,
+    "player_name": "Kauan Guilherme",
+    "team_name": "Unknown",
+    "liga": "Carioca",
+    "birth_year": 2005,
+    "date_of_birth": "05/01/2005",
+    "rating_promedio": 6.671428571428572,
+    "partidos_total": 7
+  },
+  {
+    "player_id": 2036751,
+    "player_name": "Welington Zarú",
+    "team_name": "Unknown",
+    "liga": "Carioca",
+    "birth_year": 2004,
+    "date_of_birth": "18/10/2004",
+    "rating_promedio": 6.775,
+    "partidos_total": 4
+  },
+  {
+    "player_id": 1650770,
+    "player_name": "Álvaro Montoro",
+    "team_name": "Unknown",
+    "liga": "Carioca",
+    "birth_year": 2007,
+    "date_of_birth": "17/04/2007",
+    "rating_promedio": 7.140000000000001,
+    "partidos_total": 5
+  },
+  {
+    "player_id": 1494695,
+    "player_name": "Nathan Fernandes",
+    "team_name": "Unknown",
+    "liga": "Carioca",
+    "birth_year": 2005,
+    "date_of_birth": "16/02/2005",
+    "rating_promedio": 6.5875,
+    "partidos_total": 8
+  },
+  {
+    "player_id": 1145106,
+    "player_name": "Evertton Araujo",
+    "team_name": "Unknown",
+    "liga": "Carioca",
+    "birth_year": 2003,
+    "date_of_birth": "28/02/2003",
+    "rating_promedio": 6.916666666666667,
+    "partidos_total": 6
+  },
+  {
+    "player_id": 2442978,
+    "player_name": "Adriano",
+    "team_name": "Unknown",
+    "liga": "Carioca",
+    "birth_year": 2005,
+    "date_of_birth": "03/01/2005",
+    "rating_promedio": 6.475,
+    "partidos_total": 4
+  },
+  {
+    "player_id": 2030554,
+    "player_name": "Isaías Pereira",
+    "team_name": "Unknown",
+    "liga": "Carioca",
+    "birth_year": 2004,
+    "date_of_birth": "30/10/2004",
+    "rating_promedio": 6.659999999999999,
+    "partidos_total": 5
+  },
+  {
+    "player_id": 1177364,
+    "player_name": "Berê",
+    "team_name": "Unknown",
+    "liga": "Carioca",
+    "birth_year": 2003,
+    "date_of_birth": "17/03/2003",
+    "rating_promedio": 6.7375,
+    "partidos_total": 8
+  },
+  {
+    "player_id": 1177404,
+    "player_name": "Facundo Bernal",
+    "team_name": "Unknown",
+    "liga": "Carioca",
+    "birth_year": 2003,
+    "date_of_birth": "21/08/2003",
+    "rating_promedio": 6.725,
+    "partidos_total": 4
+  },
+  {
+    "player_id": 1173236,
+    "player_name": "Guilherme Kayron",
+    "team_name": "Unknown",
+    "liga": "Carioca",
+    "birth_year": 2003,
+    "date_of_birth": "14/01/2003",
+    "rating_promedio": 6.875,
+    "partidos_total": 4
+  },
+  {
+    "player_id": 1857051,
+    "player_name": "Arthur Novaes",
+    "team_name": "Unknown",
+    "liga": "Carioca",
+    "birth_year": 2008,
+    "date_of_birth": "16/09/2008",
+    "rating_promedio": 6.5,
+    "partidos_total": 5
+  },
+  {
+    "player_id": 1878736,
+    "player_name": "Diego Minete",
+    "team_name": "Unknown",
+    "liga": "Carioca",
+    "birth_year": 2009,
+    "date_of_birth": "26/01/2009",
+    "rating_promedio": 6.3,
+    "partidos_total": 1
+  },
+  {
+    "player_id": 2159969,
+    "player_name": "Michael Fashanu",
+    "team_name": "Unknown",
+    "liga": "Carioca",
+    "birth_year": 2005,
+    "date_of_birth": "07/07/2005",
+    "rating_promedio": 6.9,
+    "partidos_total": 2
+  },
+  {
+    "player_id": 2446053,
+    "player_name": "Vitinho",
+    "team_name": "Unknown",
+    "liga": "Carioca",
+    "birth_year": 2007,
+    "date_of_birth": "14/06/2007",
+    "rating_promedio": 6.933333333333334,
+    "partidos_total": 3
+  },
+  {
+    "player_id": 2282985,
+    "player_name": "Kadir Barría",
+    "team_name": "Unknown",
+    "liga": "Carioca",
+    "birth_year": 2007,
+    "date_of_birth": "18/07/2007",
+    "rating_promedio": 6.366666666666667,
+    "partidos_total": 3
+  },
+  {
+    "player_id": 2454208,
+    "player_name": "Paulo Henrique",
+    "team_name": "Unknown",
+    "liga": "Carioca",
+    "birth_year": 2004,
+    "date_of_birth": "22/10/2004",
+    "rating_promedio": 6.65,
+    "partidos_total": 2
+  },
+  {
+    "player_id": 1464653,
+    "player_name": "Abner",
+    "team_name": "Unknown",
+    "liga": "Gaúcho",
+    "birth_year": 2004,
+    "date_of_birth": "19/04/2004",
+    "rating_promedio": 6.833333333333333,
+    "partidos_total": 3
+  },
+  {
+    "player_id": 1170913,
+    "player_name": "Marcos Paulo",
+    "team_name": "Unknown",
+    "liga": "Gaúcho",
+    "birth_year": 2003,
+    "date_of_birth": "18/01/2003",
+    "rating_promedio": 6.914285714285714,
+    "partidos_total": 7
+  },
+  {
+    "player_id": 1485601,
+    "player_name": "Iba Ly",
+    "team_name": "Unknown",
+    "liga": "Gaúcho",
+    "birth_year": 2003,
+    "date_of_birth": "22/01/2003",
+    "rating_promedio": 6.666666666666667,
+    "partidos_total": 6
+  },
+  {
+    "player_id": 1002528,
+    "player_name": "Patryck",
+    "team_name": "Unknown",
+    "liga": "Gaúcho",
+    "birth_year": 2003,
+    "date_of_birth": "18/01/2003",
+    "rating_promedio": 7.214285714285714,
+    "partidos_total": 7
+  },
+  {
+    "player_id": 1631654,
+    "player_name": "Marlon Santos",
+    "team_name": "Unknown",
+    "liga": "Gaúcho",
+    "birth_year": 2005,
+    "date_of_birth": "11/01/2005",
+    "rating_promedio": 6.8,
+    "partidos_total": 1
+  },
+  {
+    "player_id": 1464967,
+    "player_name": "Ray",
+    "team_name": "Unknown",
+    "liga": "Gaúcho",
+    "birth_year": 2004,
+    "date_of_birth": "31/08/2004",
+    "rating_promedio": 6.8999999999999995,
+    "partidos_total": 3
+  },
+  {
+    "player_id": 2440187,
+    "player_name": "Pedro Lucas",
+    "team_name": "Unknown",
+    "liga": "Gaúcho",
+    "birth_year": 2003,
+    "date_of_birth": "05/05/2003",
+    "rating_promedio": 6.449999999999999,
+    "partidos_total": 2
+  },
+  {
+    "player_id": 2032021,
+    "player_name": "Zé Adilson",
+    "team_name": "Unknown",
+    "liga": "Gaúcho",
+    "birth_year": 2004,
+    "date_of_birth": "10/02/2004",
+    "rating_promedio": 6.42,
+    "partidos_total": 5
+  },
+  {
+    "player_id": 1175672,
+    "player_name": "Gabriel Werner",
+    "team_name": "Unknown",
+    "liga": "Gaúcho",
+    "birth_year": 2003,
+    "date_of_birth": "14/07/2003",
+    "rating_promedio": 6.5,
+    "partidos_total": 1
+  },
+  {
+    "player_id": 1652398,
+    "player_name": "Dudu",
+    "team_name": "Unknown",
+    "liga": "Gaúcho",
+    "birth_year": 2003,
+    "date_of_birth": "27/07/2003",
+    "rating_promedio": 6.5,
+    "partidos_total": 1
+  },
+  {
+    "player_id": 2045286,
+    "player_name": "Hiago Lucas",
+    "team_name": "Unknown",
+    "liga": "Gaúcho",
+    "birth_year": 2006,
+    "date_of_birth": "04/01/2006",
+    "rating_promedio": 6.8,
+    "partidos_total": 1
+  },
+  {
+    "player_id": 1588789,
+    "player_name": "Leonardo Ramon Hanna Fares",
+    "team_name": "Unknown",
+    "liga": "Gaúcho",
+    "birth_year": 2003,
+    "date_of_birth": "12/08/2003",
+    "rating_promedio": 6.608333333333333,
+    "partidos_total": 12
+  },
+  {
+    "player_id": 2440295,
+    "player_name": "Mikael Costa",
+    "team_name": "Unknown",
+    "liga": "Gaúcho",
+    "birth_year": 2006,
+    "date_of_birth": "07/12/2006",
+    "rating_promedio": 6.516666666666667,
+    "partidos_total": 6
+  },
+  {
+    "player_id": 1590025,
+    "player_name": "Hannyel Kevin Moraes Santos",
+    "team_name": "Unknown",
+    "liga": "Gaúcho",
+    "birth_year": 2003,
+    "date_of_birth": "28/04/2003",
+    "rating_promedio": 6.5,
+    "partidos_total": 7
+  },
+  {
+    "player_id": 2026368,
+    "player_name": "Yuri Farias",
+    "team_name": "Unknown",
+    "liga": "Gaúcho",
+    "birth_year": 2004,
+    "date_of_birth": "18/03/2004",
+    "rating_promedio": 6.7,
+    "partidos_total": 5
+  },
+  {
+    "player_id": 1170705,
+    "player_name": "Kauan  Bizescki",
+    "team_name": "Unknown",
+    "liga": "Gaúcho",
+    "birth_year": 2003,
+    "date_of_birth": "19/01/2003",
+    "rating_promedio": 6.525,
+    "partidos_total": 4
+  },
+  {
+    "player_id": 2010540,
+    "player_name": "Tiaguinho",
+    "team_name": "Unknown",
+    "liga": "Gaúcho",
+    "birth_year": 2008,
+    "date_of_birth": "02/02/2008",
+    "rating_promedio": 6.8,
+    "partidos_total": 4
+  },
+  {
+    "player_id": 1907757,
+    "player_name": "Roger",
+    "team_name": "Unknown",
+    "liga": "Gaúcho",
+    "birth_year": 2008,
+    "date_of_birth": "29/04/2008",
+    "rating_promedio": 6.933333333333334,
+    "partidos_total": 6
+  },
+  {
+    "player_id": 1634619,
+    "player_name": "Riquelme Freitas",
+    "team_name": "Unknown",
+    "liga": "Gaúcho",
+    "birth_year": 2006,
+    "date_of_birth": "12/08/2006",
+    "rating_promedio": 6.55,
+    "partidos_total": 2
+  },
+  {
+    "player_id": 1907760,
+    "player_name": "Viery",
+    "team_name": "Unknown",
+    "liga": "Gaúcho",
+    "birth_year": 2005,
+    "date_of_birth": "01/01/2005",
+    "rating_promedio": 7.200000000000001,
+    "partidos_total": 7
+  },
+  {
+    "player_id": 1106499,
+    "player_name": "Weverson",
+    "team_name": "Unknown",
+    "liga": "Gaúcho",
+    "birth_year": 2003,
+    "date_of_birth": "11/08/2003",
+    "rating_promedio": 6.825,
+    "partidos_total": 4
+  },
+  {
+    "player_id": 1176199,
+    "player_name": "Válber Júnior",
+    "team_name": "Unknown",
+    "liga": "Gaúcho",
+    "birth_year": 2003,
+    "date_of_birth": "11/04/2003",
+    "rating_promedio": 6.92,
+    "partidos_total": 5
+  },
+  {
+    "player_id": 1148441,
+    "player_name": "Matheus Nunes",
+    "team_name": "Unknown",
+    "liga": "Gaúcho",
+    "birth_year": 2003,
+    "date_of_birth": "05/05/2003",
+    "rating_promedio": 6.8,
+    "partidos_total": 3
+  },
+  {
+    "player_id": 1106487,
+    "player_name": "Victor Gabriel",
+    "team_name": "Unknown",
+    "liga": "Gaúcho",
+    "birth_year": 2004,
+    "date_of_birth": "28/04/2004",
+    "rating_promedio": 6.7,
+    "partidos_total": 6
+  },
+  {
+    "player_id": 1890696,
+    "player_name": "Alisson Rodrigues de Melo",
+    "team_name": "Unknown",
+    "liga": "Gaúcho",
+    "birth_year": 2008,
+    "date_of_birth": "31/07/2008",
+    "rating_promedio": 6.375,
+    "partidos_total": 4
+  },
+  {
+    "player_id": 1485191,
+    "player_name": "Allex",
+    "team_name": "Unknown",
+    "liga": "Gaúcho",
+    "birth_year": 2006,
+    "date_of_birth": "04/05/2006",
+    "rating_promedio": 7.0,
+    "partidos_total": 10
+  },
+  {
+    "player_id": 2027868,
+    "player_name": "Benjamin Arhin",
+    "team_name": "Unknown",
+    "liga": "Gaúcho",
+    "birth_year": 2006,
+    "date_of_birth": "28/05/2006",
+    "rating_promedio": 6.8999999999999995,
+    "partidos_total": 3
+  },
+  {
+    "player_id": 1888163,
+    "player_name": "Raykkonen Pereira Soares",
+    "team_name": "Unknown",
+    "liga": "Gaúcho",
+    "birth_year": 2008,
+    "date_of_birth": "13/07/2008",
+    "rating_promedio": 6.35,
+    "partidos_total": 2
+  },
+  {
+    "player_id": 2429684,
+    "player_name": "João Bezerra",
+    "team_name": "Unknown",
+    "liga": "Gaúcho",
+    "birth_year": 2009,
+    "date_of_birth": "29/06/2009",
+    "rating_promedio": 6.449999999999999,
+    "partidos_total": 4
+  },
+  {
+    "player_id": 1485220,
+    "player_name": "Gustavo Prado",
+    "team_name": "Unknown",
+    "liga": "Gaúcho",
+    "birth_year": 2005,
+    "date_of_birth": "06/06/2005",
+    "rating_promedio": 6.866666666666667,
+    "partidos_total": 3
+  },
+  {
+    "player_id": 1922592,
+    "player_name": "Joao Victor",
+    "team_name": "Unknown",
+    "liga": "Gaúcho",
+    "birth_year": 2007,
+    "date_of_birth": "27/07/2007",
+    "rating_promedio": 6.771428571428571,
+    "partidos_total": 7
+  },
+  {
+    "player_id": 1470164,
+    "player_name": "Diego Coser",
+    "team_name": "Unknown",
+    "liga": "Gaúcho",
+    "birth_year": 2005,
+    "date_of_birth": "22/08/2005",
+    "rating_promedio": 7.7,
+    "partidos_total": 1
+  },
+  {
+    "player_id": 1835793,
+    "player_name": "Yago Noal",
+    "team_name": "Unknown",
+    "liga": "Gaúcho",
+    "birth_year": 2007,
+    "date_of_birth": "05/02/2007",
+    "rating_promedio": 6.699999999999999,
+    "partidos_total": 2
+  },
+  {
+    "player_id": 2032838,
+    "player_name": "Pablo",
+    "team_name": "Unknown",
+    "liga": "Gaúcho",
+    "birth_year": 2006,
+    "date_of_birth": "01/07/2006",
+    "rating_promedio": 6.7,
+    "partidos_total": 1
+  },
+  {
+    "player_id": 2111310,
+    "player_name": "Kauan Alves",
+    "team_name": "Unknown",
+    "liga": "Gaúcho",
+    "birth_year": 2006,
+    "date_of_birth": "20/11/2006",
+    "rating_promedio": 6.6000000000000005,
+    "partidos_total": 3
+  },
+  {
+    "player_id": 2036003,
+    "player_name": "Ghíven",
+    "team_name": "Unknown",
+    "liga": "Gaúcho",
+    "birth_year": 2004,
+    "date_of_birth": "07/04/2004",
+    "rating_promedio": 6.7,
+    "partidos_total": 1
+  },
+  {
+    "player_id": 1804703,
+    "player_name": "Gustavo Walisson",
+    "team_name": "Unknown",
+    "liga": "Gaúcho",
+    "birth_year": 2005,
+    "date_of_birth": "10/06/2005",
+    "rating_promedio": 6.666666666666667,
+    "partidos_total": 3
+  },
+  {
+    "player_id": 2441007,
+    "player_name": "Ruan Nunes",
+    "team_name": "Unknown",
+    "liga": "Gaúcho",
+    "birth_year": 2008,
+    "date_of_birth": "26/05/2008",
+    "rating_promedio": 6.4,
+    "partidos_total": 1
+  },
+  {
+    "player_id": 2441006,
+    "player_name": "Inácio",
+    "team_name": "Unknown",
+    "liga": "Gaúcho",
+    "birth_year": 2006,
+    "date_of_birth": "15/05/2006",
+    "rating_promedio": 6.4,
+    "partidos_total": 5
+  },
+  {
+    "player_id": 1895377,
+    "player_name": "Gabriel Mec",
+    "team_name": "Unknown",
+    "liga": "Gaúcho",
+    "birth_year": 2008,
+    "date_of_birth": "11/04/2008",
+    "rating_promedio": 6.7,
+    "partidos_total": 6
+  },
+  {
+    "player_id": 1895389,
+    "player_name": "Luis Guedes",
+    "team_name": "Unknown",
+    "liga": "Gaúcho",
+    "birth_year": 2008,
+    "date_of_birth": "16/01/2008",
+    "rating_promedio": 7.4,
+    "partidos_total": 1
+  },
+  {
+    "player_id": 1588363,
+    "player_name": "Jefinho",
+    "team_name": "Unknown",
+    "liga": "Gaúcho",
+    "birth_year": 2006,
+    "date_of_birth": "14/12/2006",
+    "rating_promedio": 6.6000000000000005,
+    "partidos_total": 3
+  },
+  {
+    "player_id": 1466535,
+    "player_name": "Lucas Fogaça",
+    "team_name": "Unknown",
+    "liga": "Gaúcho",
+    "birth_year": 2005,
+    "date_of_birth": "23/12/2005",
+    "rating_promedio": 6.4,
+    "partidos_total": 1
+  },
+  {
+    "player_id": 1587947,
+    "player_name": "Matheus Grecco Ribeiro",
+    "team_name": "Unknown",
+    "liga": "Gaúcho",
+    "birth_year": 2004,
+    "date_of_birth": "14/05/2004",
+    "rating_promedio": 6.4,
+    "partidos_total": 1
+  },
+  {
+    "player_id": 2014149,
+    "player_name": "Vinícius Amaral",
+    "team_name": "Unknown",
+    "liga": "Gaúcho",
+    "birth_year": 2003,
+    "date_of_birth": "14/03/2003",
+    "rating_promedio": 6.8,
+    "partidos_total": 1
+  },
+  {
+    "player_id": 1652651,
+    "player_name": "Edenilson",
+    "team_name": "Unknown",
+    "liga": "Baiano",
+    "birth_year": 2005,
+    "date_of_birth": "17/06/2005",
+    "rating_promedio": 6.9,
+    "partidos_total": 8
+  },
+  {
+    "player_id": 1631803,
+    "player_name": "Diogo Antônio",
+    "team_name": "Unknown",
+    "liga": "Baiano",
+    "birth_year": 2005,
+    "date_of_birth": "06/10/2005",
+    "rating_promedio": 6.925000000000001,
+    "partidos_total": 4
+  },
+  {
+    "player_id": 2112480,
+    "player_name": "Paulo Roberto",
+    "team_name": "Unknown",
+    "liga": "Baiano",
+    "birth_year": 2005,
+    "date_of_birth": "13/11/2005",
+    "rating_promedio": 6.85,
+    "partidos_total": 2
+  },
+  {
+    "player_id": 1896090,
+    "player_name": "José Breno",
+    "team_name": "Unknown",
+    "liga": "Baiano",
+    "birth_year": 2004,
+    "date_of_birth": "06/06/2004",
+    "rating_promedio": 6.68,
+    "partidos_total": 5
+  },
+  {
+    "player_id": 1652635,
+    "player_name": "Felipe Cardoso",
+    "team_name": "Unknown",
+    "liga": "Baiano",
+    "birth_year": 2003,
+    "date_of_birth": "04/03/2003",
+    "rating_promedio": 6.75,
+    "partidos_total": 2
+  },
+  {
+    "player_id": 1841330,
+    "player_name": "Pablo Santos",
+    "team_name": "Unknown",
+    "liga": "Baiano",
+    "birth_year": 2003,
+    "date_of_birth": "03/08/2003",
+    "rating_promedio": 7.016666666666667,
+    "partidos_total": 6
+  },
+  {
+    "player_id": 1587979,
+    "player_name": "Lawan",
+    "team_name": "Unknown",
+    "liga": "Baiano",
+    "birth_year": 2005,
+    "date_of_birth": "25/05/2005",
+    "rating_promedio": 6.76,
+    "partidos_total": 5
+  },
+  {
+    "player_id": 1892689,
+    "player_name": "Luis Miguel",
+    "team_name": "Unknown",
+    "liga": "Baiano",
+    "birth_year": 2005,
+    "date_of_birth": "04/02/2005",
+    "rating_promedio": 6.9799999999999995,
+    "partidos_total": 5
+  },
+  {
+    "player_id": 2174504,
+    "player_name": "Lucas Lohan dos Santos Verediana",
+    "team_name": "Unknown",
+    "liga": "Baiano",
+    "birth_year": 2006,
+    "date_of_birth": "10/07/2006",
+    "rating_promedio": 6.475,
+    "partidos_total": 4
+  },
+  {
+    "player_id": 2442343,
+    "player_name": "Guilherme Inácio Cavalcante da Silva",
+    "team_name": "Unknown",
+    "liga": "Baiano",
+    "birth_year": 2008,
+    "date_of_birth": "14/04/2008",
+    "rating_promedio": 6.7,
+    "partidos_total": 1
+  },
+  {
+    "player_id": 1868799,
+    "player_name": "Gustavo de Sousa Marques",
+    "team_name": "Unknown",
+    "liga": "Baiano",
+    "birth_year": 2007,
+    "date_of_birth": "16/01/2007",
+    "rating_promedio": 6.9,
+    "partidos_total": 1
+  },
+  {
+    "player_id": 1589381,
+    "player_name": "Diogo Crispim",
+    "team_name": "Unknown",
+    "liga": "Baiano",
+    "birth_year": 2003,
+    "date_of_birth": "13/02/2003",
+    "rating_promedio": 6.9125,
+    "partidos_total": 8
+  },
+  {
+    "player_id": 1411181,
+    "player_name": "Higuinho",
+    "team_name": "Unknown",
+    "liga": "Baiano",
+    "birth_year": 2003,
+    "date_of_birth": "06/01/2003",
+    "rating_promedio": 6.983333333333333,
+    "partidos_total": 6
+  },
+  {
+    "player_id": 1589600,
+    "player_name": "Jefferson",
+    "team_name": "Unknown",
+    "liga": "Baiano",
+    "birth_year": 2003,
+    "date_of_birth": "30/09/2003",
+    "rating_promedio": 6.88,
+    "partidos_total": 5
+  },
+  {
+    "player_id": 1633953,
+    "player_name": "Hernandes",
+    "team_name": "Unknown",
+    "liga": "Baiano",
+    "birth_year": 2005,
+    "date_of_birth": "11/03/2005",
+    "rating_promedio": 6.822222222222222,
+    "partidos_total": 9
+  },
+  {
+    "player_id": 1588309,
+    "player_name": "Gabriel Bartelli",
+    "team_name": "Unknown",
+    "liga": "Baiano",
+    "birth_year": 2004,
+    "date_of_birth": "25/01/2004",
+    "rating_promedio": 6.2,
+    "partidos_total": 2
+  },
+  {
+    "player_id": 1588301,
+    "player_name": "Gabriel de Lima",
+    "team_name": "Unknown",
+    "liga": "Baiano",
+    "birth_year": 2003,
+    "date_of_birth": "23/07/2003",
+    "rating_promedio": 6.4,
+    "partidos_total": 2
+  },
+  {
+    "player_id": 1639122,
+    "player_name": "Pedro Lima",
+    "team_name": "Unknown",
+    "liga": "Baiano",
+    "birth_year": 2003,
+    "date_of_birth": "20/01/2003",
+    "rating_promedio": 6.35,
+    "partidos_total": 8
+  },
+  {
+    "player_id": 1631906,
+    "player_name": "Kauan de Jesus Santos",
+    "team_name": "Unknown",
+    "liga": "Baiano",
+    "birth_year": 2005,
+    "date_of_birth": "21/02/2005",
+    "rating_promedio": 6.68,
+    "partidos_total": 5
+  },
+  {
+    "player_id": 2441761,
+    "player_name": "Diogo Vieira Neris",
+    "team_name": "Unknown",
+    "liga": "Baiano",
+    "birth_year": 2008,
+    "date_of_birth": "27/09/2008",
+    "rating_promedio": 6.5,
+    "partidos_total": 2
+  },
+  {
+    "player_id": 1469533,
+    "player_name": "Gustavo Kawa",
+    "team_name": "Unknown",
+    "liga": "Baiano",
+    "birth_year": 2004,
+    "date_of_birth": "27/02/2004",
+    "rating_promedio": 6.5,
+    "partidos_total": 1
+  },
+  {
+    "player_id": 1884629,
+    "player_name": "João Pedro Afonso",
+    "team_name": "Unknown",
+    "liga": "Baiano",
+    "birth_year": 2008,
+    "date_of_birth": "06/04/2008",
+    "rating_promedio": 6.45,
+    "partidos_total": 4
+  },
+  {
+    "player_id": 1910568,
+    "player_name": "Talisca",
+    "team_name": "Unknown",
+    "liga": "Baiano",
+    "birth_year": 2003,
+    "date_of_birth": "20/03/2003",
+    "rating_promedio": 6.466666666666666,
+    "partidos_total": 3
+  },
+  {
+    "player_id": 1631466,
+    "player_name": "Sidney",
+    "team_name": "Unknown",
+    "liga": "Baiano",
+    "birth_year": 2007,
+    "date_of_birth": "17/09/2007",
+    "rating_promedio": 6.65,
+    "partidos_total": 2
+  },
+  {
+    "player_id": 2031382,
+    "player_name": "Fredi Gomes",
+    "team_name": "Unknown",
+    "liga": "Baiano",
+    "birth_year": 2006,
+    "date_of_birth": "23/05/2006",
+    "rating_promedio": 6.92,
+    "partidos_total": 5
+  },
+  {
+    "player_id": 1634148,
+    "player_name": "Luiz Gustavo",
+    "team_name": "Unknown",
+    "liga": "Baiano",
+    "birth_year": 2006,
+    "date_of_birth": "12/04/2006",
+    "rating_promedio": 6.659999999999999,
+    "partidos_total": 5
+  },
+  {
+    "player_id": 1476894,
+    "player_name": "José Guilherme",
+    "team_name": "Unknown",
+    "liga": "Baiano",
+    "birth_year": 2005,
+    "date_of_birth": "16/03/2005",
+    "rating_promedio": 7.05,
+    "partidos_total": 4
+  },
+  {
+    "player_id": 1633652,
+    "player_name": "Pedrinho",
+    "team_name": "Unknown",
+    "liga": "Baiano",
+    "birth_year": 2006,
+    "date_of_birth": "19/01/2006",
+    "rating_promedio": 6.625,
+    "partidos_total": 4
+  },
+  {
+    "player_id": 1200993,
+    "player_name": "Jota",
+    "team_name": "Unknown",
+    "liga": "Baiano",
+    "birth_year": 2004,
+    "date_of_birth": "06/02/2004",
+    "rating_promedio": 6.640000000000001,
+    "partidos_total": 5
+  },
+  {
+    "player_id": 2063705,
+    "player_name": "Kauê Furquim",
+    "team_name": "Unknown",
+    "liga": "Baiano",
+    "birth_year": 2009,
+    "date_of_birth": "27/02/2009",
+    "rating_promedio": 7.214285714285714,
+    "partidos_total": 7
+  },
+  {
+    "player_id": 2050427,
+    "player_name": "Dell",
+    "team_name": "Unknown",
+    "liga": "Baiano",
+    "birth_year": 2008,
+    "date_of_birth": "09/06/2008",
+    "rating_promedio": 6.911111111111111,
+    "partidos_total": 9
+  },
+  {
+    "player_id": 1633616,
+    "player_name": "Ruan Pablo",
+    "team_name": "Unknown",
+    "liga": "Baiano",
+    "birth_year": 2008,
+    "date_of_birth": "22/07/2008",
+    "rating_promedio": 7.06,
+    "partidos_total": 5
+  },
+  {
+    "player_id": 1863185,
+    "player_name": "David Martins",
+    "team_name": "Unknown",
+    "liga": "Baiano",
+    "birth_year": 2007,
+    "date_of_birth": "14/09/2007",
+    "rating_promedio": 6.9,
+    "partidos_total": 8
+  },
+  {
+    "player_id": 1106151,
+    "player_name": "Kayky",
+    "team_name": "Unknown",
+    "liga": "Baiano",
+    "birth_year": 2003,
+    "date_of_birth": "10/06/2003",
+    "rating_promedio": 6.6,
+    "partidos_total": 1
+  },
+  {
+    "player_id": 2076565,
+    "player_name": "Lyan Araujo",
+    "team_name": "Unknown",
+    "liga": "Baiano",
+    "birth_year": 2009,
+    "date_of_birth": "17/02/2009",
+    "rating_promedio": 6.2,
+    "partidos_total": 3
+  },
+  {
+    "player_id": 2032856,
+    "player_name": "Wendel Passos",
+    "team_name": "Unknown",
+    "liga": "Baiano",
+    "birth_year": 2006,
+    "date_of_birth": "28/02/2006",
+    "rating_promedio": 6.5,
+    "partidos_total": 1
+  },
+  {
+    "player_id": 1831095,
+    "player_name": "Caio Suassuna",
+    "team_name": "Unknown",
+    "liga": "Baiano",
+    "birth_year": 2007,
+    "date_of_birth": "22/03/2007",
+    "rating_promedio": 6.45,
+    "partidos_total": 4
+  },
+  {
+    "player_id": 1631456,
+    "player_name": "Marcinho",
+    "team_name": "Unknown",
+    "liga": "Baiano",
+    "birth_year": 2003,
+    "date_of_birth": "29/04/2003",
+    "rating_promedio": 6.65,
+    "partidos_total": 4
+  },
+  {
+    "player_id": 2030643,
+    "player_name": "Marlon Almeida",
+    "team_name": "Unknown",
+    "liga": "Baiano",
+    "birth_year": 2005,
+    "date_of_birth": "17/03/2005",
+    "rating_promedio": 6.633333333333334,
+    "partidos_total": 9
+  },
+  {
+    "player_id": 1589293,
+    "player_name": "Luan",
+    "team_name": "Unknown",
+    "liga": "Baiano",
+    "birth_year": 2004,
+    "date_of_birth": "04/12/2004",
+    "rating_promedio": 6.42,
+    "partidos_total": 5
+  },
+  {
+    "player_id": 1609546,
+    "player_name": "Fabrício Simões de Araujo",
+    "team_name": "Unknown",
+    "liga": "Baiano",
+    "birth_year": 2003,
+    "date_of_birth": "20/06/2003",
+    "rating_promedio": 6.7,
+    "partidos_total": 8
+  },
+  {
+    "player_id": 2025924,
+    "player_name": "Geo",
+    "team_name": "Unknown",
+    "liga": "Baiano",
+    "birth_year": 2003,
+    "date_of_birth": "21/11/2003",
+    "rating_promedio": 6.644444444444444,
+    "partidos_total": 9
+  },
+  {
+    "player_id": 2441802,
+    "player_name": "Miquéias Dos Santos Alves",
+    "team_name": "Unknown",
+    "liga": "Baiano",
+    "birth_year": 2005,
+    "date_of_birth": "07/12/2005",
+    "rating_promedio": 6.6499999999999995,
+    "partidos_total": 6
+  },
+  {
+    "player_id": 2423625,
+    "player_name": "Carlos Richard",
+    "team_name": "Unknown",
+    "liga": "Baiano",
+    "birth_year": 2005,
+    "date_of_birth": "02/03/2005",
+    "rating_promedio": 6.566666666666666,
+    "partidos_total": 3
+  },
+  {
+    "player_id": 2441803,
+    "player_name": "Antoni César dos Santos de Jesus",
+    "team_name": "Unknown",
+    "liga": "Baiano",
+    "birth_year": 2004,
+    "date_of_birth": "01/10/2004",
+    "rating_promedio": 6.6571428571428575,
+    "partidos_total": 7
+  },
+  {
+    "player_id": 2441804,
+    "player_name": "Ivisson Ian Pita Conceição",
+    "team_name": "Unknown",
+    "liga": "Baiano",
+    "birth_year": 2005,
+    "date_of_birth": "19/09/2005",
+    "rating_promedio": 6.644444444444444,
+    "partidos_total": 9
+  },
+  {
+    "player_id": 2122414,
+    "player_name": "Igor",
+    "team_name": "Unknown",
+    "liga": "Baiano",
+    "birth_year": 2005,
+    "date_of_birth": "02/07/2005",
+    "rating_promedio": 6.3,
+    "partidos_total": 1
+  },
+  {
+    "player_id": 2122404,
+    "player_name": "Sandro",
+    "team_name": "Unknown",
+    "liga": "Baiano",
+    "birth_year": 2005,
+    "date_of_birth": "02/03/2005",
+    "rating_promedio": 6.75,
+    "partidos_total": 6
+  },
+  {
+    "player_id": 2077469,
+    "player_name": "Carlos Augusto Tosta dos Santos",
+    "team_name": "Unknown",
+    "liga": "Baiano",
+    "birth_year": 2008,
+    "date_of_birth": "15/05/2008",
+    "rating_promedio": 6.300000000000001,
+    "partidos_total": 2
+  },
+  {
+    "player_id": 2441811,
+    "player_name": "Thiago Ferreira Santos",
+    "team_name": "Unknown",
+    "liga": "Baiano",
+    "birth_year": 2006,
+    "date_of_birth": "01/01/2006",
+    "rating_promedio": 6.4,
+    "partidos_total": 1
+  },
+  {
+    "player_id": 2442382,
+    "player_name": "Ivan Henrique",
+    "team_name": "Unknown",
+    "liga": "Baiano",
+    "birth_year": 2006,
+    "date_of_birth": "29/06/2006",
+    "rating_promedio": 6.9,
+    "partidos_total": 2
+  },
+  {
+    "player_id": 1807816,
+    "player_name": "Román Gómez",
+    "team_name": "Unknown",
+    "liga": "Baiano",
+    "birth_year": 2004,
+    "date_of_birth": "14/07/2004",
+    "rating_promedio": 6.92,
+    "partidos_total": 5
+  },
+  {
+    "player_id": 2025513,
+    "player_name": "Gean de Jesus Soares",
+    "team_name": "Unknown",
+    "liga": "Baiano",
+    "birth_year": 2007,
+    "date_of_birth": "11/06/2007",
+    "rating_promedio": 6.8999999999999995,
+    "partidos_total": 3
+  },
+  {
+    "player_id": 1835894,
+    "player_name": "Wendell dos Santos Sacramento",
+    "team_name": "Unknown",
+    "liga": "Baiano",
+    "birth_year": 2005,
+    "date_of_birth": "31/08/2005",
+    "rating_promedio": 6.85,
+    "partidos_total": 2
+  },
+  {
+    "player_id": 2084495,
+    "player_name": "Kauan Vitor Silva Ferreira de Melo",
+    "team_name": "Unknown",
+    "liga": "Baiano",
+    "birth_year": 2006,
+    "date_of_birth": "15/06/2006",
+    "rating_promedio": 6.3,
+    "partidos_total": 1
+  },
+  {
+    "player_id": 2214985,
+    "player_name": "Everton de Aquino Felipe",
+    "team_name": "Unknown",
+    "liga": "Baiano",
+    "birth_year": 2005,
+    "date_of_birth": "07/11/2005",
+    "rating_promedio": 6.733333333333333,
+    "partidos_total": 3
+  },
+  {
+    "player_id": 2025531,
+    "player_name": "Wanderson Papaterra Matos",
+    "team_name": "Unknown",
+    "liga": "Baiano",
+    "birth_year": 2005,
+    "date_of_birth": "27/07/2005",
+    "rating_promedio": 6.68,
+    "partidos_total": 5
+  },
+  {
+    "player_id": 1633529,
+    "player_name": "Breno Eduardo Liborge",
+    "team_name": "Unknown",
+    "liga": "Baiano",
+    "birth_year": 2004,
+    "date_of_birth": "02/06/2004",
+    "rating_promedio": 6.8,
+    "partidos_total": 1
+  },
+  {
+    "player_id": 2455206,
+    "player_name": "Breno Rayck da Silva Mendes",
+    "team_name": "Unknown",
+    "liga": "Baiano",
+    "birth_year": 2005,
+    "date_of_birth": "28/04/2005",
+    "rating_promedio": 6.625,
+    "partidos_total": 4
+  },
+  {
+    "player_id": 1473192,
+    "player_name": "João Andrade",
+    "team_name": "Unknown",
+    "liga": "Baiano",
+    "birth_year": 2006,
+    "date_of_birth": "15/06/2006",
+    "rating_promedio": 6.3999999999999995,
+    "partidos_total": 3
+  },
+  {
+    "player_id": 1631457,
+    "player_name": "Daniel Costa",
+    "team_name": "Unknown",
+    "liga": "Baiano",
+    "birth_year": 2005,
+    "date_of_birth": "06/06/2005",
+    "rating_promedio": 6.55,
+    "partidos_total": 2
+  },
+  {
+    "player_id": 1647404,
+    "player_name": "Gustavo Pereira",
+    "team_name": "Unknown",
+    "liga": "Baiano",
+    "birth_year": 2005,
+    "date_of_birth": "04/07/2005",
+    "rating_promedio": 6.85,
+    "partidos_total": 2
+  },
+  {
+    "player_id": 2429095,
+    "player_name": "Guilherme Queiroz Lima",
+    "team_name": "Unknown",
+    "liga": "Baiano",
+    "birth_year": 2007,
+    "date_of_birth": "27/05/2007",
+    "rating_promedio": 6.55,
+    "partidos_total": 2
+  },
+  {
+    "player_id": 1182233,
+    "player_name": "Mateo Sanabria",
+    "team_name": "Unknown",
+    "liga": "Baiano",
+    "birth_year": 2004,
+    "date_of_birth": "31/03/2004",
+    "rating_promedio": 7.2,
+    "partidos_total": 4
+  },
+  {
+    "player_id": 2249946,
+    "player_name": "Sidney Duarte",
+    "team_name": "Unknown",
+    "liga": "Baiano",
+    "birth_year": 2006,
+    "date_of_birth": "11/03/2006",
+    "rating_promedio": 6.6,
+    "partidos_total": 1
+  },
+  {
+    "player_id": 1902433,
+    "player_name": "Néstor Camilo Durán Rueda",
+    "team_name": "Unknown",
+    "liga": "Colombia 2 Div",
+    "birth_year": 2004,
+    "date_of_birth": "11/12/2004",
+    "rating_promedio": 6.279999999999999,
+    "partidos_total": 5
+  },
+  {
+    "player_id": 2048018,
+    "player_name": "Juan Pablo García Habib",
+    "team_name": "Unknown",
+    "liga": "Colombia 2 Div",
+    "birth_year": 2005,
+    "date_of_birth": "18/05/2005",
+    "rating_promedio": 6.8,
+    "partidos_total": 7
+  },
+  {
+    "player_id": 1902425,
+    "player_name": "Alex Santiago Segura Silva",
+    "team_name": "Unknown",
+    "liga": "Colombia 2 Div",
+    "birth_year": 2003,
+    "date_of_birth": "10/04/2003",
+    "rating_promedio": 6.557142857142857,
+    "partidos_total": 7
+  },
+  {
+    "player_id": 1906080,
+    "player_name": "Jorge Enrique Pérez Bohórquez",
+    "team_name": "Unknown",
+    "liga": "Colombia 2 Div",
+    "birth_year": 2006,
+    "date_of_birth": "13/10/2006",
+    "rating_promedio": 6.714285714285714,
+    "partidos_total": 7
+  },
+  {
+    "player_id": 2126508,
+    "player_name": "Luis Alejandro Rangel Hernández",
+    "team_name": "Unknown",
+    "liga": "Colombia 2 Div",
+    "birth_year": 2003,
+    "date_of_birth": "03/02/2003",
+    "rating_promedio": 6.871428571428572,
+    "partidos_total": 7
+  },
+  {
+    "player_id": 1807595,
+    "player_name": "Michell Perez",
+    "team_name": "Unknown",
+    "liga": "Colombia 2 Div",
+    "birth_year": 2004,
+    "date_of_birth": "19/12/2004",
+    "rating_promedio": 6.3428571428571425,
+    "partidos_total": 7
+  },
+  {
+    "player_id": 1478327,
+    "player_name": "Junior Garcia Yusty",
+    "team_name": "Unknown",
+    "liga": "Colombia 2 Div",
+    "birth_year": 2004,
+    "date_of_birth": "01/09/2004",
+    "rating_promedio": 6.5200000000000005,
+    "partidos_total": 5
+  },
+  {
+    "player_id": 1653106,
+    "player_name": "Santiago Rey Castellanos",
+    "team_name": "Unknown",
+    "liga": "Colombia 2 Div",
+    "birth_year": 2004,
+    "date_of_birth": "10/09/2004",
+    "rating_promedio": 6.671428571428572,
+    "partidos_total": 7
+  },
+  {
+    "player_id": 1902434,
+    "player_name": "Juan David Ararat Lucumí",
+    "team_name": "Unknown",
+    "liga": "Colombia 2 Div",
+    "birth_year": 2003,
+    "date_of_birth": "20/01/2003",
+    "rating_promedio": 6.6,
+    "partidos_total": 2
+  },
+  {
+    "player_id": 1829051,
+    "player_name": "Duván Ruiz",
+    "team_name": "Unknown",
+    "liga": "Colombia 2 Div",
+    "birth_year": 2003,
+    "date_of_birth": "14/05/2003",
+    "rating_promedio": 6.985714285714286,
+    "partidos_total": 7
+  },
+  {
+    "player_id": 1904630,
+    "player_name": "Jordi Hernández Pérez",
+    "team_name": "Unknown",
+    "liga": "Colombia 2 Div",
+    "birth_year": 2006,
+    "date_of_birth": "13/04/2006",
+    "rating_promedio": 6.475,
+    "partidos_total": 4
+  },
+  {
+    "player_id": 1906067,
+    "player_name": "Juan David Guillen Sánchez",
+    "team_name": "Unknown",
+    "liga": "Colombia 2 Div",
+    "birth_year": 2006,
+    "date_of_birth": "16/01/2006",
+    "rating_promedio": 6.671428571428572,
+    "partidos_total": 7
+  },
+  {
+    "player_id": 2441838,
+    "player_name": "Cristian Graciano Morales",
+    "team_name": "Unknown",
+    "liga": "Colombia 2 Div",
+    "birth_year": 2003,
+    "date_of_birth": "13/05/2003",
+    "rating_promedio": 7.175,
+    "partidos_total": 8
+  },
+  {
+    "player_id": 1902436,
+    "player_name": "Luis Angel Yánez Rodríguez",
+    "team_name": "Unknown",
+    "liga": "Colombia 2 Div",
+    "birth_year": 2006,
+    "date_of_birth": "13/11/2006",
+    "rating_promedio": 6.466666666666666,
+    "partidos_total": 6
+  },
+  {
+    "player_id": 1175763,
+    "player_name": "Jairo Junior Ditta Ruiz",
+    "team_name": "Unknown",
+    "liga": "Colombia 2 Div",
+    "birth_year": 2003,
+    "date_of_birth": "31/12/2003",
+    "rating_promedio": 6.779999999999999,
+    "partidos_total": 5
+  },
+  {
+    "player_id": 2450986,
+    "player_name": "Hector Manuel Long Mejia",
+    "team_name": "Unknown",
+    "liga": "Colombia 2 Div",
+    "birth_year": 2006,
+    "date_of_birth": "24/03/2006",
+    "rating_promedio": 6.720000000000001,
+    "partidos_total": 5
+  },
+  {
+    "player_id": 2451049,
+    "player_name": "Samuel Barco Maturana",
+    "team_name": "Unknown",
+    "liga": "Colombia 2 Div",
+    "birth_year": 2005,
+    "date_of_birth": "09/03/2005",
+    "rating_promedio": 6.925,
+    "partidos_total": 4
+  },
+  {
+    "player_id": 2169670,
+    "player_name": "Yaiker Moya",
+    "team_name": "Unknown",
+    "liga": "Colombia 2 Div",
+    "birth_year": 2009,
+    "date_of_birth": "15/09/2009",
+    "rating_promedio": 6.2,
+    "partidos_total": 1
+  },
+  {
+    "player_id": 1831288,
+    "player_name": "Edmilson Herazo",
+    "team_name": "Unknown",
+    "liga": "Colombia 2 Div",
+    "birth_year": 2008,
+    "date_of_birth": "19/09/2008",
+    "rating_promedio": 6.457142857142857,
+    "partidos_total": 7
+  },
+  {
+    "player_id": 2452201,
+    "player_name": "Jhon Alexander Riascos Cuero",
+    "team_name": "Unknown",
+    "liga": "Colombia 2 Div",
+    "birth_year": 2009,
+    "date_of_birth": "17/04/2009",
+    "rating_promedio": 6.716666666666666,
+    "partidos_total": 6
+  },
+  {
+    "player_id": 1899900,
+    "player_name": "Sebastián Andrés Caballero Sarmiento",
+    "team_name": "Unknown",
+    "liga": "Colombia 2 Div",
+    "birth_year": 2006,
+    "date_of_birth": "12/02/2006",
+    "rating_promedio": 6.75,
+    "partidos_total": 2
+  },
+  {
+    "player_id": 1899908,
+    "player_name": "Philippe Oviedo",
+    "team_name": "Unknown",
+    "liga": "Colombia 2 Div",
+    "birth_year": 2007,
+    "date_of_birth": "30/10/2007",
+    "rating_promedio": 7.0,
+    "partidos_total": 7
+  },
+  {
+    "player_id": 1906056,
+    "player_name": "Javier Arturo Ortíz Fernández",
+    "team_name": "Unknown",
+    "liga": "Colombia 2 Div",
+    "birth_year": 2004,
+    "date_of_birth": "16/04/2004",
+    "rating_promedio": 7.028571428571429,
+    "partidos_total": 7
+  },
+  {
+    "player_id": 2052685,
+    "player_name": "Darwin Torres",
+    "team_name": "Unknown",
+    "liga": "Colombia 2 Div",
+    "birth_year": 2008,
+    "date_of_birth": "15/06/2008",
+    "rating_promedio": 6.983333333333333,
+    "partidos_total": 6
+  },
+  {
+    "player_id": 1899906,
+    "player_name": "Miguel Agamez",
+    "team_name": "Unknown",
+    "liga": "Colombia 2 Div",
+    "birth_year": 2009,
+    "date_of_birth": "15/05/2009",
+    "rating_promedio": 6.825,
+    "partidos_total": 4
+  },
+  {
+    "player_id": 1906069,
+    "player_name": "Edwin Alexander Martínez González",
+    "team_name": "Unknown",
+    "liga": "Colombia 2 Div",
+    "birth_year": 2004,
+    "date_of_birth": "19/03/2004",
+    "rating_promedio": 6.4750000000000005,
+    "partidos_total": 8
+  },
+  {
+    "player_id": 1174884,
+    "player_name": "Deivi Barrios",
+    "team_name": "Unknown",
+    "liga": "Colombia 2 Div",
+    "birth_year": 2004,
+    "date_of_birth": "30/03/2004",
+    "rating_promedio": 6.8,
+    "partidos_total": 8
+  },
+  {
+    "player_id": 1615047,
+    "player_name": "Jhon Barreiro",
+    "team_name": "Unknown",
+    "liga": "Colombia 2 Div",
+    "birth_year": 2005,
+    "date_of_birth": "24/06/2005",
+    "rating_promedio": 6.7375,
+    "partidos_total": 8
+  },
+  {
+    "player_id": 1906108,
+    "player_name": "Jhonier David Zárante Bello",
+    "team_name": "Unknown",
+    "liga": "Colombia 2 Div",
+    "birth_year": 2007,
+    "date_of_birth": "24/06/2007",
+    "rating_promedio": 6.433333333333334,
+    "partidos_total": 6
+  },
+  {
+    "player_id": 1901813,
+    "player_name": "Luis Gómez",
+    "team_name": "Unknown",
+    "liga": "Colombia 2 Div",
+    "birth_year": 2004,
+    "date_of_birth": "27/04/2004",
+    "rating_promedio": 6.775,
+    "partidos_total": 8
+  },
+  {
+    "player_id": 1174933,
+    "player_name": "Sebastián Girado",
+    "team_name": "Unknown",
+    "liga": "Colombia 2 Div",
+    "birth_year": 2004,
+    "date_of_birth": "11/08/2004",
+    "rating_promedio": 6.975,
+    "partidos_total": 8
+  },
+  {
+    "player_id": 1901814,
+    "player_name": "Andres Ruíz",
+    "team_name": "Unknown",
+    "liga": "Colombia 2 Div",
+    "birth_year": 2004,
+    "date_of_birth": "10/12/2004",
+    "rating_promedio": 6.983333333333333,
+    "partidos_total": 6
+  },
+  {
+    "player_id": 2452200,
+    "player_name": "Javier Eder Torres",
+    "team_name": "Unknown",
+    "liga": "Colombia 2 Div",
+    "birth_year": 2009,
+    "date_of_birth": "24/10/2009",
+    "rating_promedio": 6.4,
+    "partidos_total": 4
+  },
+  {
+    "player_id": 1900286,
+    "player_name": "Nawer Julia Vargas Hernández",
+    "team_name": "Unknown",
+    "liga": "Colombia 2 Div",
+    "birth_year": 2004,
+    "date_of_birth": "05/11/2004",
+    "rating_promedio": 6.88,
+    "partidos_total": 5
+  },
+  {
+    "player_id": 2452184,
+    "player_name": "Johan Parra",
+    "team_name": "Unknown",
+    "liga": "Colombia 2 Div",
+    "birth_year": 2004,
+    "date_of_birth": "24/09/2004",
+    "rating_promedio": 6.471428571428571,
+    "partidos_total": 7
+  },
+  {
+    "player_id": 2452197,
+    "player_name": "Johan Grisales Obando",
+    "team_name": "Unknown",
+    "liga": "Colombia 2 Div",
+    "birth_year": 2004,
+    "date_of_birth": "13/08/2004",
+    "rating_promedio": 6.833333333333333,
+    "partidos_total": 3
+  },
+  {
+    "player_id": 2113985,
+    "player_name": "Oscar Vivas",
+    "team_name": "Unknown",
+    "liga": "Colombia 2 Div",
+    "birth_year": 2005,
+    "date_of_birth": "26/11/2005",
+    "rating_promedio": 6.75,
+    "partidos_total": 6
+  },
+  {
+    "player_id": 1904861,
+    "player_name": "José Ordoñez",
+    "team_name": "Unknown",
+    "liga": "Colombia 2 Div",
+    "birth_year": 2004,
+    "date_of_birth": "29/03/2004",
+    "rating_promedio": 6.675,
+    "partidos_total": 8
+  },
+  {
+    "player_id": 1500522,
+    "player_name": "Jader Manyoma",
+    "team_name": "Unknown",
+    "liga": "Colombia 2 Div",
+    "birth_year": 2004,
+    "date_of_birth": "21/04/2004",
+    "rating_promedio": 6.6,
+    "partidos_total": 2
+  },
+  {
+    "player_id": 2042580,
+    "player_name": "Alan Garcia",
+    "team_name": "Unknown",
+    "liga": "Colombia 2 Div",
+    "birth_year": 2007,
+    "date_of_birth": "08/08/2007",
+    "rating_promedio": 6.914285714285714,
+    "partidos_total": 7
+  },
+  {
+    "player_id": 2206039,
+    "player_name": "Yull Preciado",
+    "team_name": "Unknown",
+    "liga": "Colombia 2 Div",
+    "birth_year": 2005,
+    "date_of_birth": "15/04/2005",
+    "rating_promedio": 6.366666666666667,
+    "partidos_total": 3
+  },
+  {
+    "player_id": 2165058,
+    "player_name": "Johan sebastian Alegria lopez",
+    "team_name": "Unknown",
+    "liga": "Colombia 2 Div",
+    "birth_year": 2007,
+    "date_of_birth": "11/08/2007",
+    "rating_promedio": 6.459999999999999,
+    "partidos_total": 5
+  },
+  {
+    "player_id": 1476943,
+    "player_name": "Julián Rodríguez",
+    "team_name": "Unknown",
+    "liga": "Colombia 2 Div",
+    "birth_year": 2003,
+    "date_of_birth": "02/05/2003",
+    "rating_promedio": 6.816666666666666,
+    "partidos_total": 6
+  },
+  {
+    "player_id": 1906188,
+    "player_name": "Luis Eduardo Mena Padilla",
+    "team_name": "Unknown",
+    "liga": "Colombia 2 Div",
+    "birth_year": 2005,
+    "date_of_birth": "09/01/2005",
+    "rating_promedio": 7.25,
+    "partidos_total": 2
+  },
+  {
+    "player_id": 2087280,
+    "player_name": "Dani Jose Ferrer",
+    "team_name": "Unknown",
+    "liga": "Colombia 2 Div",
+    "birth_year": 2006,
+    "date_of_birth": "12/11/2006",
+    "rating_promedio": 7.1,
+    "partidos_total": 1
+  },
+  {
+    "player_id": 1904102,
+    "player_name": "Jesús Rodríguez",
+    "team_name": "Unknown",
+    "liga": "Colombia 2 Div",
+    "birth_year": 2006,
+    "date_of_birth": "26/02/2006",
+    "rating_promedio": 6.875,
+    "partidos_total": 4
+  },
+  {
+    "player_id": 1906168,
+    "player_name": "Jhon Stiwar Veira Vergara",
+    "team_name": "Unknown",
+    "liga": "Colombia 2 Div",
+    "birth_year": 2004,
+    "date_of_birth": "21/04/2004",
+    "rating_promedio": 6.628571428571428,
+    "partidos_total": 7
+  },
+  {
+    "player_id": 2164876,
+    "player_name": "Juan Perdomo",
+    "team_name": "Unknown",
+    "liga": "Colombia 2 Div",
+    "birth_year": 2005,
+    "date_of_birth": "04/11/2005",
+    "rating_promedio": 6.5375,
+    "partidos_total": 8
+  },
+  {
+    "player_id": 2455160,
+    "player_name": "Santiago Saavedra",
+    "team_name": "Unknown",
+    "liga": "Colombia 2 Div",
+    "birth_year": 2007,
+    "date_of_birth": "01/01/2007",
+    "rating_promedio": 6.666666666666667,
+    "partidos_total": 6
+  },
+  {
+    "player_id": 1906183,
+    "player_name": "Carlos Yesid Restrepo Castillo",
+    "team_name": "Unknown",
+    "liga": "Colombia 2 Div",
+    "birth_year": 2004,
+    "date_of_birth": "16/03/2004",
+    "rating_promedio": 6.9875,
+    "partidos_total": 8
+  },
+  {
+    "player_id": 1146875,
+    "player_name": "Ronaldo Royero",
+    "team_name": "Unknown",
+    "liga": "Colombia 2 Div",
+    "birth_year": 2004,
+    "date_of_birth": "11/10/2004",
+    "rating_promedio": 6.771428571428571,
+    "partidos_total": 7
+  },
+  {
+    "player_id": 1906097,
+    "player_name": "Alejandro Jose Onate Zuniga",
+    "team_name": "Unknown",
+    "liga": "Colombia 2 Div",
+    "birth_year": 2003,
+    "date_of_birth": "29/10/2003",
+    "rating_promedio": 6.887499999999999,
+    "partidos_total": 8
+  },
+  {
+    "player_id": 1808388,
+    "player_name": "Fabian Villa",
+    "team_name": "Unknown",
+    "liga": "Colombia 2 Div",
+    "birth_year": 2005,
+    "date_of_birth": "20/06/2005",
+    "rating_promedio": 6.6571428571428575,
+    "partidos_total": 7
+  },
+  {
+    "player_id": 1901823,
+    "player_name": "Erik Preciado Montano",
+    "team_name": "Unknown",
+    "liga": "Colombia 2 Div",
+    "birth_year": 2004,
+    "date_of_birth": "25/01/2004",
+    "rating_promedio": 6.6625,
+    "partidos_total": 8
+  },
+  {
+    "player_id": 1839558,
+    "player_name": "Kener González",
+    "team_name": "Unknown",
+    "liga": "Colombia 2 Div",
+    "birth_year": 2005,
+    "date_of_birth": "05/10/2005",
+    "rating_promedio": 6.8625,
+    "partidos_total": 8
+  },
+  {
+    "player_id": 2441835,
+    "player_name": "Jaider Moreno Sinisterra",
+    "team_name": "Unknown",
+    "liga": "Colombia 2 Div",
+    "birth_year": 2004,
+    "date_of_birth": "10/05/2004",
+    "rating_promedio": 6.6625,
+    "partidos_total": 8
+  },
+  {
+    "player_id": 1174853,
+    "player_name": "Jhon Velez",
+    "team_name": "Unknown",
+    "liga": "Colombia 2 Div",
+    "birth_year": 2003,
+    "date_of_birth": "25/07/2003",
+    "rating_promedio": 6.533333333333334,
+    "partidos_total": 6
+  },
+  {
+    "player_id": 2441840,
+    "player_name": "Nicolás Ernesto Hernández Pinilla",
+    "team_name": "Unknown",
+    "liga": "Colombia 2 Div",
+    "birth_year": 2004,
+    "date_of_birth": "02/10/2004",
+    "rating_promedio": 6.4,
+    "partidos_total": 1
+  },
+  {
+    "player_id": 2270394,
+    "player_name": "Jhon Mauricio Maturana Carabalí",
+    "team_name": "Unknown",
+    "liga": "Colombia 2 Div",
+    "birth_year": 2009,
+    "date_of_birth": "26/11/2009",
+    "rating_promedio": 6.25,
+    "partidos_total": 4
+  },
+  {
+    "player_id": 1908165,
+    "player_name": "Manuel Caicedo",
+    "team_name": "Unknown",
+    "liga": "Colombia 2 Div",
+    "birth_year": 2004,
+    "date_of_birth": "20/01/2004",
+    "rating_promedio": 7.220000000000001,
+    "partidos_total": 5
+  },
+  {
+    "player_id": 1475280,
+    "player_name": "Luis Renteria",
+    "team_name": "Unknown",
+    "liga": "Colombia 2 Div",
+    "birth_year": 2005,
+    "date_of_birth": "27/11/2005",
+    "rating_promedio": 6.959999999999999,
+    "partidos_total": 5
+  },
+  {
+    "player_id": 1602380,
+    "player_name": "Tomas Molina",
+    "team_name": "Unknown",
+    "liga": "Colombia 2 Div",
+    "birth_year": 2004,
+    "date_of_birth": "28/04/2004",
+    "rating_promedio": 6.459999999999999,
+    "partidos_total": 5
+  },
+  {
+    "player_id": 1902549,
+    "player_name": "José David Montes Flórez",
+    "team_name": "Unknown",
+    "liga": "Colombia 2 Div",
+    "birth_year": 2004,
+    "date_of_birth": "04/12/2004",
+    "rating_promedio": 6.733333333333333,
+    "partidos_total": 6
+  },
+  {
+    "player_id": 2039649,
+    "player_name": "Kevin Andres Álvarez Carvajal",
+    "team_name": "Unknown",
+    "liga": "Colombia 2 Div",
+    "birth_year": 2005,
+    "date_of_birth": "07/01/2005",
+    "rating_promedio": 7.3500000000000005,
+    "partidos_total": 6
+  },
+  {
+    "player_id": 2039648,
+    "player_name": "Jean Paul Angulo Quiñonez",
+    "team_name": "Unknown",
+    "liga": "Colombia 2 Div",
+    "birth_year": 2005,
+    "date_of_birth": "11/10/2005",
+    "rating_promedio": 6.366666666666667,
+    "partidos_total": 3
+  },
+  {
+    "player_id": 1805108,
+    "player_name": "Erick Zapata",
+    "team_name": "Unknown",
+    "liga": "Colombia 2 Div",
+    "birth_year": 2006,
+    "date_of_birth": "25/04/2006",
+    "rating_promedio": 6.866666666666667,
+    "partidos_total": 3
+  },
+  {
+    "player_id": 1482348,
+    "player_name": "Juan Esteban Sanchez",
+    "team_name": "Unknown",
+    "liga": "Colombia 2 Div",
+    "birth_year": 2006,
+    "date_of_birth": "19/10/2006",
+    "rating_promedio": 6.633333333333333,
+    "partidos_total": 6
+  },
+  {
+    "player_id": 1628438,
+    "player_name": "Alexander Carabalí",
+    "team_name": "Unknown",
+    "liga": "Colombia 2 Div",
+    "birth_year": 2004,
+    "date_of_birth": "22/05/2004",
+    "rating_promedio": 6.76,
+    "partidos_total": 5
+  },
+  {
+    "player_id": 1904873,
+    "player_name": "Cristian Yesid Holguín Lora",
+    "team_name": "Unknown",
+    "liga": "Colombia 2 Div",
+    "birth_year": 2004,
+    "date_of_birth": "08/07/2004",
+    "rating_promedio": 6.4,
+    "partidos_total": 2
+  },
+  {
+    "player_id": 1175086,
+    "player_name": "Rionner Fruto",
+    "team_name": "Unknown",
+    "liga": "Colombia 2 Div",
+    "birth_year": 2003,
+    "date_of_birth": "29/03/2003",
+    "rating_promedio": 6.516666666666667,
+    "partidos_total": 6
+  },
+  {
+    "player_id": 1478279,
+    "player_name": "Daniel Marmolejo",
+    "team_name": "Unknown",
+    "liga": "Colombia 2 Div",
+    "birth_year": 2004,
+    "date_of_birth": "20/02/2004",
+    "rating_promedio": 7.0125,
+    "partidos_total": 8
+  },
+  {
+    "player_id": 1906061,
+    "player_name": "Juan David Ruiz Córdoba",
+    "team_name": "Unknown",
+    "liga": "Colombia 2 Div",
+    "birth_year": 2005,
+    "date_of_birth": "18/05/2005",
+    "rating_promedio": 6.65,
+    "partidos_total": 8
+  },
+  {
+    "player_id": 1904871,
+    "player_name": "Leyner David Palacios Cordoba",
+    "team_name": "Unknown",
+    "liga": "Colombia 2 Div",
+    "birth_year": 2003,
+    "date_of_birth": "07/12/2003",
+    "rating_promedio": 7.283333333333334,
+    "partidos_total": 6
+  },
+  {
+    "player_id": 2054937,
+    "player_name": "Juan Arboleda",
+    "team_name": "Unknown",
+    "liga": "Colombia 2 Div",
+    "birth_year": 2005,
+    "date_of_birth": "28/08/2005",
+    "rating_promedio": 6.6499999999999995,
+    "partidos_total": 6
+  },
+  {
+    "player_id": 2199726,
+    "player_name": "David  Santiago García Cardona",
+    "team_name": "Unknown",
+    "liga": "Colombia 2 Div",
+    "birth_year": 2005,
+    "date_of_birth": "24/05/2005",
+    "rating_promedio": 6.433333333333334,
+    "partidos_total": 3
+  },
+  {
+    "player_id": 2453450,
+    "player_name": "Yojhan Estiben Sánchez Caicedo",
+    "team_name": "Unknown",
+    "liga": "Colombia 2 Div",
+    "birth_year": 2005,
+    "date_of_birth": "07/09/2005",
+    "rating_promedio": 6.1,
+    "partidos_total": 1
+  },
+  {
+    "player_id": 2076799,
+    "player_name": "Luis Ceballos",
+    "team_name": "Unknown",
+    "liga": "Colombia 2 Div",
+    "birth_year": 2004,
+    "date_of_birth": "22/08/2004",
+    "rating_promedio": 6.5200000000000005,
+    "partidos_total": 5
+  },
+  {
+    "player_id": 1994982,
+    "player_name": "Enmanuel Arrechea",
+    "team_name": "Unknown",
+    "liga": "Colombia 2 Div",
+    "birth_year": 2005,
+    "date_of_birth": "07/05/2005",
+    "rating_promedio": 6.557142857142857,
+    "partidos_total": 7
+  },
+  {
+    "player_id": 1899911,
+    "player_name": "Samuel  Flórez",
+    "team_name": "Unknown",
+    "liga": "Colombia 2 Div",
+    "birth_year": 2006,
+    "date_of_birth": "06/02/2006",
+    "rating_promedio": 7.0375,
+    "partidos_total": 8
+  },
+  {
+    "player_id": 2057372,
+    "player_name": "Brandon Mejía",
+    "team_name": "Unknown",
+    "liga": "Colombia 2 Div",
+    "birth_year": 2006,
+    "date_of_birth": "03/01/2006",
+    "rating_promedio": 6.875,
+    "partidos_total": 8
+  },
+  {
+    "player_id": 1859736,
+    "player_name": "Javier Villamil",
+    "team_name": "Unknown",
+    "liga": "Colombia 2 Div",
+    "birth_year": 2005,
+    "date_of_birth": "16/02/2005",
+    "rating_promedio": 6.75,
+    "partidos_total": 2
+  },
+  {
+    "player_id": 1478337,
+    "player_name": "Luis Palacios",
+    "team_name": "Unknown",
+    "liga": "Colombia 2 Div",
+    "birth_year": 2004,
+    "date_of_birth": "04/10/2004",
+    "rating_promedio": 6.957142857142857,
+    "partidos_total": 7
+  },
+  {
+    "player_id": 2061926,
+    "player_name": "Juan David Sanchez Suarez",
+    "team_name": "Unknown",
+    "liga": "Colombia 2 Div",
+    "birth_year": 2005,
+    "date_of_birth": "08/08/2005",
+    "rating_promedio": 6.6,
+    "partidos_total": 1
+  },
+  {
+    "player_id": 1906021,
+    "player_name": "Milton Yasert Andrade Morán",
+    "team_name": "Unknown",
+    "liga": "Colombia 2 Div",
+    "birth_year": 2003,
+    "date_of_birth": "20/04/2003",
+    "rating_promedio": 6.8375,
+    "partidos_total": 8
+  },
+  {
+    "player_id": 1902546,
+    "player_name": "Kevin David Hurtado Rivas",
+    "team_name": "Unknown",
+    "liga": "Colombia 2 Div",
+    "birth_year": 2005,
+    "date_of_birth": "28/06/2005",
+    "rating_promedio": 6.771428571428571,
+    "partidos_total": 7
+  },
+  {
+    "player_id": 2042121,
+    "player_name": "Didier Fabián Henao Beitar",
+    "team_name": "Unknown",
+    "liga": "Colombia 2 Div",
+    "birth_year": 2008,
+    "date_of_birth": "09/03/2008",
+    "rating_promedio": 6.8125,
+    "partidos_total": 8
+  },
+  {
+    "player_id": 1977823,
+    "player_name": "Harold Ortiz",
+    "team_name": "Unknown",
+    "liga": "Colombia 2 Div",
+    "birth_year": 2004,
+    "date_of_birth": "11/03/2004",
+    "rating_promedio": 6.874999999999999,
+    "partidos_total": 8
+  },
+  {
+    "player_id": 2042381,
+    "player_name": "Juan Camilo Cuero",
+    "team_name": "Unknown",
+    "liga": "Colombia 2 Div",
+    "birth_year": 2008,
+    "date_of_birth": "18/11/2008",
+    "rating_promedio": 6.785714285714286,
+    "partidos_total": 7
+  },
+  {
+    "player_id": 1906161,
+    "player_name": "Junior Arbey Urresti González",
+    "team_name": "Unknown",
+    "liga": "Colombia 2 Div",
+    "birth_year": 2006,
+    "date_of_birth": "18/01/2006",
+    "rating_promedio": 6.566666666666666,
+    "partidos_total": 3
+  },
+  {
+    "player_id": 1478220,
+    "player_name": "Jean Vallejo",
+    "team_name": "Unknown",
+    "liga": "Colombia 2 Div",
+    "birth_year": 2003,
+    "date_of_birth": "13/03/2003",
+    "rating_promedio": 6.825,
+    "partidos_total": 8
+  },
+  {
+    "player_id": 1900285,
+    "player_name": "Santiago Hoyos Quinayas",
+    "team_name": "Unknown",
+    "liga": "Colombia 2 Div",
+    "birth_year": 2004,
+    "date_of_birth": "24/09/2004",
+    "rating_promedio": 6.8,
+    "partidos_total": 2
+  },
+  {
+    "player_id": 2171827,
+    "player_name": "Juan Sebastián Ramírez",
+    "team_name": "Unknown",
+    "liga": "Colombia 2 Div",
+    "birth_year": 2005,
+    "date_of_birth": "02/07/2005",
+    "rating_promedio": 6.8,
+    "partidos_total": 4
+  },
+  {
+    "player_id": 1906116,
+    "player_name": "Uberney Rovira Márquez",
+    "team_name": "Unknown",
+    "liga": "Colombia 2 Div",
+    "birth_year": 2005,
+    "date_of_birth": "16/09/2005",
+    "rating_promedio": 6.475,
+    "partidos_total": 4
+  },
+  {
+    "player_id": 1906023,
+    "player_name": "Felix Mosquera Ramírez",
+    "team_name": "Unknown",
+    "liga": "Colombia 2 Div",
+    "birth_year": 2006,
+    "date_of_birth": "24/07/2006",
+    "rating_promedio": 6.3999999999999995,
+    "partidos_total": 3
+  },
+  {
+    "player_id": 2018803,
+    "player_name": "Edwin Cabezas",
+    "team_name": "Unknown",
+    "liga": "Colombia 2 Div",
+    "birth_year": 2005,
+    "date_of_birth": "27/04/2005",
+    "rating_promedio": 6.8375,
+    "partidos_total": 8
+  },
+  {
+    "player_id": 2205975,
+    "player_name": "Neider Parra",
+    "team_name": "Unknown",
+    "liga": "Colombia 2 Div",
+    "birth_year": 2005,
+    "date_of_birth": "30/04/2005",
+    "rating_promedio": 6.4,
+    "partidos_total": 1
+  },
+  {
+    "player_id": 1906122,
+    "player_name": "Stiven Moreno",
+    "team_name": "Unknown",
+    "liga": "Colombia 2 Div",
+    "birth_year": 2003,
+    "date_of_birth": "04/07/2003",
+    "rating_promedio": 6.928571428571429,
+    "partidos_total": 7
+  },
+  {
+    "player_id": 2041505,
+    "player_name": "Juan David Hoyos",
+    "team_name": "Unknown",
+    "liga": "Colombia 2 Div",
+    "birth_year": 2004,
+    "date_of_birth": "28/08/2004",
+    "rating_promedio": 6.6,
+    "partidos_total": 5
+  },
+  {
+    "player_id": 1871926,
+    "player_name": "Yeiler Banguero",
+    "team_name": "Unknown",
+    "liga": "Colombia 2 Div",
+    "birth_year": 2004,
+    "date_of_birth": "28/05/2004",
+    "rating_promedio": 6.7375,
+    "partidos_total": 8
+  },
+  {
+    "player_id": 1654460,
+    "player_name": "Jhojan Amaya",
+    "team_name": "Unknown",
+    "liga": "Colombia 2 Div",
+    "birth_year": 2006,
+    "date_of_birth": "01/04/2006",
+    "rating_promedio": 7.0,
+    "partidos_total": 7
+  },
+  {
+    "player_id": 2152412,
+    "player_name": "Jhon Mario Cortes Balanta",
+    "team_name": "Unknown",
+    "liga": "Colombia 2 Div",
+    "birth_year": 2004,
+    "date_of_birth": "01/03/2004",
+    "rating_promedio": 6.5875,
+    "partidos_total": 8
+  },
+  {
+    "player_id": 2041502,
+    "player_name": "Carlos Jhoanny Gómez García",
+    "team_name": "Unknown",
+    "liga": "Colombia 2 Div",
+    "birth_year": 2004,
+    "date_of_birth": "04/11/2004",
+    "rating_promedio": 6.957142857142857,
+    "partidos_total": 7
+  },
+  {
+    "player_id": 1900297,
+    "player_name": "Leonel Ancisar Obregón Barreiro",
+    "team_name": "Unknown",
+    "liga": "Colombia 2 Div",
+    "birth_year": 2005,
+    "date_of_birth": "15/04/2005",
+    "rating_promedio": 6.616666666666667,
+    "partidos_total": 6
+  },
+  {
+    "player_id": 1906081,
+    "player_name": "Leider Montaño",
+    "team_name": "Unknown",
+    "liga": "Colombia 2 Div",
+    "birth_year": 2004,
+    "date_of_birth": "11/04/2004",
+    "rating_promedio": 6.74,
+    "partidos_total": 5
+  },
+  {
+    "player_id": 2125636,
+    "player_name": "Juan Quejada",
+    "team_name": "Unknown",
+    "liga": "Colombia 2 Div",
+    "birth_year": 2006,
+    "date_of_birth": "27/09/2006",
+    "rating_promedio": 6.7,
+    "partidos_total": 3
+  },
+  {
+    "player_id": 1113527,
+    "player_name": "Julián Palacios",
+    "team_name": "Unknown",
+    "liga": "Colombia 2 Div",
+    "birth_year": 2003,
+    "date_of_birth": "07/08/2003",
+    "rating_promedio": 6.85,
+    "partidos_total": 4
+  },
+  {
+    "player_id": 1831399,
+    "player_name": "Nilzo Ramírez",
+    "team_name": "Unknown",
+    "liga": "Colombia 2 Div",
+    "birth_year": 2005,
+    "date_of_birth": "03/05/2005",
+    "rating_promedio": 7.1,
+    "partidos_total": 5
+  },
+  {
+    "player_id": 1388634,
+    "player_name": "Rubio España",
+    "team_name": "Unknown",
+    "liga": "Colombia 2 Div",
+    "birth_year": 2004,
+    "date_of_birth": "11/01/2004",
+    "rating_promedio": 6.75,
+    "partidos_total": 6
+  },
+  {
+    "player_id": 2442336,
+    "player_name": "Frey David Berrio Roqueme",
+    "team_name": "Unknown",
+    "liga": "Colombia 2 Div",
+    "birth_year": 2007,
+    "date_of_birth": "02/02/2007",
+    "rating_promedio": 6.92,
+    "partidos_total": 5
+  },
+  {
+    "player_id": 2063961,
+    "player_name": "Emanuel Londoño",
+    "team_name": "Unknown",
+    "liga": "Colombia 2 Div",
+    "birth_year": 2005,
+    "date_of_birth": "18/10/2005",
+    "rating_promedio": 6.883333333333333,
+    "partidos_total": 6
+  },
+  {
+    "player_id": 1536246,
+    "player_name": "Juan Pablo Aristizábal",
+    "team_name": "Unknown",
+    "liga": "Colombia 2 Div",
+    "birth_year": 2005,
+    "date_of_birth": "10/09/2005",
+    "rating_promedio": 6.375,
+    "partidos_total": 4
+  },
+  {
+    "player_id": 1388637,
+    "player_name": "Tomás Soto",
+    "team_name": "Unknown",
+    "liga": "Colombia 2 Div",
+    "birth_year": 2004,
+    "date_of_birth": "12/10/2004",
+    "rating_promedio": 6.7,
+    "partidos_total": 3
+  },
+  {
+    "player_id": 1388644,
+    "player_name": "Andrés Tovar",
+    "team_name": "Unknown",
+    "liga": "Colombia 2 Div",
+    "birth_year": 2006,
+    "date_of_birth": "25/03/2006",
+    "rating_promedio": 7.199999999999999,
+    "partidos_total": 2
+  },
+  {
+    "player_id": 1647753,
+    "player_name": "Didier Palacios",
+    "team_name": "Unknown",
+    "liga": "Colombia 2 Div",
+    "birth_year": 2004,
+    "date_of_birth": "03/06/2004",
+    "rating_promedio": 7.65,
+    "partidos_total": 2
+  },
+  {
+    "player_id": 2048967,
+    "player_name": "Didier Dawson",
+    "team_name": "Unknown",
+    "liga": "Colombia 2 Div",
+    "birth_year": 2005,
+    "date_of_birth": "10/10/2005",
+    "rating_promedio": 7.233333333333333,
+    "partidos_total": 6
+  },
+  {
+    "player_id": 1465984,
+    "player_name": "Daniel Zapata",
+    "team_name": "Unknown",
+    "liga": "Colombia 2 Div",
+    "birth_year": 2003,
+    "date_of_birth": "14/12/2003",
+    "rating_promedio": 6.7,
+    "partidos_total": 1
+  },
+  {
+    "player_id": 2039310,
+    "player_name": "Juan Jose Catano",
+    "team_name": "Unknown",
+    "liga": "Colombia 2 Div",
+    "birth_year": 2008,
+    "date_of_birth": "21/05/2008",
+    "rating_promedio": 6.875,
+    "partidos_total": 4
+  },
+  {
+    "player_id": 1906181,
+    "player_name": "Freddy Enrique Molina Salcedo",
+    "team_name": "Unknown",
+    "liga": "Colombia 2 Div",
+    "birth_year": 2004,
+    "date_of_birth": "01/01/2004",
+    "rating_promedio": 7.0,
+    "partidos_total": 7
+  },
+  {
+    "player_id": 2183867,
+    "player_name": "Jesus Peñaloza",
+    "team_name": "Unknown",
+    "liga": "Colombia 2 Div",
+    "birth_year": 2008,
+    "date_of_birth": "01/08/2008",
+    "rating_promedio": 6.928571428571429,
+    "partidos_total": 7
+  },
+  {
+    "player_id": 1201151,
+    "player_name": "José Mercado",
+    "team_name": "Unknown",
+    "liga": "Colombia 2 Div",
+    "birth_year": 2003,
+    "date_of_birth": "21/08/2003",
+    "rating_promedio": 6.914285714285714,
+    "partidos_total": 7
+  },
+  {
+    "player_id": 1414729,
+    "player_name": "Jhon Lerma",
+    "team_name": "Unknown",
+    "liga": "Colombia 2 Div",
+    "birth_year": 2003,
+    "date_of_birth": "01/01/2003",
+    "rating_promedio": 7.1,
+    "partidos_total": 7
+  },
+  {
+    "player_id": 1906075,
+    "player_name": "Juan Camilo Romero Ternera",
+    "team_name": "Unknown",
+    "liga": "Colombia 2 Div",
+    "birth_year": 2005,
+    "date_of_birth": "15/06/2005",
+    "rating_promedio": 6.75,
+    "partidos_total": 2
+  },
+  {
+    "player_id": 2172102,
+    "player_name": "Cristian Iguarán",
+    "team_name": "Unknown",
+    "liga": "Colombia 2 Div",
+    "birth_year": 2005,
+    "date_of_birth": "12/06/2005",
+    "rating_promedio": 6.914285714285714,
+    "partidos_total": 7
+  },
+  {
+    "player_id": 1836596,
+    "player_name": "Gabriel Arrieta",
+    "team_name": "Unknown",
+    "liga": "Colombia 2 Div",
+    "birth_year": 2006,
+    "date_of_birth": "14/01/2006",
+    "rating_promedio": 7.385714285714286,
+    "partidos_total": 7
+  },
+  {
+    "player_id": 1906041,
+    "player_name": "Andrés Lorenzo Carreño Zambrano",
+    "team_name": "Unknown",
+    "liga": "Colombia 2 Div",
+    "birth_year": 2003,
+    "date_of_birth": "05/05/2003",
+    "rating_promedio": 7.428571428571429,
+    "partidos_total": 7
+  },
+  {
+    "player_id": 2441820,
+    "player_name": "Oscar Daniel Surmay Vasquez",
+    "team_name": "Unknown",
+    "liga": "Colombia 2 Div",
+    "birth_year": 2006,
+    "date_of_birth": "09/11/2006",
+    "rating_promedio": 6.566666666666666,
+    "partidos_total": 3
+  },
+  {
+    "player_id": 1137867,
+    "player_name": "Alejandro Aguilar",
+    "team_name": "Unknown",
+    "liga": "Colombia 2 Div",
+    "birth_year": 2004,
+    "date_of_birth": "24/07/2004",
+    "rating_promedio": 7.0249999999999995,
+    "partidos_total": 8
+  },
+  {
+    "player_id": 2008383,
+    "player_name": "Juan Alberto Sanchez",
+    "team_name": "Unknown",
+    "liga": "Colombia 2 Div",
+    "birth_year": 2003,
+    "date_of_birth": "21/01/2003",
+    "rating_promedio": 7.1125,
+    "partidos_total": 8
+  },
+  {
+    "player_id": 1831389,
+    "player_name": "Sergio Díaz",
+    "team_name": "Unknown",
+    "liga": "Colombia 2 Div",
+    "birth_year": 2005,
+    "date_of_birth": "13/05/2005",
+    "rating_promedio": 6.720000000000001,
+    "partidos_total": 5
+  },
+  {
+    "player_id": 1174174,
+    "player_name": "Andrés Felipe Alfonso Ciprian",
+    "team_name": "Unknown",
+    "liga": "Colombia 2 Div",
+    "birth_year": 2005,
+    "date_of_birth": "01/02/2005",
+    "rating_promedio": 7.2124999999999995,
+    "partidos_total": 8
+  },
+  {
+    "player_id": 1800730,
+    "player_name": "Jafe Perez",
+    "team_name": "Unknown",
+    "liga": "Colombia 2 Div",
+    "birth_year": 2005,
+    "date_of_birth": "30/01/2005",
+    "rating_promedio": 6.55,
+    "partidos_total": 8
+  },
+  {
+    "player_id": 1809348,
+    "player_name": "Mauricio Medina",
+    "team_name": "Unknown",
+    "liga": "Colombia 2 Div",
+    "birth_year": 2005,
+    "date_of_birth": "09/04/2005",
+    "rating_promedio": 6.425000000000001,
+    "partidos_total": 4
+  },
+  {
+    "player_id": 1809337,
+    "player_name": "Jhonier Julio",
+    "team_name": "Unknown",
+    "liga": "Colombia 2 Div",
+    "birth_year": 2005,
+    "date_of_birth": "04/02/2005",
+    "rating_promedio": 6.614285714285714,
+    "partidos_total": 7
+  },
+  {
+    "player_id": 1901095,
+    "player_name": "Carlos Andres  Franco Bustillo",
+    "team_name": "Unknown",
+    "liga": "Colombia 2 Div",
+    "birth_year": 2004,
+    "date_of_birth": "18/01/2004",
+    "rating_promedio": 6.8999999999999995,
+    "partidos_total": 7
+  },
+  {
+    "player_id": 2228207,
+    "player_name": "Farid Camilo Tamayo Mosquera",
+    "team_name": "Unknown",
+    "liga": "Colombia 2 Div",
+    "birth_year": 2007,
+    "date_of_birth": "25/10/2007",
+    "rating_promedio": 6.4,
+    "partidos_total": 1
+  },
+  {
+    "player_id": 1900296,
+    "player_name": "José Ismael Cundumí Narváez",
+    "team_name": "Unknown",
+    "liga": "Colombia 2 Div",
+    "birth_year": 2004,
+    "date_of_birth": "18/09/2004",
+    "rating_promedio": 6.45,
+    "partidos_total": 2
+  },
+  {
+    "player_id": 1902547,
+    "player_name": "Tomás Andrés Díaz Carabali",
+    "team_name": "Unknown",
+    "liga": "Colombia 2 Div",
+    "birth_year": 2005,
+    "date_of_birth": "25/09/2005",
+    "rating_promedio": 7.057142857142857,
+    "partidos_total": 7
+  },
+  {
+    "player_id": 1174856,
+    "player_name": "Jesús Díaz",
+    "team_name": "Unknown",
+    "liga": "Colombia 2 Div",
+    "birth_year": 2004,
+    "date_of_birth": "14/05/2004",
+    "rating_promedio": 6.8428571428571425,
+    "partidos_total": 7
+  },
+  {
+    "player_id": 1482339,
+    "player_name": "William López",
+    "team_name": "Unknown",
+    "liga": "Colombia 2 Div",
+    "birth_year": 2006,
+    "date_of_birth": "19/09/2006",
+    "rating_promedio": 6.449999999999999,
+    "partidos_total": 2
+  },
+  {
+    "player_id": 1808911,
+    "player_name": "Santiago Agamez",
+    "team_name": "Unknown",
+    "liga": "Colombia 2 Div",
+    "birth_year": 2005,
+    "date_of_birth": "14/03/2005",
+    "rating_promedio": 6.957142857142857,
+    "partidos_total": 7
+  },
+  {
+    "player_id": 2451713,
+    "player_name": "Juan Camilo Quiñones Cuellar",
+    "team_name": "Unknown",
+    "liga": "Colombia 2 Div",
+    "birth_year": 2005,
+    "date_of_birth": "14/09/2005",
+    "rating_promedio": 6.7,
+    "partidos_total": 6
+  },
+  {
+    "player_id": 1900449,
+    "player_name": "Diego Armando Díaz Caicedo",
+    "team_name": "Unknown",
+    "liga": "Colombia 2 Div",
+    "birth_year": 2005,
+    "date_of_birth": "23/03/2005",
+    "rating_promedio": 6.6,
+    "partidos_total": 4
+  },
+  {
+    "player_id": 1909790,
+    "player_name": "William Mosquera Borja",
+    "team_name": "Unknown",
+    "liga": "Colombia 2 Div",
+    "birth_year": 2005,
+    "date_of_birth": "09/01/2005",
+    "rating_promedio": 6.533333333333334,
+    "partidos_total": 3
+  },
+  {
+    "player_id": 1902016,
+    "player_name": "Hanser Angulo",
+    "team_name": "Unknown",
+    "liga": "Colombia 2 Div",
+    "birth_year": 2003,
+    "date_of_birth": "17/07/2003",
+    "rating_promedio": 6.55,
+    "partidos_total": 6
+  },
+  {
+    "player_id": 1427847,
+    "player_name": "Dilan Tapia",
+    "team_name": "Unknown",
+    "liga": "Colombia 2 Div",
+    "birth_year": 2003,
+    "date_of_birth": "01/05/2003",
+    "rating_promedio": 7.0,
+    "partidos_total": 3
+  },
+  {
+    "player_id": 1906127,
+    "player_name": "Kevin Estiven Mosquera Urrutia",
+    "team_name": "Unknown",
+    "liga": "Colombia 2 Div",
+    "birth_year": 2004,
+    "date_of_birth": "07/04/2004",
+    "rating_promedio": 6.74,
+    "partidos_total": 5
+  },
+  {
+    "player_id": 2175312,
+    "player_name": "Ronald Rodallega",
+    "team_name": "Unknown",
+    "liga": "Colombia 2 Div",
+    "birth_year": 2008,
+    "date_of_birth": "05/02/2008",
+    "rating_promedio": 6.9,
+    "partidos_total": 1
+  },
+  {
+    "player_id": 1906133,
+    "player_name": "Luis Alberto Pérez Villar",
+    "team_name": "Unknown",
+    "liga": "Colombia 2 Div",
+    "birth_year": 2003,
+    "date_of_birth": "25/04/2003",
+    "rating_promedio": 6.683333333333334,
+    "partidos_total": 6
+  },
+  {
+    "player_id": 2461844,
+    "player_name": "Mateo Valencia Gómez",
+    "team_name": "Unknown",
+    "liga": "Colombia 2 Div",
+    "birth_year": 2004,
+    "date_of_birth": "10/01/2004",
+    "rating_promedio": 6.933333333333334,
+    "partidos_total": 3
+  },
+  {
+    "player_id": 1388936,
+    "player_name": "Johan Muñoz",
+    "team_name": "Unknown",
+    "liga": "Colombia 2 Div",
+    "birth_year": 2004,
+    "date_of_birth": "22/07/2004",
+    "rating_promedio": 6.8,
+    "partidos_total": 3
+  },
+  {
+    "player_id": 1618634,
+    "player_name": "Freilin Moreno",
+    "team_name": "Unknown",
+    "liga": "Colombia 2 Div",
+    "birth_year": 2005,
+    "date_of_birth": "06/04/2005",
+    "rating_promedio": 6.88,
+    "partidos_total": 5
+  },
+  {
+    "player_id": 2464432,
+    "player_name": "Juan Jeronimo Alba Quintero",
+    "team_name": "Unknown",
+    "liga": "Colombia 2 Div",
+    "birth_year": 2005,
+    "date_of_birth": "23/04/2005",
+    "rating_promedio": 6.8,
+    "partidos_total": 3
+  },
+  {
+    "player_id": 1465574,
+    "player_name": "Juan Farías",
+    "team_name": "Unknown",
+    "liga": "Colombia 2 Div",
+    "birth_year": 2003,
+    "date_of_birth": "04/10/2003",
+    "rating_promedio": 6.68,
+    "partidos_total": 5
+  },
+  {
+    "player_id": 2040668,
+    "player_name": "Kleber Díaz",
+    "team_name": "Unknown",
+    "liga": "Colombia 2 Div",
+    "birth_year": 2004,
+    "date_of_birth": "13/01/2004",
+    "rating_promedio": 6.533333333333334,
+    "partidos_total": 3
+  },
+  {
+    "player_id": 1906109,
+    "player_name": "Jhoan Alberto Pinto Gámez",
+    "team_name": "Unknown",
+    "liga": "Colombia 2 Div",
+    "birth_year": 2005,
+    "date_of_birth": "22/07/2005",
+    "rating_promedio": 6.8,
+    "partidos_total": 2
+  },
+  {
+    "player_id": 1855842,
+    "player_name": "Santiago Mora",
+    "team_name": "Unknown",
+    "liga": "Colombia 2 Div",
+    "birth_year": 2008,
+    "date_of_birth": "11/03/2008",
+    "rating_promedio": 6.966666666666666,
+    "partidos_total": 3
+  },
+  {
+    "player_id": 1913838,
+    "player_name": "Yeison Alejandro Castillo Caicedo",
+    "team_name": "Unknown",
+    "liga": "Colombia 2 Div",
+    "birth_year": 2006,
+    "date_of_birth": "29/05/2006",
+    "rating_promedio": 6.475,
+    "partidos_total": 4
+  },
+  {
+    "player_id": 1385943,
+    "player_name": "Kleiton Cuellar",
+    "team_name": "Unknown",
+    "liga": "Colombia 2 Div",
+    "birth_year": 2004,
+    "date_of_birth": "26/02/2004",
+    "rating_promedio": 6.975,
+    "partidos_total": 4
+  },
+  {
+    "player_id": 1146865,
+    "player_name": "William Hurtado",
+    "team_name": "Unknown",
+    "liga": "Colombia 2 Div",
+    "birth_year": 2004,
+    "date_of_birth": "31/05/2004",
+    "rating_promedio": 6.9,
+    "partidos_total": 2
+  },
+  {
+    "player_id": 1906084,
+    "player_name": "Heyder De Arco",
+    "team_name": "Unknown",
+    "liga": "Colombia 2 Div",
+    "birth_year": 2005,
+    "date_of_birth": "03/07/2005",
+    "rating_promedio": 6.7,
+    "partidos_total": 3
+  },
+  {
+    "player_id": 2057321,
+    "player_name": "Victor Lasso",
+    "team_name": "Unknown",
+    "liga": "Colombia 2 Div",
+    "birth_year": 2005,
+    "date_of_birth": "04/11/2005",
+    "rating_promedio": 6.533333333333334,
+    "partidos_total": 3
+  },
+  {
+    "player_id": 1174857,
+    "player_name": "Humberto García Redondo",
+    "team_name": "Unknown",
+    "liga": "Colombia 2 Div",
+    "birth_year": 2004,
+    "date_of_birth": "30/04/2004",
+    "rating_promedio": 6.699999999999999,
+    "partidos_total": 2
+  },
+  {
+    "player_id": 1951930,
+    "player_name": "Juan Jose Rey Hernandez",
+    "team_name": "Unknown",
+    "liga": "Colombia 2 Div",
+    "birth_year": 2007,
+    "date_of_birth": "10/08/2007",
+    "rating_promedio": 6.2,
+    "partidos_total": 1
+  },
+  {
+    "player_id": 2488548,
+    "player_name": "Felipe Montero Alarcon",
+    "team_name": "Unknown",
+    "liga": "Colombia 2 Div",
+    "birth_year": 2009,
+    "date_of_birth": "29/03/2009",
+    "rating_promedio": 6.5,
+    "partidos_total": 1
+  },
+  {
+    "player_id": 1517441,
+    "player_name": "Tarcísio Muniz",
+    "team_name": "Unknown",
+    "liga": "Paulista A1",
+    "birth_year": 2003,
+    "date_of_birth": "30/08/2003",
+    "rating_promedio": 6.166666666666667,
+    "partidos_total": 3
+  },
+  {
+    "player_id": 1107067,
+    "player_name": "João Victor Balão",
+    "team_name": "Unknown",
+    "liga": "Paulista A1",
+    "birth_year": 2003,
+    "date_of_birth": "07/01/2003",
+    "rating_promedio": 6.25,
+    "partidos_total": 2
+  },
+  {
+    "player_id": 2191860,
+    "player_name": "Robinho Júnior",
+    "team_name": "Unknown",
+    "liga": "Paulista A1",
+    "birth_year": 2007,
+    "date_of_birth": "17/12/2007",
+    "rating_promedio": 6.4799999999999995,
+    "partidos_total": 5
+  },
+  {
+    "player_id": 1587827,
+    "player_name": "Gustavo Henrique Pereira",
+    "team_name": "Unknown",
+    "liga": "Paulista A1",
+    "birth_year": 2005,
+    "date_of_birth": "07/04/2005",
+    "rating_promedio": 6.5,
+    "partidos_total": 1
+  },
+  {
+    "player_id": 1884605,
+    "player_name": "Mateus Xavier de Sousa",
+    "team_name": "Unknown",
+    "liga": "Paulista A1",
+    "birth_year": 2007,
+    "date_of_birth": "28/06/2007",
+    "rating_promedio": 6.5,
+    "partidos_total": 2
+  },
+  {
+    "player_id": 2039241,
+    "player_name": "Vinicius Rodrigues Lira",
+    "team_name": "Unknown",
+    "liga": "Paulista A1",
+    "birth_year": 2007,
+    "date_of_birth": "12/10/2007",
+    "rating_promedio": 6.933333333333334,
+    "partidos_total": 6
+  },
+  {
+    "player_id": 1159656,
+    "player_name": "Miguelito",
+    "team_name": "Unknown",
+    "liga": "Paulista A1",
+    "birth_year": 2004,
+    "date_of_birth": "25/04/2004",
+    "rating_promedio": 6.728571428571429,
+    "partidos_total": 7
+  },
+  {
+    "player_id": 1836636,
+    "player_name": "Tavinho",
+    "team_name": "Unknown",
+    "liga": "Paulista A1",
+    "birth_year": 2004,
+    "date_of_birth": "19/07/2004",
+    "rating_promedio": 6.57,
+    "partidos_total": 10
+  },
+  {
+    "player_id": 1651675,
+    "player_name": "Diego Galo",
+    "team_name": "Unknown",
+    "liga": "Paulista A1",
+    "birth_year": 2005,
+    "date_of_birth": "04/09/2005",
+    "rating_promedio": 6.683333333333334,
+    "partidos_total": 6
+  },
+  {
+    "player_id": 2440201,
+    "player_name": "Alemão",
+    "team_name": "Unknown",
+    "liga": "Paulista A1",
+    "birth_year": 2007,
+    "date_of_birth": "02/09/2007",
+    "rating_promedio": 7.0,
+    "partidos_total": 3
+  },
+  {
+    "player_id": 995288,
+    "player_name": "Kauã",
+    "team_name": "Unknown",
+    "liga": "Paulista A1",
+    "birth_year": 2003,
+    "date_of_birth": "02/09/2003",
+    "rating_promedio": 6.75,
+    "partidos_total": 4
+  },
+  {
+    "player_id": 1524110,
+    "player_name": "Fabrício Dias",
+    "team_name": "Unknown",
+    "liga": "Paulista A1",
+    "birth_year": 2004,
+    "date_of_birth": "26/08/2004",
+    "rating_promedio": 6.2,
+    "partidos_total": 1
+  },
+  {
+    "player_id": 1830626,
+    "player_name": "Kewen",
+    "team_name": "Unknown",
+    "liga": "Paulista A1",
+    "birth_year": 2005,
+    "date_of_birth": "07/01/2005",
+    "rating_promedio": 6.7,
+    "partidos_total": 4
+  },
+  {
+    "player_id": 2209605,
+    "player_name": "Kauan Cunha",
+    "team_name": "Unknown",
+    "liga": "Paulista A1",
+    "birth_year": 2006,
+    "date_of_birth": "01/06/2006",
+    "rating_promedio": 6.44,
+    "partidos_total": 5
+  },
+  {
+    "player_id": 1644830,
+    "player_name": "Renê Sousa",
+    "team_name": "Unknown",
+    "liga": "Paulista A1",
+    "birth_year": 2003,
+    "date_of_birth": "07/10/2003",
+    "rating_promedio": 6.7124999999999995,
+    "partidos_total": 8
+  },
+  {
+    "player_id": 1645837,
+    "player_name": "Maceió",
+    "team_name": "Unknown",
+    "liga": "Paulista A1",
+    "birth_year": 2003,
+    "date_of_birth": "14/07/2003",
+    "rating_promedio": 7.199999999999999,
+    "partidos_total": 9
+  },
+  {
+    "player_id": 1120766,
+    "player_name": "Mateus Cecchini Muller",
+    "team_name": "Unknown",
+    "liga": "Paulista A1",
+    "birth_year": 2003,
+    "date_of_birth": "25/02/2003",
+    "rating_promedio": 6.640000000000001,
+    "partidos_total": 5
+  },
+  {
+    "player_id": 2032019,
+    "player_name": "Keven Coloni",
+    "team_name": "Unknown",
+    "liga": "Paulista A1",
+    "birth_year": 2005,
+    "date_of_birth": "14/04/2005",
+    "rating_promedio": 6.5,
+    "partidos_total": 2
+  },
+  {
+    "player_id": 2029380,
+    "player_name": "Gustavo Sciencia",
+    "team_name": "Unknown",
+    "liga": "Paulista A1",
+    "birth_year": 2004,
+    "date_of_birth": "01/01/2004",
+    "rating_promedio": 6.675,
+    "partidos_total": 4
+  },
+  {
+    "player_id": 1645835,
+    "player_name": "Denis",
+    "team_name": "Unknown",
+    "liga": "Paulista A1",
+    "birth_year": 2004,
+    "date_of_birth": "08/01/2004",
+    "rating_promedio": 6.725,
+    "partidos_total": 4
+  },
+  {
+    "player_id": 1106603,
+    "player_name": "Agustín Giay",
+    "team_name": "Unknown",
+    "liga": "Paulista A1",
+    "birth_year": 2004,
+    "date_of_birth": "16/01/2004",
+    "rating_promedio": 6.7,
+    "partidos_total": 5
+  },
+  {
+    "player_id": 1485284,
+    "player_name": "Luis Benedetti",
+    "team_name": "Unknown",
+    "liga": "Paulista A1",
+    "birth_year": 2006,
+    "date_of_birth": "07/06/2006",
+    "rating_promedio": 6.625,
+    "partidos_total": 4
+  },
+  {
+    "player_id": 1116665,
+    "player_name": "Jefté",
+    "team_name": "Unknown",
+    "liga": "Paulista A1",
+    "birth_year": 2003,
+    "date_of_birth": "21/12/2003",
+    "rating_promedio": 6.666666666666667,
+    "partidos_total": 3
+  },
+  {
+    "player_id": 2057364,
+    "player_name": "Larson",
+    "team_name": "Unknown",
+    "liga": "Paulista A1",
+    "birth_year": 2005,
+    "date_of_birth": "10/07/2005",
+    "rating_promedio": 6.55,
+    "partidos_total": 4
+  },
+  {
+    "player_id": 1835889,
+    "player_name": "Allan",
+    "team_name": "Unknown",
+    "liga": "Paulista A1",
+    "birth_year": 2004,
+    "date_of_birth": "19/04/2004",
+    "rating_promedio": 6.927272727272728,
+    "partidos_total": 11
+  },
+  {
+    "player_id": 1597267,
+    "player_name": "Luighi Hanri",
+    "team_name": "Unknown",
+    "liga": "Paulista A1",
+    "birth_year": 2006,
+    "date_of_birth": "30/04/2006",
+    "rating_promedio": 6.683333333333334,
+    "partidos_total": 6
+  },
+  {
+    "player_id": 1633503,
+    "player_name": "Erick Belé",
+    "team_name": "Unknown",
+    "liga": "Paulista A1",
+    "birth_year": 2007,
+    "date_of_birth": "20/01/2007",
+    "rating_promedio": 6.533333333333334,
+    "partidos_total": 3
+  },
+  {
+    "player_id": 1884646,
+    "player_name": "Luis Pacheco",
+    "team_name": "Unknown",
+    "liga": "Paulista A1",
+    "birth_year": 2008,
+    "date_of_birth": "02/02/2008",
+    "rating_promedio": 6.7,
+    "partidos_total": 3
+  },
+  {
+    "player_id": 1485294,
+    "player_name": "Riquelme Fillipi",
+    "team_name": "Unknown",
+    "liga": "Paulista A1",
+    "birth_year": 2006,
+    "date_of_birth": "15/09/2006",
+    "rating_promedio": 6.550000000000001,
+    "partidos_total": 4
+  },
+  {
+    "player_id": 1647612,
+    "player_name": "André Luiz",
+    "team_name": "Unknown",
+    "liga": "Paulista A1",
+    "birth_year": 2006,
+    "date_of_birth": "20/06/2006",
+    "rating_promedio": 6.925,
+    "partidos_total": 8
+  },
+  {
+    "player_id": 1199261,
+    "player_name": "Breno Bidon",
+    "team_name": "Unknown",
+    "liga": "Paulista A1",
+    "birth_year": 2005,
+    "date_of_birth": "20/02/2005",
+    "rating_promedio": 6.875,
+    "partidos_total": 8
+  },
+  {
+    "player_id": 1922597,
+    "player_name": "Gui Negão",
+    "team_name": "Unknown",
+    "liga": "Paulista A1",
+    "birth_year": 2007,
+    "date_of_birth": "06/02/2007",
+    "rating_promedio": 6.485714285714286,
+    "partidos_total": 7
+  },
+  {
+    "player_id": 1916131,
+    "player_name": "Dieguinho",
+    "team_name": "Unknown",
+    "liga": "Paulista A1",
+    "birth_year": 2007,
+    "date_of_birth": "16/09/2007",
+    "rating_promedio": 6.685714285714285,
+    "partidos_total": 7
+  },
+  {
+    "player_id": 1411152,
+    "player_name": "Kayke Ferrari",
+    "team_name": "Unknown",
+    "liga": "Paulista A1",
+    "birth_year": 2004,
+    "date_of_birth": "28/04/2004",
+    "rating_promedio": 6.725,
+    "partidos_total": 4
+  },
+  {
+    "player_id": 2039254,
+    "player_name": "João Vitor",
+    "team_name": "Unknown",
+    "liga": "Paulista A1",
+    "birth_year": 2007,
+    "date_of_birth": "03/01/2007",
+    "rating_promedio": 6.6,
+    "partidos_total": 1
+  },
+  {
+    "player_id": 1485272,
+    "player_name": "Felipe Longo",
+    "team_name": "Unknown",
+    "liga": "Paulista A1",
+    "birth_year": 2005,
+    "date_of_birth": "05/03/2005",
+    "rating_promedio": 6.8,
+    "partidos_total": 1
+  },
+  {
+    "player_id": 1411150,
+    "player_name": "João Pedro Tchoca",
+    "team_name": "Unknown",
+    "liga": "Paulista A1",
+    "birth_year": 2003,
+    "date_of_birth": "31/12/2003",
+    "rating_promedio": 7.333333333333333,
+    "partidos_total": 3
+  },
+  {
+    "player_id": 1482358,
+    "player_name": "Bahia",
+    "team_name": "Unknown",
+    "liga": "Paulista A1",
+    "birth_year": 2006,
+    "date_of_birth": "02/01/2006",
+    "rating_promedio": 6.3,
+    "partidos_total": 1
+  },
+  {
+    "player_id": 2440888,
+    "player_name": "Diego Leão",
+    "team_name": "Unknown",
+    "liga": "Paulista A1",
+    "birth_year": 2005,
+    "date_of_birth": "11/02/2005",
+    "rating_promedio": 6.533333333333334,
+    "partidos_total": 3
+  },
+  {
+    "player_id": 1470165,
+    "player_name": "João Gabriel",
+    "team_name": "Unknown",
+    "liga": "Paulista A1",
+    "birth_year": 2005,
+    "date_of_birth": "24/02/2005",
+    "rating_promedio": 6.3,
+    "partidos_total": 2
+  },
+  {
+    "player_id": 1631206,
+    "player_name": "Gustavo Lopes Telles",
+    "team_name": "Unknown",
+    "liga": "Paulista A1",
+    "birth_year": 2005,
+    "date_of_birth": "28/04/2005",
+    "rating_promedio": 6.514285714285714,
+    "partidos_total": 7
+  },
+  {
+    "player_id": 2440897,
+    "player_name": "Lucas Emanuel",
+    "team_name": "Unknown",
+    "liga": "Paulista A1",
+    "birth_year": 2008,
+    "date_of_birth": "29/09/2008",
+    "rating_promedio": 6.528571428571429,
+    "partidos_total": 7
+  },
+  {
+    "player_id": 2440899,
+    "player_name": "Nikolas",
+    "team_name": "Unknown",
+    "liga": "Paulista A1",
+    "birth_year": 2006,
+    "date_of_birth": "06/08/2006",
+    "rating_promedio": 6.5,
+    "partidos_total": 5
+  },
+  {
+    "player_id": 2440893,
+    "player_name": "João Damião",
+    "team_name": "Unknown",
+    "liga": "Paulista A1",
+    "birth_year": 2008,
+    "date_of_birth": "26/09/2008",
+    "rating_promedio": 6.42,
+    "partidos_total": 5
+  },
+  {
+    "player_id": 2440891,
+    "player_name": "Gustavo Almeida",
+    "team_name": "Unknown",
+    "liga": "Paulista A1",
+    "birth_year": 2006,
+    "date_of_birth": "04/01/2006",
+    "rating_promedio": 6.6,
+    "partidos_total": 2
+  },
+  {
+    "player_id": 2440896,
+    "player_name": "Julio",
+    "team_name": "Unknown",
+    "liga": "Paulista A1",
+    "birth_year": 2007,
+    "date_of_birth": "25/06/2007",
+    "rating_promedio": 6.5,
+    "partidos_total": 5
+  },
+  {
+    "player_id": 2440894,
+    "player_name": "Juan",
+    "team_name": "Unknown",
+    "liga": "Paulista A1",
+    "birth_year": 2006,
+    "date_of_birth": "11/03/2006",
+    "rating_promedio": 6.65,
+    "partidos_total": 2
+  },
+  {
+    "player_id": 2043623,
+    "player_name": "Kaio Ganga",
+    "team_name": "Unknown",
+    "liga": "Paulista A1",
+    "birth_year": 2007,
+    "date_of_birth": "23/01/2007",
+    "rating_promedio": 6.566666666666666,
+    "partidos_total": 3
+  },
+  {
+    "player_id": 1654423,
+    "player_name": "Thalles",
+    "team_name": "Unknown",
+    "liga": "Paulista A1",
+    "birth_year": 2005,
+    "date_of_birth": "28/04/2005",
+    "rating_promedio": 6.475,
+    "partidos_total": 4
+  },
+  {
+    "player_id": 2028749,
+    "player_name": "Henrique Lôvo Teles",
+    "team_name": "Unknown",
+    "liga": "Paulista A1",
+    "birth_year": 2006,
+    "date_of_birth": "06/09/2006",
+    "rating_promedio": 7.033333333333334,
+    "partidos_total": 3
+  },
+  {
+    "player_id": 1470509,
+    "player_name": "Wesley Santos",
+    "team_name": "Unknown",
+    "liga": "Paulista A1",
+    "birth_year": 2004,
+    "date_of_birth": "06/06/2004",
+    "rating_promedio": 6.5,
+    "partidos_total": 2
+  },
+  {
+    "player_id": 2033952,
+    "player_name": "Renan Araujo",
+    "team_name": "Unknown",
+    "liga": "Paulista A1",
+    "birth_year": 2003,
+    "date_of_birth": "07/03/2003",
+    "rating_promedio": 7.0,
+    "partidos_total": 1
+  },
+  {
+    "player_id": 1463904,
+    "player_name": "Gustavo Neves",
+    "team_name": "Unknown",
+    "liga": "Paulista A1",
+    "birth_year": 2004,
+    "date_of_birth": "23/04/2004",
+    "rating_promedio": 6.785714285714286,
+    "partidos_total": 7
+  },
+  {
+    "player_id": 1112896,
+    "player_name": "Ignacio Sosa",
+    "team_name": "Unknown",
+    "liga": "Paulista A1",
+    "birth_year": 2003,
+    "date_of_birth": "31/08/2003",
+    "rating_promedio": 7.033333333333333,
+    "partidos_total": 9
+  },
+  {
+    "player_id": 1587965,
+    "player_name": "Vinicinho",
+    "team_name": "Unknown",
+    "liga": "Paulista A1",
+    "birth_year": 2004,
+    "date_of_birth": "20/02/2004",
+    "rating_promedio": 6.714285714285714,
+    "partidos_total": 7
+  },
+  {
+    "player_id": 2032806,
+    "player_name": "Davi Gomes",
+    "team_name": "Unknown",
+    "liga": "Paulista A1",
+    "birth_year": 2005,
+    "date_of_birth": "06/06/2005",
+    "rating_promedio": 7.0,
+    "partidos_total": 3
+  },
+  {
+    "player_id": 1632360,
+    "player_name": "Cauê Nascimento Santos",
+    "team_name": "Unknown",
+    "liga": "Paulista A1",
+    "birth_year": 2006,
+    "date_of_birth": "13/12/2006",
+    "rating_promedio": 6.8,
+    "partidos_total": 4
+  },
+  {
+    "player_id": 1485603,
+    "player_name": "Marcelinho Braz",
+    "team_name": "Unknown",
+    "liga": "Paulista A1",
+    "birth_year": 2004,
+    "date_of_birth": "16/08/2004",
+    "rating_promedio": 6.8,
+    "partidos_total": 3
+  },
+  {
+    "player_id": 1194689,
+    "player_name": "Renato Marques",
+    "team_name": "Unknown",
+    "liga": "Paulista A1",
+    "birth_year": 2003,
+    "date_of_birth": "09/12/2003",
+    "rating_promedio": 6.616666666666667,
+    "partidos_total": 6
+  },
+  {
+    "player_id": 1892395,
+    "player_name": "Nicolas Bosshardt",
+    "team_name": "Unknown",
+    "liga": "Paulista A1",
+    "birth_year": 2007,
+    "date_of_birth": "08/04/2007",
+    "rating_promedio": 6.45,
+    "partidos_total": 4
+  },
+  {
+    "player_id": 2035326,
+    "player_name": "Maik",
+    "team_name": "Unknown",
+    "liga": "Paulista A1",
+    "birth_year": 2005,
+    "date_of_birth": "03/01/2005",
+    "rating_promedio": 6.525,
+    "partidos_total": 4
+  },
+  {
+    "player_id": 2162243,
+    "player_name": "Lucca",
+    "team_name": "Unknown",
+    "liga": "Paulista A1",
+    "birth_year": 2007,
+    "date_of_birth": "14/06/2007",
+    "rating_promedio": 6.733333333333333,
+    "partidos_total": 6
+  },
+  {
+    "player_id": 1485598,
+    "player_name": "Felipe Negrucci",
+    "team_name": "Unknown",
+    "liga": "Paulista A1",
+    "birth_year": 2004,
+    "date_of_birth": "14/05/2004",
+    "rating_promedio": 6.5,
+    "partidos_total": 1
+  },
+  {
+    "player_id": 1476558,
+    "player_name": "Dantas",
+    "team_name": "Unknown",
+    "liga": "Paulista A1",
+    "birth_year": 2004,
+    "date_of_birth": "25/07/2004",
+    "rating_promedio": 7.0,
+    "partidos_total": 10
+  },
+  {
+    "player_id": 1150391,
+    "player_name": "Vitor Roque",
+    "team_name": "Unknown",
+    "liga": "Paulista A1",
+    "birth_year": 2005,
+    "date_of_birth": "28/02/2005",
+    "rating_promedio": 7.029999999999999,
+    "partidos_total": 10
+  },
+  {
+    "player_id": 1633501,
+    "player_name": "Arthur Gabriel",
+    "team_name": "Unknown",
+    "liga": "Paulista A1",
+    "birth_year": 2005,
+    "date_of_birth": "04/09/2005",
+    "rating_promedio": 7.4,
+    "partidos_total": 1
+  },
+  {
+    "player_id": 1631905,
+    "player_name": "Paulo Sérgio",
+    "team_name": "Unknown",
+    "liga": "Paulista A1",
+    "birth_year": 2005,
+    "date_of_birth": "17/05/2005",
+    "rating_promedio": 6.8,
+    "partidos_total": 1
+  },
+  {
+    "player_id": 2026233,
+    "player_name": "Pedro Ferreira",
+    "team_name": "Unknown",
+    "liga": "Paulista A1",
+    "birth_year": 2007,
+    "date_of_birth": "24/04/2007",
+    "rating_promedio": 6.6,
+    "partidos_total": 2
+  },
+  {
+    "player_id": 1836781,
+    "player_name": "Maykon Jesus",
+    "team_name": "Unknown",
+    "liga": "Paulista A1",
+    "birth_year": 2005,
+    "date_of_birth": "07/12/2005",
+    "rating_promedio": 6.483333333333333,
+    "partidos_total": 6
+  },
+  {
+    "player_id": 1389980,
+    "player_name": "Kevyson",
+    "team_name": "Unknown",
+    "liga": "Paulista A1",
+    "birth_year": 2004,
+    "date_of_birth": "29/03/2004",
+    "rating_promedio": 6.433333333333334,
+    "partidos_total": 3
+  },
+  {
+    "player_id": 2168369,
+    "player_name": "Miguel",
+    "team_name": "Unknown",
+    "liga": "Paulista A1",
+    "birth_year": 2005,
+    "date_of_birth": "09/01/2005",
+    "rating_promedio": 6.566666666666666,
+    "partidos_total": 3
+  },
+  {
+    "player_id": 1656036,
+    "player_name": "Gabriel Bontempo",
+    "team_name": "Unknown",
+    "liga": "Paulista A1",
+    "birth_year": 2005,
+    "date_of_birth": "16/01/2005",
+    "rating_promedio": 7.1000000000000005,
+    "partidos_total": 3
+  },
+  {
+    "player_id": 1200730,
+    "player_name": "Rodriguinho",
+    "team_name": "Unknown",
+    "liga": "Paulista A1",
+    "birth_year": 2004,
+    "date_of_birth": "16/03/2004",
+    "rating_promedio": 6.9,
+    "partidos_total": 2
+  },
+  {
+    "player_id": 1179171,
+    "player_name": "José Herrera",
+    "team_name": "Unknown",
+    "liga": "Paulista A1",
+    "birth_year": 2003,
+    "date_of_birth": "16/04/2003",
+    "rating_promedio": 6.75,
+    "partidos_total": 4
+  },
+  {
+    "player_id": 1808041,
+    "player_name": "Yuri Leles",
+    "team_name": "Unknown",
+    "liga": "Paulista A1",
+    "birth_year": 2007,
+    "date_of_birth": "17/04/2007",
+    "rating_promedio": 6.550000000000001,
+    "partidos_total": 2
+  },
+  {
+    "player_id": 2075010,
+    "player_name": "Weimar Vivas Palacios",
+    "team_name": "Unknown",
+    "liga": "Paulista A1",
+    "birth_year": 2006,
+    "date_of_birth": "17/10/2006",
+    "rating_promedio": 6.2,
+    "partidos_total": 1
+  },
+  {
+    "player_id": 1463339,
+    "player_name": "Juninho",
+    "team_name": "Unknown",
+    "liga": "Paulista A2",
+    "birth_year": 2004,
+    "date_of_birth": "15/06/2004",
+    "rating_promedio": 7.1000000000000005,
+    "partidos_total": 14
+  },
+  {
+    "player_id": 1386047,
+    "player_name": "Jean Carlos",
+    "team_name": "Unknown",
+    "liga": "Paulista A2",
+    "birth_year": 2004,
+    "date_of_birth": "08/02/2004",
+    "rating_promedio": 6.763636363636365,
+    "partidos_total": 11
+  },
+  {
+    "player_id": 1589800,
+    "player_name": "Lucas Alvim Vicente da Silva",
+    "team_name": "Unknown",
+    "liga": "Paulista A2",
+    "birth_year": 2004,
+    "date_of_birth": "06/04/2004",
+    "rating_promedio": 6.8133333333333335,
+    "partidos_total": 15
+  },
+  {
+    "player_id": 2125649,
+    "player_name": "Caio Garcez",
+    "team_name": "Unknown",
+    "liga": "Paulista A2",
+    "birth_year": 2004,
+    "date_of_birth": "06/07/2004",
+    "rating_promedio": 6.614285714285714,
+    "partidos_total": 7
+  },
+  {
+    "player_id": 1474396,
+    "player_name": "Erik do Nascimento",
+    "team_name": "Unknown",
+    "liga": "Paulista A2",
+    "birth_year": 2005,
+    "date_of_birth": "18/04/2005",
+    "rating_promedio": 6.833333333333333,
+    "partidos_total": 3
+  },
+  {
+    "player_id": 1589379,
+    "player_name": "Fábio Soares",
+    "team_name": "Unknown",
+    "liga": "Paulista A2",
+    "birth_year": 2004,
+    "date_of_birth": "03/12/2004",
+    "rating_promedio": 7.160000000000001,
+    "partidos_total": 5
+  },
+  {
+    "player_id": 1589395,
+    "player_name": "Thiago Montelo Pereira",
+    "team_name": "Unknown",
+    "liga": "Paulista A2",
+    "birth_year": 2005,
+    "date_of_birth": "29/01/2005",
+    "rating_promedio": 6.921428571428572,
+    "partidos_total": 14
+  },
+  {
+    "player_id": 1466780,
+    "player_name": "Denilson",
+    "team_name": "Unknown",
+    "liga": "Paulista A2",
+    "birth_year": 2003,
+    "date_of_birth": "26/07/2003",
+    "rating_promedio": 6.659999999999999,
+    "partidos_total": 5
+  },
+  {
+    "player_id": 1526993,
+    "player_name": "Mateus Cantarelli Gall",
+    "team_name": "Unknown",
+    "liga": "Paulista A2",
+    "birth_year": 2005,
+    "date_of_birth": "21/06/2005",
+    "rating_promedio": 6.630769230769231,
+    "partidos_total": 13
+  },
+  {
+    "player_id": 1647596,
+    "player_name": "Pedro Estevam",
+    "team_name": "Unknown",
+    "liga": "Paulista A2",
+    "birth_year": 2005,
+    "date_of_birth": "02/01/2005",
+    "rating_promedio": 6.585714285714286,
+    "partidos_total": 7
+  },
+  {
+    "player_id": 1214719,
+    "player_name": "Antonio David Souza",
+    "team_name": "Unknown",
+    "liga": "Paulista A2",
+    "birth_year": 2004,
+    "date_of_birth": "08/02/2004",
+    "rating_promedio": 6.745454545454546,
+    "partidos_total": 11
+  },
+  {
+    "player_id": 1634572,
+    "player_name": "Jhonatan Garcia da Silva",
+    "team_name": "Unknown",
+    "liga": "Paulista A2",
+    "birth_year": 2004,
+    "date_of_birth": "14/02/2004",
+    "rating_promedio": 6.8,
+    "partidos_total": 3
+  },
+  {
+    "player_id": 2055835,
+    "player_name": "Vinicius Meireles",
+    "team_name": "Unknown",
+    "liga": "Paulista A2",
+    "birth_year": 2005,
+    "date_of_birth": "10/07/2005",
+    "rating_promedio": 6.1,
+    "partidos_total": 1
+  },
+  {
+    "player_id": 1891529,
+    "player_name": "Favero",
+    "team_name": "Unknown",
+    "liga": "Paulista A2",
+    "birth_year": 2003,
+    "date_of_birth": "16/06/2003",
+    "rating_promedio": 6.688888888888889,
+    "partidos_total": 9
+  },
+  {
+    "player_id": 1589470,
+    "player_name": "Gabriel dos Santos",
+    "team_name": "Unknown",
+    "liga": "Paulista A2",
+    "birth_year": 2004,
+    "date_of_birth": "24/02/2004",
+    "rating_promedio": 6.6,
+    "partidos_total": 1
+  },
+  {
+    "player_id": 1633881,
+    "player_name": "Deivid da Silva Santos",
+    "team_name": "Unknown",
+    "liga": "Paulista A2",
+    "birth_year": 2004,
+    "date_of_birth": "19/12/2004",
+    "rating_promedio": 6.4,
+    "partidos_total": 2
+  },
+  {
+    "player_id": 1510221,
+    "player_name": "José Carlos",
+    "team_name": "Unknown",
+    "liga": "Paulista A2",
+    "birth_year": 2004,
+    "date_of_birth": "09/01/2004",
+    "rating_promedio": 6.728571428571429,
+    "partidos_total": 7
+  },
+  {
+    "player_id": 1588628,
+    "player_name": "Victor Silva dos Reis",
+    "team_name": "Unknown",
+    "liga": "Paulista A2",
+    "birth_year": 2004,
+    "date_of_birth": "06/04/2004",
+    "rating_promedio": 6.7125,
+    "partidos_total": 8
+  },
+  {
+    "player_id": 1587911,
+    "player_name": "Gabriel Razera",
+    "team_name": "Unknown",
+    "liga": "Paulista A2",
+    "birth_year": 2004,
+    "date_of_birth": "18/02/2004",
+    "rating_promedio": 6.611111111111111,
+    "partidos_total": 9
+  },
+  {
+    "player_id": 1498671,
+    "player_name": "Kauan Richard",
+    "team_name": "Unknown",
+    "liga": "Paulista A2",
+    "birth_year": 2005,
+    "date_of_birth": "18/01/2005",
+    "rating_promedio": 6.6,
+    "partidos_total": 1
+  },
+  {
+    "player_id": 1587856,
+    "player_name": "Lipe Gadol",
+    "team_name": "Unknown",
+    "liga": "Paulista A2",
+    "birth_year": 2004,
+    "date_of_birth": "20/03/2004",
+    "rating_promedio": 6.877777777777777,
+    "partidos_total": 9
+  },
+  {
+    "player_id": 1645760,
+    "player_name": "Marlon Cavalcanti",
+    "team_name": "Unknown",
+    "liga": "Paulista A2",
+    "birth_year": 2005,
+    "date_of_birth": "19/06/2005",
+    "rating_promedio": 6.15,
+    "partidos_total": 4
+  },
+  {
+    "player_id": 1488519,
+    "player_name": "Kauã da Silva",
+    "team_name": "Unknown",
+    "liga": "Paulista A2",
+    "birth_year": 2003,
+    "date_of_birth": "06/07/2003",
+    "rating_promedio": 6.7153846153846155,
+    "partidos_total": 13
+  },
+  {
+    "player_id": 1587895,
+    "player_name": "Villian Guilherme Gonçalves Vieira",
+    "team_name": "Unknown",
+    "liga": "Paulista A2",
+    "birth_year": 2003,
+    "date_of_birth": "20/10/2003",
+    "rating_promedio": 6.5200000000000005,
+    "partidos_total": 10
+  },
+  {
+    "player_id": 1587899,
+    "player_name": "Matheus Santos Novaes",
+    "team_name": "Unknown",
+    "liga": "Paulista A2",
+    "birth_year": 2004,
+    "date_of_birth": "17/03/2004",
+    "rating_promedio": 6.959999999999999,
+    "partidos_total": 5
+  },
+  {
+    "player_id": 2184988,
+    "player_name": "Fabinho Nascimento",
+    "team_name": "Unknown",
+    "liga": "Paulista A2",
+    "birth_year": 2004,
+    "date_of_birth": "18/06/2004",
+    "rating_promedio": 6.699999999999999,
+    "partidos_total": 2
+  },
+  {
+    "player_id": 1834741,
+    "player_name": "Bruno Alberto dos Santos",
+    "team_name": "Unknown",
+    "liga": "Paulista A2",
+    "birth_year": 2005,
+    "date_of_birth": "30/08/2005",
+    "rating_promedio": 6.776923076923077,
+    "partidos_total": 13
+  },
+  {
+    "player_id": 1836103,
+    "player_name": "Dyego Luis",
+    "team_name": "Unknown",
+    "liga": "Paulista A2",
+    "birth_year": 2005,
+    "date_of_birth": "24/08/2005",
+    "rating_promedio": 6.522222222222222,
+    "partidos_total": 9
+  },
+  {
+    "player_id": 1888135,
+    "player_name": "Kauan Moreira da Silva Rogerio",
+    "team_name": "Unknown",
+    "liga": "Paulista A2",
+    "birth_year": 2007,
+    "date_of_birth": "12/11/2007",
+    "rating_promedio": 6.699999999999999,
+    "partidos_total": 2
+  },
+  {
+    "player_id": 1589813,
+    "player_name": "Luiz Eduardo da Silva Rocha",
+    "team_name": "Unknown",
+    "liga": "Paulista A2",
+    "birth_year": 2005,
+    "date_of_birth": "02/01/2005",
+    "rating_promedio": 6.566666666666666,
+    "partidos_total": 3
+  },
+  {
+    "player_id": 2441493,
+    "player_name": "Rodrigo Silva Villas Bôas Villela",
+    "team_name": "Unknown",
+    "liga": "Paulista A2",
+    "birth_year": 2008,
+    "date_of_birth": "04/06/2008",
+    "rating_promedio": 6.1,
+    "partidos_total": 2
+  },
+  {
+    "player_id": 2002808,
+    "player_name": "Zé Pagliarini",
+    "team_name": "Unknown",
+    "liga": "Paulista A2",
+    "birth_year": 2004,
+    "date_of_birth": "07/05/2004",
+    "rating_promedio": 6.49,
+    "partidos_total": 10
+  },
+  {
+    "player_id": 1587804,
+    "player_name": "André Santos Klaus",
+    "team_name": "Unknown",
+    "liga": "Paulista A2",
+    "birth_year": 2004,
+    "date_of_birth": "30/03/2004",
+    "rating_promedio": 6.585714285714286,
+    "partidos_total": 7
+  },
+  {
+    "player_id": 1105782,
+    "player_name": "Cadu",
+    "team_name": "Unknown",
+    "liga": "Paulista A2",
+    "birth_year": 2003,
+    "date_of_birth": "25/03/2003",
+    "rating_promedio": 6.525,
+    "partidos_total": 4
+  },
+  {
+    "player_id": 1631271,
+    "player_name": "Kauê Leonardo",
+    "team_name": "Unknown",
+    "liga": "Paulista A2",
+    "birth_year": 2005,
+    "date_of_birth": "11/04/2005",
+    "rating_promedio": 6.678571428571429,
+    "partidos_total": 14
+  },
+  {
+    "player_id": 1524156,
+    "player_name": "João Vitor Gomes Lopes",
+    "team_name": "Unknown",
+    "liga": "Paulista A2",
+    "birth_year": 2003,
+    "date_of_birth": "22/11/2003",
+    "rating_promedio": 6.875,
+    "partidos_total": 8
+  },
+  {
+    "player_id": 1459625,
+    "player_name": "Henrique Rodrigues",
+    "team_name": "Unknown",
+    "liga": "Paulista A2",
+    "birth_year": 2003,
+    "date_of_birth": "22/02/2003",
+    "rating_promedio": 6.923076923076923,
+    "partidos_total": 13
+  },
+  {
+    "player_id": 1469527,
+    "player_name": "Rafael Soares",
+    "team_name": "Unknown",
+    "liga": "Paulista A2",
+    "birth_year": 2004,
+    "date_of_birth": "27/12/2004",
+    "rating_promedio": 6.683333333333334,
+    "partidos_total": 12
+  },
+  {
+    "player_id": 1199393,
+    "player_name": "Caio Rafael",
+    "team_name": "Unknown",
+    "liga": "Paulista A2",
+    "birth_year": 2004,
+    "date_of_birth": "14/06/2004",
+    "rating_promedio": 6.738461538461538,
+    "partidos_total": 13
+  },
+  {
+    "player_id": 1632363,
+    "player_name": "Lucas Rodrigues Marques",
+    "team_name": "Unknown",
+    "liga": "Paulista A2",
+    "birth_year": 2004,
+    "date_of_birth": "06/03/2004",
+    "rating_promedio": 7.7,
+    "partidos_total": 1
+  },
+  {
+    "player_id": 2033845,
+    "player_name": "Daniel Bolt",
+    "team_name": "Unknown",
+    "liga": "Paulista A2",
+    "birth_year": 2005,
+    "date_of_birth": "05/09/2005",
+    "rating_promedio": 6.199999999999999,
+    "partidos_total": 2
+  },
+  {
+    "player_id": 1189875,
+    "player_name": "Pedro Henrique da Rosa",
+    "team_name": "Unknown",
+    "liga": "Paulista A2",
+    "birth_year": 2003,
+    "date_of_birth": "14/04/2003",
+    "rating_promedio": 6.566666666666666,
+    "partidos_total": 9
+  },
+  {
+    "player_id": 1470929,
+    "player_name": "João Ramos",
+    "team_name": "Unknown",
+    "liga": "Paulista A2",
+    "birth_year": 2003,
+    "date_of_birth": "15/02/2003",
+    "rating_promedio": 6.8307692307692305,
+    "partidos_total": 13
+  },
+  {
+    "player_id": 1587973,
+    "player_name": "Luis Fernando Rossi Barreto",
+    "team_name": "Unknown",
+    "liga": "Paulista A2",
+    "birth_year": 2003,
+    "date_of_birth": "07/04/2003",
+    "rating_promedio": 6.875,
+    "partidos_total": 4
+  },
+  {
+    "player_id": 1589352,
+    "player_name": "Cauê Raphael de Souza Soares",
+    "team_name": "Unknown",
+    "liga": "Paulista A2",
+    "birth_year": 2004,
+    "date_of_birth": "26/04/2004",
+    "rating_promedio": 6.708333333333333,
+    "partidos_total": 12
+  },
+  {
+    "player_id": 1587834,
+    "player_name": "Vinicius Poz Villas Boas",
+    "team_name": "Unknown",
+    "liga": "Paulista A2",
+    "birth_year": 2003,
+    "date_of_birth": "12/03/2003",
+    "rating_promedio": 6.659999999999999,
+    "partidos_total": 10
+  },
+  {
+    "player_id": 1637301,
+    "player_name": "Sergio Henrique Favarin",
+    "team_name": "Unknown",
+    "liga": "Paulista A2",
+    "birth_year": 2003,
+    "date_of_birth": "30/12/2003",
+    "rating_promedio": 6.578571428571429,
+    "partidos_total": 14
+  },
+  {
+    "player_id": 1650179,
+    "player_name": "Gustavo Kuhn",
+    "team_name": "Unknown",
+    "liga": "Paulista A2",
+    "birth_year": 2003,
+    "date_of_birth": "22/07/2003",
+    "rating_promedio": 6.62,
+    "partidos_total": 5
+  },
+  {
+    "player_id": 2029365,
+    "player_name": "Luan Andrey Da Silva Duarte",
+    "team_name": "Unknown",
+    "liga": "Paulista A2",
+    "birth_year": 2006,
+    "date_of_birth": "04/08/2006",
+    "rating_promedio": 6.74,
+    "partidos_total": 5
+  },
+  {
+    "player_id": 1469530,
+    "player_name": "Victor Lustosa",
+    "team_name": "Unknown",
+    "liga": "Paulista A2",
+    "birth_year": 2003,
+    "date_of_birth": "17/01/2003",
+    "rating_promedio": 6.633333333333333,
+    "partidos_total": 6
+  },
+  {
+    "player_id": 1170771,
+    "player_name": "Keven Vinícius",
+    "team_name": "Unknown",
+    "liga": "Paulista A2",
+    "birth_year": 2003,
+    "date_of_birth": "15/02/2003",
+    "rating_promedio": 6.5928571428571425,
+    "partidos_total": 14
+  },
+  {
+    "player_id": 1645851,
+    "player_name": "Luiz Gustavo",
+    "team_name": "Unknown",
+    "liga": "Paulista A2",
+    "birth_year": 2003,
+    "date_of_birth": "30/05/2003",
+    "rating_promedio": 6.92,
+    "partidos_total": 10
+  },
+  {
+    "player_id": 1175242,
+    "player_name": "Vitor Graziani",
+    "team_name": "Unknown",
+    "liga": "Paulista A2",
+    "birth_year": 2004,
+    "date_of_birth": "15/05/2004",
+    "rating_promedio": 6.566666666666666,
+    "partidos_total": 6
+  },
+  {
+    "player_id": 1634167,
+    "player_name": "Arthur Fernandes",
+    "team_name": "Unknown",
+    "liga": "Paulista A2",
+    "birth_year": 2003,
+    "date_of_birth": "19/06/2003",
+    "rating_promedio": 6.32,
+    "partidos_total": 5
+  },
+  {
+    "player_id": 1463112,
+    "player_name": "Henrique Torelli",
+    "team_name": "Unknown",
+    "liga": "Paulista A2",
+    "birth_year": 2004,
+    "date_of_birth": "13/05/2004",
+    "rating_promedio": 6.7153846153846155,
+    "partidos_total": 13
+  },
+  {
+    "player_id": 1545982,
+    "player_name": "Davi Castro",
+    "team_name": "Unknown",
+    "liga": "Paulista A2",
+    "birth_year": 2003,
+    "date_of_birth": "03/05/2003",
+    "rating_promedio": 6.533333333333333,
+    "partidos_total": 9
+  },
+  {
+    "player_id": 2026435,
+    "player_name": "Daniel Davi Simão Roque",
+    "team_name": "Unknown",
+    "liga": "Paulista A2",
+    "birth_year": 2005,
+    "date_of_birth": "15/06/2005",
+    "rating_promedio": 7.266666666666667,
+    "partidos_total": 15
+  },
+  {
+    "player_id": 1589317,
+    "player_name": "Felipe Santana",
+    "team_name": "Unknown",
+    "liga": "Paulista A2",
+    "birth_year": 2005,
+    "date_of_birth": "08/03/2005",
+    "rating_promedio": 6.959999999999999,
+    "partidos_total": 5
+  },
+  {
+    "player_id": 1590414,
+    "player_name": "Paulo Amorim",
+    "team_name": "Unknown",
+    "liga": "Paulista A2",
+    "birth_year": 2004,
+    "date_of_birth": "18/07/2004",
+    "rating_promedio": 6.881818181818182,
+    "partidos_total": 11
+  },
+  {
+    "player_id": 1588093,
+    "player_name": "Jhonatas da Silva Carvalho",
+    "team_name": "Unknown",
+    "liga": "Paulista A2",
+    "birth_year": 2004,
+    "date_of_birth": "12/11/2004",
+    "rating_promedio": 6.677777777777778,
+    "partidos_total": 9
+  },
+  {
+    "player_id": 2214562,
+    "player_name": "Thierry Hanry Praxedes Conti",
+    "team_name": "Unknown",
+    "liga": "Paulista A2",
+    "birth_year": 2007,
+    "date_of_birth": "13/06/2007",
+    "rating_promedio": 6.942857142857143,
+    "partidos_total": 7
+  },
+  {
+    "player_id": 1470430,
+    "player_name": "Sony Anderson Cunha da Silva",
+    "team_name": "Unknown",
+    "liga": "Paulista A2",
+    "birth_year": 2004,
+    "date_of_birth": "27/01/2004",
+    "rating_promedio": 6.584615384615384,
+    "partidos_total": 13
+  },
+  {
+    "player_id": 2420828,
+    "player_name": "Fabio  Santos Nascimento",
+    "team_name": "Unknown",
+    "liga": "Paulista A2",
+    "birth_year": 2004,
+    "date_of_birth": "02/08/2004",
+    "rating_promedio": 6.375,
+    "partidos_total": 8
+  },
+  {
+    "player_id": 1631702,
+    "player_name": "Clayton Cleydson da Silva Nascimento",
+    "team_name": "Unknown",
+    "liga": "Paulista A2",
+    "birth_year": 2004,
+    "date_of_birth": "24/02/2004",
+    "rating_promedio": 6.615384615384615,
+    "partidos_total": 13
+  },
+  {
+    "player_id": 2080409,
+    "player_name": "Cláudio Gustavo",
+    "team_name": "Unknown",
+    "liga": "Paulista A2",
+    "birth_year": 2004,
+    "date_of_birth": "09/10/2004",
+    "rating_promedio": 6.5249999999999995,
+    "partidos_total": 12
+  },
+  {
+    "player_id": 2020421,
+    "player_name": "Reidiner Cairú",
+    "team_name": "Unknown",
+    "liga": "Paulista A2",
+    "birth_year": 2004,
+    "date_of_birth": "24/04/2004",
+    "rating_promedio": 6.838461538461539,
+    "partidos_total": 13
+  },
+  {
+    "player_id": 2166888,
+    "player_name": "Didi",
+    "team_name": "Unknown",
+    "liga": "Paulista A2",
+    "birth_year": 2006,
+    "date_of_birth": "03/01/2006",
+    "rating_promedio": 6.641666666666667,
+    "partidos_total": 12
+  },
+  {
+    "player_id": 1609538,
+    "player_name": "Lucas Mazdiel Aruba Santos",
+    "team_name": "Unknown",
+    "liga": "Paulista A2",
+    "birth_year": 2004,
+    "date_of_birth": "26/03/2004",
+    "rating_promedio": 6.944444444444445,
+    "partidos_total": 9
+  },
+  {
+    "player_id": 1546702,
+    "player_name": "Allan Passos dos Santos",
+    "team_name": "Unknown",
+    "liga": "Paulista A2",
+    "birth_year": 2004,
+    "date_of_birth": "11/06/2004",
+    "rating_promedio": 6.800000000000001,
+    "partidos_total": 13
+  },
+  {
+    "player_id": 2026385,
+    "player_name": "Juan Pablo",
+    "team_name": "Unknown",
+    "liga": "Paulista A2",
+    "birth_year": 2005,
+    "date_of_birth": "11/06/2005",
+    "rating_promedio": 7.6499999999999995,
+    "partidos_total": 6
+  },
+  {
+    "player_id": 1485280,
+    "player_name": "Kauan Silva Sales",
+    "team_name": "Unknown",
+    "liga": "Paulista A2",
+    "birth_year": 2003,
+    "date_of_birth": "23/10/2003",
+    "rating_promedio": 6.4,
+    "partidos_total": 1
+  },
+  {
+    "player_id": 1067645,
+    "player_name": "Luiz Guilherme",
+    "team_name": "Unknown",
+    "liga": "Paulista A2",
+    "birth_year": 2004,
+    "date_of_birth": "19/03/2004",
+    "rating_promedio": 6.938461538461539,
+    "partidos_total": 13
+  },
+  {
+    "player_id": 1632390,
+    "player_name": "Thomaz Henrique da Rocha",
+    "team_name": "Unknown",
+    "liga": "Paulista A2",
+    "birth_year": 2005,
+    "date_of_birth": "02/08/2005",
+    "rating_promedio": 6.566666666666666,
+    "partidos_total": 3
+  },
+  {
+    "player_id": 1464965,
+    "player_name": "Roger",
+    "team_name": "Unknown",
+    "liga": "Paulista A2",
+    "birth_year": 2004,
+    "date_of_birth": "18/02/2004",
+    "rating_promedio": 7.075,
+    "partidos_total": 4
+  },
+  {
+    "player_id": 1184837,
+    "player_name": "Gustavo",
+    "team_name": "Unknown",
+    "liga": "Paulista A2",
+    "birth_year": 2004,
+    "date_of_birth": "24/09/2004",
+    "rating_promedio": 6.550000000000001,
+    "partidos_total": 2
+  },
+  {
+    "player_id": 2443188,
+    "player_name": "Vitor Mariano Severo",
+    "team_name": "Unknown",
+    "liga": "Paulista A2",
+    "birth_year": 2005,
+    "date_of_birth": "29/01/2005",
+    "rating_promedio": 6.8307692307692305,
+    "partidos_total": 13
+  },
+  {
+    "player_id": 1804674,
+    "player_name": "Elkin Muñoz",
+    "team_name": "Unknown",
+    "liga": "Paulista A2",
+    "birth_year": 2005,
+    "date_of_birth": "29/06/2005",
+    "rating_promedio": 6.7846153846153845,
+    "partidos_total": 13
+  },
+  {
+    "player_id": 1587845,
+    "player_name": "Nassom de Souza  Oliveira",
+    "team_name": "Unknown",
+    "liga": "Paulista A2",
+    "birth_year": 2003,
+    "date_of_birth": "10/02/2003",
+    "rating_promedio": 6.540000000000001,
+    "partidos_total": 5
+  },
+  {
+    "player_id": 1830597,
+    "player_name": "Gustavo Nunes Migueis",
+    "team_name": "Unknown",
+    "liga": "Paulista A2",
+    "birth_year": 2005,
+    "date_of_birth": "22/04/2005",
+    "rating_promedio": 6.709090909090909,
+    "partidos_total": 11
+  },
+  {
+    "player_id": 1637090,
+    "player_name": "Guilherme Ferezin Guimaraes",
+    "team_name": "Unknown",
+    "liga": "Paulista A2",
+    "birth_year": 2006,
+    "date_of_birth": "20/03/2006",
+    "rating_promedio": 6.516666666666667,
+    "partidos_total": 6
+  },
+  {
+    "player_id": 2027073,
+    "player_name": "Cleber Gomes  Castanho Junior",
+    "team_name": "Unknown",
+    "liga": "Paulista A2",
+    "birth_year": 2006,
+    "date_of_birth": "09/05/2006",
+    "rating_promedio": 6.7,
+    "partidos_total": 5
+  },
+  {
+    "player_id": 1588708,
+    "player_name": "Guilherme Victor",
+    "team_name": "Unknown",
+    "liga": "Paulista A2",
+    "birth_year": 2004,
+    "date_of_birth": "29/01/2004",
+    "rating_promedio": 6.1,
+    "partidos_total": 1
+  },
+  {
+    "player_id": 1106586,
+    "player_name": "Garis Mina",
+    "team_name": "Unknown",
+    "liga": "Paulista A2",
+    "birth_year": 2003,
+    "date_of_birth": "20/08/2003",
+    "rating_promedio": 6.716666666666666,
+    "partidos_total": 6
+  },
+  {
+    "player_id": 2025559,
+    "player_name": "Nicolas Viana da Cruz",
+    "team_name": "Unknown",
+    "liga": "Paulista A2",
+    "birth_year": 2006,
+    "date_of_birth": "09/03/2006",
+    "rating_promedio": 6.8,
+    "partidos_total": 9
+  },
+  {
+    "player_id": 2037793,
+    "player_name": "Ryan Santos",
+    "team_name": "Unknown",
+    "liga": "Paulista A2",
+    "birth_year": 2006,
+    "date_of_birth": "07/08/2006",
+    "rating_promedio": 6.633333333333333,
+    "partidos_total": 3
+  },
+  {
+    "player_id": 2025584,
+    "player_name": "Carlos André",
+    "team_name": "Unknown",
+    "liga": "Paulista A2",
+    "birth_year": 2006,
+    "date_of_birth": "19/10/2006",
+    "rating_promedio": 6.74,
+    "partidos_total": 10
+  },
+  {
+    "player_id": 2025616,
+    "player_name": "Marcos Eduardo  Alves Santiago",
+    "team_name": "Unknown",
+    "liga": "Paulista A2",
+    "birth_year": 2006,
+    "date_of_birth": "27/01/2006",
+    "rating_promedio": 6.466666666666666,
+    "partidos_total": 6
+  },
+  {
+    "player_id": 2044023,
+    "player_name": "Eduardo Augusto de Oliveira",
+    "team_name": "Unknown",
+    "liga": "Paulista A2",
+    "birth_year": 2007,
+    "date_of_birth": "01/04/2007",
+    "rating_promedio": 6.857142857142857,
+    "partidos_total": 7
+  },
+  {
+    "player_id": 2126848,
+    "player_name": "Kauã Cardoso da Silva",
+    "team_name": "Unknown",
+    "liga": "Paulista A2",
+    "birth_year": 2008,
+    "date_of_birth": "18/06/2008",
+    "rating_promedio": 6.9,
+    "partidos_total": 1
+  },
+  {
+    "player_id": 1634176,
+    "player_name": "Felipe Santos",
+    "team_name": "Unknown",
+    "liga": "Paulista A2",
+    "birth_year": 2005,
+    "date_of_birth": "21/10/2005",
+    "rating_promedio": 6.9,
+    "partidos_total": 1
+  },
+  {
+    "player_id": 1588706,
+    "player_name": "Miguel Gonçalves Ribeiro",
+    "team_name": "Unknown",
+    "liga": "Paulista A2",
+    "birth_year": 2005,
+    "date_of_birth": "28/11/2005",
+    "rating_promedio": 6.788888888888889,
+    "partidos_total": 9
+  },
+  {
+    "player_id": 2171946,
+    "player_name": "Emmanuel de Andrade  Egydio de Souza",
+    "team_name": "Unknown",
+    "liga": "Paulista A2",
+    "birth_year": 2006,
+    "date_of_birth": "29/10/2006",
+    "rating_promedio": 6.49,
+    "partidos_total": 10
+  },
+  {
+    "player_id": 2027888,
+    "player_name": "Leonardo Gasco Silva Suzano",
+    "team_name": "Unknown",
+    "liga": "Paulista A2",
+    "birth_year": 2005,
+    "date_of_birth": "02/03/2005",
+    "rating_promedio": 6.6,
+    "partidos_total": 2
+  },
+  {
+    "player_id": 1588718,
+    "player_name": "Luiz Gustavo Marques Santos",
+    "team_name": "Unknown",
+    "liga": "Paulista A2",
+    "birth_year": 2004,
+    "date_of_birth": "22/11/2004",
+    "rating_promedio": 6.6499999999999995,
+    "partidos_total": 6
+  },
+  {
+    "player_id": 2027099,
+    "player_name": "Henrique Miranda Quixabeira",
+    "team_name": "Unknown",
+    "liga": "Paulista A2",
+    "birth_year": 2006,
+    "date_of_birth": "16/02/2006",
+    "rating_promedio": 6.7,
+    "partidos_total": 4
+  },
+  {
+    "player_id": 1467773,
+    "player_name": "Gustavo Lacerda",
+    "team_name": "Unknown",
+    "liga": "Paulista A2",
+    "birth_year": 2004,
+    "date_of_birth": "06/10/2004",
+    "rating_promedio": 6.3999999999999995,
+    "partidos_total": 7
+  },
+  {
+    "player_id": 1647651,
+    "player_name": "Mateus Henrique Cardoso da Silva",
+    "team_name": "Unknown",
+    "liga": "Paulista A2",
+    "birth_year": 2005,
+    "date_of_birth": "13/06/2005",
+    "rating_promedio": 6.35,
+    "partidos_total": 2
+  },
+  {
+    "player_id": 1631569,
+    "player_name": "Kauê Muniz Nunes",
+    "team_name": "Unknown",
+    "liga": "Paulista A2",
+    "birth_year": 2003,
+    "date_of_birth": "10/06/2003",
+    "rating_promedio": 6.483333333333333,
+    "partidos_total": 6
+  },
+  {
+    "player_id": 2027361,
+    "player_name": "Filipi Gabriel Ferreira Januario",
+    "team_name": "Unknown",
+    "liga": "Paulista A2",
+    "birth_year": 2007,
+    "date_of_birth": "03/04/2007",
+    "rating_promedio": 6.933333333333334,
+    "partidos_total": 3
+  },
+  {
+    "player_id": 1517147,
+    "player_name": "Athyrson",
+    "team_name": "Unknown",
+    "liga": "Paulista A2",
+    "birth_year": 2004,
+    "date_of_birth": "06/01/2004",
+    "rating_promedio": 6.425,
+    "partidos_total": 4
+  },
+  {
+    "player_id": 1546638,
+    "player_name": "Antonio Leandro Ferreira Caires",
+    "team_name": "Unknown",
+    "liga": "Paulista A2",
+    "birth_year": 2005,
+    "date_of_birth": "29/09/2005",
+    "rating_promedio": 6.533333333333334,
+    "partidos_total": 3
+  },
+  {
+    "player_id": 1587832,
+    "player_name": "Lucas Soares Stefanello",
+    "team_name": "Unknown",
+    "liga": "Paulista A2",
+    "birth_year": 2005,
+    "date_of_birth": "16/02/2005",
+    "rating_promedio": 7.1,
+    "partidos_total": 10
+  },
+  {
+    "player_id": 2031365,
+    "player_name": "Gabriel William",
+    "team_name": "Unknown",
+    "liga": "Paulista A2",
+    "birth_year": 2007,
+    "date_of_birth": "15/03/2007",
+    "rating_promedio": 6.859999999999999,
+    "partidos_total": 5
+  },
+  {
+    "player_id": 2426302,
+    "player_name": "Glaucon",
+    "team_name": "Unknown",
+    "liga": "Paulista A2",
+    "birth_year": 2006,
+    "date_of_birth": "02/04/2006",
+    "rating_promedio": 6.375,
+    "partidos_total": 4
+  },
+  {
+    "player_id": 2054072,
+    "player_name": "Jajá",
+    "team_name": "Unknown",
+    "liga": "Paulista A2",
+    "birth_year": 2005,
+    "date_of_birth": "26/11/2005",
+    "rating_promedio": 6.3,
+    "partidos_total": 1
+  },
+  {
+    "player_id": 2067560,
+    "player_name": "Abner Eduardo Ramos dos Santos",
+    "team_name": "Unknown",
+    "liga": "Paulista A2",
+    "birth_year": 2009,
+    "date_of_birth": "26/05/2009",
+    "rating_promedio": 6.625,
+    "partidos_total": 4
+  },
+  {
+    "player_id": 2124404,
+    "player_name": "João Lopes",
+    "team_name": "Unknown",
+    "liga": "Paulista A2",
+    "birth_year": 2005,
+    "date_of_birth": "08/01/2005",
+    "rating_promedio": 6.35,
+    "partidos_total": 2
+  },
+  {
+    "player_id": 1631591,
+    "player_name": "Matheus Henrique Rocha",
+    "team_name": "Unknown",
+    "liga": "Paulista A2",
+    "birth_year": 2006,
+    "date_of_birth": "10/06/2006",
+    "rating_promedio": 5.8,
+    "partidos_total": 1
+  },
+  {
+    "player_id": 1590315,
+    "player_name": "Enzo Duscov Boer",
+    "team_name": "Unknown",
+    "liga": "Paulista A2",
+    "birth_year": 2005,
+    "date_of_birth": "06/01/2005",
+    "rating_promedio": 6.3,
+    "partidos_total": 2
+  },
+  {
+    "player_id": 2165315,
+    "player_name": "André Silveira Rodrigues",
+    "team_name": "Unknown",
+    "liga": "Paulista A2",
+    "birth_year": 2007,
+    "date_of_birth": "04/08/2007",
+    "rating_promedio": 6.3,
+    "partidos_total": 1
+  },
+  {
+    "player_id": 2026450,
+    "player_name": "Guilherme da Silva Ramos",
+    "team_name": "Unknown",
+    "liga": "Paulista A2",
+    "birth_year": 2005,
+    "date_of_birth": "28/09/2005",
+    "rating_promedio": 6.614285714285714,
+    "partidos_total": 7
+  },
+  {
+    "player_id": 2032549,
+    "player_name": "Hugo Costa Saramella",
+    "team_name": "Unknown",
+    "liga": "Paulista A2",
+    "birth_year": 2003,
+    "date_of_birth": "28/02/2003",
+    "rating_promedio": 6.633333333333333,
+    "partidos_total": 6
+  },
+  {
+    "player_id": 2026351,
+    "player_name": "Murilo Lelis Souza",
+    "team_name": "Unknown",
+    "liga": "Paulista A2",
+    "birth_year": 2006,
+    "date_of_birth": "03/09/2006",
+    "rating_promedio": 6.6,
+    "partidos_total": 1
+  },
+  {
+    "player_id": 1589491,
+    "player_name": "Arthur Nether Schiling",
+    "team_name": "Unknown",
+    "liga": "Paulista A2",
+    "birth_year": 2005,
+    "date_of_birth": "07/11/2005",
+    "rating_promedio": 6.625,
+    "partidos_total": 4
+  },
+  {
+    "player_id": 2027069,
+    "player_name": "Amiston Lopes do Sousa Junior",
+    "team_name": "Unknown",
+    "liga": "Paulista A2",
+    "birth_year": 2005,
+    "date_of_birth": "20/09/2005",
+    "rating_promedio": 6.95,
+    "partidos_total": 2
+  },
+  {
+    "player_id": 1637198,
+    "player_name": "Flavio dos Reis Frazão",
+    "team_name": "Unknown",
+    "liga": "Paulista A2",
+    "birth_year": 2004,
+    "date_of_birth": "04/01/2004",
+    "rating_promedio": 6.15,
+    "partidos_total": 2
+  },
+  {
+    "player_id": 1633779,
+    "player_name": "Lucas Dias do Rosario",
+    "team_name": "Unknown",
+    "liga": "Paulista A2",
+    "birth_year": 2005,
+    "date_of_birth": "10/03/2005",
+    "rating_promedio": 6.3,
+    "partidos_total": 1
+  },
+  {
+    "player_id": 2026934,
+    "player_name": "Leonardo Souza de Oliveira",
+    "team_name": "Unknown",
+    "liga": "Paulista A2",
+    "birth_year": 2005,
+    "date_of_birth": "20/05/2005",
+    "rating_promedio": 6.3,
+    "partidos_total": 1
+  }
+]

@@ -1,0 +1,90 @@
+{
+  "Arsenal de Sarandí": {
+    "sofascore_name": "Arsenal de Sarandí",
+    "team_id": 3221
+  },
+  "Comunicaciones": {
+    "sofascore_name": "Club Comunicaciones",
+    "team_id": 112501
+  },
+  "Deportivo Camioneros": {
+    "sofascore_name": "Camioneros",
+    "team_id": 253807
+  },
+  "Deportivo Laferrere": {
+    "sofascore_name": "Deportivo Laferrere",
+    "team_id": 228062
+  },
+  "Deportivo Merlo": {
+    "sofascore_name": "Deportivo Merlo",
+    "team_id": 36840
+  },
+  "Dock Sud": {
+    "sofascore_name": "CS Dock Sud",
+    "team_id": 270405
+  },
+  "Excursionistas": {
+    "sofascore_name": "Excursionistas",
+    "team_id": 65672
+  },
+  "Flandria": {
+    "sofascore_name": "CSD Flandria",
+    "team_id": 112505
+  },
+  "Ituzaingó": {
+    "sofascore_name": "Ituzaingó",
+    "team_id": 265447
+  },
+  "Liniers": {
+    "sofascore_name": "CSYD Liniers",
+    "team_id": 192841
+  },
+  "Real Pilar": {
+    "sofascore_name": "Real Pilar",
+    "team_id": 266250
+  },
+  "Sportivo Italiano": {
+    "sofascore_name": "Sportivo Italiano",
+    "team_id": 36843
+  },
+  "UAI Urquiza": {
+    "sofascore_name": "UAI Urquiza",
+    "team_id": 112507
+  },
+  "Villa Dálmine": {
+    "sofascore_name": "Villa Dálmine",
+    "team_id": 112509
+  },
+  "Villa San Carlos": {
+    "sofascore_name": "Villa San Carlos",
+    "team_id": 107199
+  },
+  "Arg. Quilmes": {
+    "sofascore_name": "Argentino de Quilmes",
+    "team_id": 194523
+  },
+  "Argentino Merlo": {
+    "sofascore_name": "Argentino de Merlo",
+    "team_id": 199311
+  },
+  "Brown Adrogué": {
+    "sofascore_name": "Brown de Adrogué",
+    "team_id": 107201
+  },
+  "Def. Unidos": {
+    "sofascore_name": "Defensores Unidos",
+    "team_id": 93515
+  },
+  "Dep. Armenio": {
+    "sofascore_name": "Deportivo Armenio",
+    "team_id": 93105
+  },
+  "San Martín Burzaco": {
+    "sofascore_name": "San Martin de Burzaco",
+    "team_id": 269780
+  },
+  "Talleres R. Escalada": {
+    "sofascore_name": "Talleres Remedios de Escalada",
+    "team_id": 201162
+  }
+}
