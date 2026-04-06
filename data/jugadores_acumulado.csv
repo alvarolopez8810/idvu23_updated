@@ -1,0 +1,254 @@
+player_id,player_name,shirt_number,position,substitute,date_of_birth,team,opponent,team_id,opponent_id,home_away,match_id,match_date,liga,peso_liga,minutes_played,rating,goals,assists,birth_year,age,is_u23
+819193,Sebastián López,1,G,False,495504000,Los Andes,Chaco For Ever,112497,252726,home,15275507,05/04/2026,Primera B Argentina,0.85,90,7.0,0,0,1985,41,False
+933157,Julián Navas Granados,4,D,False,754617600,Los Andes,Chaco For Ever,112497,252726,home,15275507,05/04/2026,Primera B Argentina,0.85,90,7.3,0,0,1993,33,False
+1125239,Julian Rodriguez,2,D,False,951868800,Los Andes,Chaco For Ever,112497,252726,home,15275507,05/04/2026,Primera B Argentina,0.85,90,7.4,0,0,2000,26,False
+791146,Daniel Franco,6,D,False,679536000,Los Andes,Chaco For Ever,112497,252726,home,15275507,05/04/2026,Primera B Argentina,0.85,90,8.0,0,0,1991,35,False
+1598512,Peter Iván Martínez Grance,3,D,False,945302400,Los Andes,Chaco For Ever,112497,252726,home,15275507,05/04/2026,Primera B Argentina,0.85,60,7.2,0,1,1999,27,False
+1087036,Matías González,7,M,False,930873600,Los Andes,Chaco For Ever,112497,252726,home,15275507,05/04/2026,Primera B Argentina,0.85,69,6.8,0,0,1999,27,False
+1859553,Franco Miguel Rodríguez,8,M,False,932860800,Los Andes,Chaco For Ever,112497,252726,home,15275507,05/04/2026,Primera B Argentina,0.85,90,7.4,0,0,1999,27,False
+1199248,Sergio Ortiz,5,M,False,982886400,Los Andes,Chaco For Ever,112497,252726,home,15275507,05/04/2026,Primera B Argentina,0.85,90,7.1,0,0,2001,25,False
+2003010,Alex Chamorro,10,M,False,1150156800,Los Andes,Chaco For Ever,112497,252726,home,15275507,05/04/2026,Primera B Argentina,0.85,85,7.2,0,0,2006,20,True
+581666,Mauricio Asenjo,9,F,False,774921600,Los Andes,Chaco For Ever,112497,252726,home,15275507,05/04/2026,Primera B Argentina,0.85,85,7.6,1,0,1994,32,False
+1094181,Facundo Echevarría,11,F,False,1028073600,Los Andes,Chaco For Ever,112497,252726,home,15275507,05/04/2026,Primera B Argentina,0.85,69,6.4,0,0,2002,24,False
+994721,Gabriel Cañete,15,D,True,919728000,Los Andes,Chaco For Ever,112497,252726,home,15275507,05/04/2026,Primera B Argentina,0.85,30,6.6,0,0,1999,27,False
+1485722,Camilo Viganoni,19,F,True,1071014400,Los Andes,Chaco For Ever,112497,252726,home,15275507,05/04/2026,Primera B Argentina,0.85,21,7.2,1,0,2003,23,True
+2044351,Facundo Villarreal,18,M,True,1110326400,Los Andes,Chaco For Ever,112497,252726,home,15275507,05/04/2026,Primera B Argentina,0.85,21,6.9,0,0,2005,21,True
+1016644,Brian Leizza,13,D,True,956880000,Los Andes,Chaco For Ever,112497,252726,home,15275507,05/04/2026,Primera B Argentina,0.85,5,6.6,0,0,2000,26,False
+883926,Juan Manuel Vazquez,16,M,True,775094400,Los Andes,Chaco For Ever,112497,252726,home,15275507,05/04/2026,Primera B Argentina,0.85,5,6.6,0,0,1994,32,False
+1185165,Nicolás Caprio,1,G,False,612144000,Chaco For Ever,Los Andes,252726,112497,away,15275507,05/04/2026,Primera B Argentina,0.85,90,7.2,0,0,1989,37,False
+922459,Alan Luque,4,D,False,919468800,Chaco For Ever,Los Andes,252726,112497,away,15275507,05/04/2026,Primera B Argentina,0.85,90,6.7,0,0,1999,27,False
+860055,David Valdez,2,D,False,734054400,Chaco For Ever,Los Andes,252726,112497,away,15275507,05/04/2026,Primera B Argentina,0.85,90,6.1,0,0,1993,33,False
+936348,Ricardo Garay,6,D,False,857692800,Chaco For Ever,Los Andes,252726,112497,away,15275507,05/04/2026,Primera B Argentina,0.85,90,6.7,0,0,1997,29,False
+1020990,Mathias Silvera,3,D,False,921888000,Chaco For Ever,Los Andes,252726,112497,away,15275507,05/04/2026,Primera B Argentina,0.85,90,6.8,0,0,1999,27,False
+1197697,Juan Carrizo,8,M,False,975456000,Chaco For Ever,Los Andes,252726,112497,away,15275507,05/04/2026,Primera B Argentina,0.85,83,6.5,0,0,2000,26,False
+979657,Brian Nievas,5,M,False,893721600,Chaco For Ever,Los Andes,252726,112497,away,15275507,05/04/2026,Primera B Argentina,0.85,54,6.5,0,0,1998,28,False
+1192491,Santiago Valenzuela,7,M,False,1001203200,Chaco For Ever,Los Andes,252726,112497,away,15275507,05/04/2026,Primera B Argentina,0.85,68,7.0,0,0,2001,25,False
+843404,Leonardo Marinucci,10,F,False,730857600,Chaco For Ever,Los Andes,252726,112497,away,15275507,05/04/2026,Primera B Argentina,0.85,83,7.1,0,0,1993,33,False
+83700,German Pacheco,9,F,False,674611200,Chaco For Ever,Los Andes,252726,112497,away,15275507,05/04/2026,Primera B Argentina,0.85,90,6.6,0,0,1991,35,False
+1485242,Mateo Díaz Chaves,11,F,False,1063843200,Chaco For Ever,Los Andes,252726,112497,away,15275507,05/04/2026,Primera B Argentina,0.85,68,6.5,0,0,2003,23,True
+1018417,Imanol Enriquez,19,M,True,950400000,Chaco For Ever,Los Andes,252726,112497,away,15275507,05/04/2026,Primera B Argentina,0.85,36,6.1,0,0,2000,26,False
+883930,Brian Guerra,16,M,True,823737600,Chaco For Ever,Los Andes,252726,112497,away,15275507,05/04/2026,Primera B Argentina,0.85,22,5.9,0,0,1996,30,False
+2550569,Franco Molina  Gauto,14,F,True,,Chaco For Ever,Los Andes,252726,112497,away,15275507,05/04/2026,Primera B Argentina,0.85,22,6.7,0,0,0,0,False
+1804250,Gonzalo Melgarejo,18,F,True,988156800,Chaco For Ever,Los Andes,252726,112497,away,15275507,05/04/2026,Primera B Argentina,0.85,7,6.4,0,0,2001,25,False
+789424,Tomas Bolzicco,20,M,True,786067200,Chaco For Ever,Los Andes,252726,112497,away,15275507,05/04/2026,Primera B Argentina,0.85,7,6.6,0,0,1994,32,False
+155696,Bruno Galvan,1,G,False,768355200,Almirante Brown,Defensores de Belgrano,43740,52215,home,15275503,05/04/2026,Primera B Argentina,0.85,90,6.7,0,0,1994,32,False
+932094,Marcos Abreliano,7,D,False,892080000,Almirante Brown,Defensores de Belgrano,43740,52215,home,15275503,05/04/2026,Primera B Argentina,0.85,76,6.9,0,0,1998,28,False
+1627950,Enzo Cardozo,2,D,False,1128384000,Almirante Brown,Defensores de Belgrano,43740,52215,home,15275503,05/04/2026,Primera B Argentina,0.85,90,6.6,0,0,2005,21,True
+22986,Gustavo Cabral,6,D,False,498096000,Almirante Brown,Defensores de Belgrano,43740,52215,home,15275503,05/04/2026,Primera B Argentina,0.85,90,6.9,0,0,1985,41,False
+2189070,Nelson Gerardo Alegre Rojas,4,D,False,,Almirante Brown,Defensores de Belgrano,43740,52215,home,15275503,05/04/2026,Primera B Argentina,0.85,90,7.6,0,0,0,0,False
+1093120,Tomas Villoldo,3,D,False,809568000,Almirante Brown,Defensores de Belgrano,43740,52215,home,15275503,05/04/2026,Primera B Argentina,0.85,67,6.9,0,0,1995,31,False
+1597465,Gabriel Martiniano Altamirano,5,M,False,992995200,Almirante Brown,Defensores de Belgrano,43740,52215,home,15275503,05/04/2026,Primera B Argentina,0.85,55,7.0,0,0,2001,25,False
+1819311,Leandro Iglesias,10,M,False,979689600,Almirante Brown,Defensores de Belgrano,43740,52215,home,15275503,05/04/2026,Primera B Argentina,0.85,90,7.8,0,0,2001,25,False
+340731,Facundo Quignon,8,M,False,736300800,Almirante Brown,Defensores de Belgrano,43740,52215,home,15275503,05/04/2026,Primera B Argentina,0.85,67,6.5,0,0,1993,33,False
+1393522,Ramón González,11,F,False,1017446400,Almirante Brown,Defensores de Belgrano,43740,52215,home,15275503,05/04/2026,Primera B Argentina,0.85,90,6.2,0,0,2002,24,False
+976095,Santiago Vera,9,F,False,913420800,Almirante Brown,Defensores de Belgrano,43740,52215,home,15275503,05/04/2026,Primera B Argentina,0.85,55,6.6,0,0,1998,28,False
+1537840,Santiago Gauna,16,M,True,1049500800,Almirante Brown,Defensores de Belgrano,43740,52215,home,15275503,05/04/2026,Primera B Argentina,0.85,35,7.3,0,0,2003,23,True
+1104656,Javier Ezequiel Martínez,17,F,True,911606400,Almirante Brown,Defensores de Belgrano,43740,52215,home,15275503,05/04/2026,Primera B Argentina,0.85,35,6.6,0,0,1998,28,False
+1084973,Matías Belloso,18,D,True,950659200,Almirante Brown,Defensores de Belgrano,43740,52215,home,15275503,05/04/2026,Primera B Argentina,0.85,23,6.5,0,0,2000,26,False
+1017173,Tobías Zárate,20,M,True,962928000,Almirante Brown,Defensores de Belgrano,43740,52215,home,15275503,05/04/2026,Primera B Argentina,0.85,23,6.5,0,0,2000,26,False
+1649338,Tomás Almada,19,M,True,1012435200,Almirante Brown,Defensores de Belgrano,43740,52215,home,15275503,05/04/2026,Primera B Argentina,0.85,14,6.5,0,0,2002,24,False
+941532,Alejandro Medina,1,G,False,540259200,Defensores de Belgrano,Almirante Brown,52215,43740,away,15275503,05/04/2026,Primera B Argentina,0.85,90,7.7,0,0,1987,39,False
+1213804,Diego Magallanes,4,D,False,859766400,Defensores de Belgrano,Almirante Brown,52215,43740,away,15275503,05/04/2026,Primera B Argentina,0.85,90,6.9,0,0,1997,29,False
+932870,Alan Perez,2,D,False,672105600,Defensores de Belgrano,Almirante Brown,52215,43740,away,15275503,05/04/2026,Primera B Argentina,0.85,90,7.6,0,0,1991,35,False
+1468729,Gonzalo Gamarra,6,D,False,866160000,Defensores de Belgrano,Almirante Brown,52215,43740,away,15275503,05/04/2026,Primera B Argentina,0.85,90,6.7,0,0,1997,29,False
+1863115,Ián Ariel Pérez,3,D,False,926467200,Defensores de Belgrano,Almirante Brown,52215,43740,away,15275503,05/04/2026,Primera B Argentina,0.85,90,6.9,0,0,1999,27,False
+933172,Juan De Tomasso,8,M,False,741398400,Defensores de Belgrano,Almirante Brown,52215,43740,away,15275503,05/04/2026,Primera B Argentina,0.85,90,7.3,0,0,1993,33,False
+1182905,Agustín Benítez,10,M,False,939600000,Defensores de Belgrano,Almirante Brown,52215,43740,away,15275503,05/04/2026,Primera B Argentina,0.85,78,6.8,0,0,1999,27,False
+1469419,Ignacio Gutierrez,5,M,False,1022112000,Defensores de Belgrano,Almirante Brown,52215,43740,away,15275503,05/04/2026,Primera B Argentina,0.85,83,6.5,0,0,2002,24,False
+1506776,Patricio Moyano,7,M,False,1057276800,Defensores de Belgrano,Almirante Brown,52215,43740,away,15275503,05/04/2026,Primera B Argentina,0.85,74,6.9,0,1,2003,23,True
+1126363,Jonathan Dellarossa,11,F,False,948153600,Defensores de Belgrano,Almirante Brown,52215,43740,away,15275503,05/04/2026,Primera B Argentina,0.85,74,6.5,0,0,2000,26,False
+1887188,Enzo Gonzalez,9,F,False,969840000,Defensores de Belgrano,Almirante Brown,52215,43740,away,15275503,05/04/2026,Primera B Argentina,0.85,83,7.0,1,0,2000,26,False
+896937,Leandro CiccolIini,17,M,True,798508800,Defensores de Belgrano,Almirante Brown,52215,43740,away,15275503,05/04/2026,Primera B Argentina,0.85,16,6.4,0,0,1995,31,False
+1654474,Francisco Tcherkaski,19,F,True,1127174400,Defensores de Belgrano,Almirante Brown,52215,43740,away,15275503,05/04/2026,Primera B Argentina,0.85,16,7.5,1,0,2005,21,True
+289773,Luis Jérez,15,M,True,603936000,Defensores de Belgrano,Almirante Brown,52215,43740,away,15275503,05/04/2026,Primera B Argentina,0.85,12,6.4,0,0,1989,37,False
+1125078,Nicolás Vaquer,13,D,True,1049414400,Defensores de Belgrano,Almirante Brown,52215,43740,away,15275503,05/04/2026,Primera B Argentina,0.85,7,6.3,0,0,2003,23,True
+249357,Diego Garcia,18,F,True,519696000,Defensores de Belgrano,Almirante Brown,52215,43740,away,15275503,05/04/2026,Primera B Argentina,0.85,7,6.5,0,0,1986,40,False
+895215,Julio Salvá,1,G,False,548294400,Deportivo Morón,San Telmo,93109,213361,home,15275509,05/04/2026,Primera B Argentina,0.85,90,7.2,0,0,1987,39,False
+1001815,Elias Contreras,4,D,False,857692800,Deportivo Morón,San Telmo,93109,213361,home,15275509,05/04/2026,Primera B Argentina,0.85,67,6.8,0,0,1997,29,False
+871794,Braian Salvareschi,2,D,False,923961600,Deportivo Morón,San Telmo,93109,213361,home,15275509,05/04/2026,Primera B Argentina,0.85,90,7.1,0,0,1999,27,False
+1485215,Franco Vázquez,6,D,False,1104624000,Deportivo Morón,San Telmo,93109,213361,home,15275509,05/04/2026,Primera B Argentina,0.85,90,6.7,0,0,2005,21,True
+2035699,Joaquín Livera,3,D,False,936230400,Deportivo Morón,San Telmo,93109,213361,home,15275509,05/04/2026,Primera B Argentina,0.85,90,6.8,0,0,1999,27,False
+1597474,Santiago Kubiszyn,8,M,False,1032652800,Deportivo Morón,San Telmo,93109,213361,home,15275509,05/04/2026,Primera B Argentina,0.85,61,7.3,0,0,2002,24,False
+949675,Mauro Burruchaga,5,M,False,898905600,Deportivo Morón,San Telmo,93109,213361,home,15275509,05/04/2026,Primera B Argentina,0.85,90,6.9,0,0,1998,28,False
+585954,Juan Manuel Olivares,10,M,False,584841600,Deportivo Morón,San Telmo,93109,213361,home,15275509,05/04/2026,Primera B Argentina,0.85,84,7.8,1,0,1988,38,False
+129517,Mariano Bittolo,11,M,False,640915200,Deportivo Morón,San Telmo,93109,213361,home,15275509,05/04/2026,Primera B Argentina,0.85,67,7.1,0,0,1990,36,False
+2229943,Ezequiel David Bulacio,9,F,False,1010793600,Deportivo Morón,San Telmo,93109,213361,home,15275509,05/04/2026,Primera B Argentina,0.85,90,7.2,0,0,2002,24,False
+1502092,Franco Fagundez,7,F,False,913593600,Deportivo Morón,San Telmo,93109,213361,home,15275509,05/04/2026,Primera B Argentina,0.85,67,6.7,0,0,1998,28,False
+1905997,Tomás Ariel Ramírez,20,M,True,1071792000,Deportivo Morón,San Telmo,93109,213361,home,15275509,05/04/2026,Primera B Argentina,0.85,29,6.8,0,0,2003,23,True
+192414,Gastón González,18,M,True,572572800,Deportivo Morón,San Telmo,93109,213361,home,15275509,05/04/2026,Primera B Argentina,0.85,23,6.6,0,0,1988,38,False
+1485213,Facundo Báez,19,F,True,1078272000,Deportivo Morón,San Telmo,93109,213361,home,15275509,05/04/2026,Primera B Argentina,0.85,23,6.6,0,0,2004,22,True
+1003008,Alexis Francisco Flores,14,D,True,1010707200,Deportivo Morón,San Telmo,93109,213361,home,15275509,05/04/2026,Primera B Argentina,0.85,23,6.9,0,0,2002,24,False
+581778,Maximiliano González,15,M,True,763430400,Deportivo Morón,San Telmo,93109,213361,home,15275509,05/04/2026,Primera B Argentina,0.85,6,6.6,0,0,1994,32,False
+1800221,Joaquín Conrado Enrico,1,G,False,998438400,San Telmo,Deportivo Morón,213361,93109,away,15275509,05/04/2026,Primera B Argentina,0.85,90,7.1,0,0,2001,25,False
+2044361,Juan Motroni,7,D,False,914976000,San Telmo,Deportivo Morón,213361,93109,away,15275509,05/04/2026,Primera B Argentina,0.85,90,6.3,0,0,1998,28,False
+1490981,Leonel Pollacchi,2,D,False,946684800,San Telmo,Deportivo Morón,213361,93109,away,15275509,05/04/2026,Primera B Argentina,0.85,90,5.7,0,0,2000,26,False
+34391,Facundo Roncaglia,4,D,False,539913600,San Telmo,Deportivo Morón,213361,93109,away,15275509,05/04/2026,Primera B Argentina,0.85,90,6.4,0,0,1987,39,False
+816609,Fabián Henríquez,6,D,False,802569600,San Telmo,Deportivo Morón,213361,93109,away,15275509,05/04/2026,Primera B Argentina,0.85,59,6.6,0,0,1995,31,False
+1535522,Gabriel Paredes,3,D,False,1071187200,San Telmo,Deportivo Morón,213361,93109,away,15275509,05/04/2026,Primera B Argentina,0.85,32,6.8,0,0,2003,23,True
+1092607,Matias Ledesma,8,M,False,922752000,San Telmo,Deportivo Morón,213361,93109,away,15275509,05/04/2026,Primera B Argentina,0.85,70,6.8,0,0,1999,27,False
+2044374,Renzo Uriburu,5,M,False,1055894400,San Telmo,Deportivo Morón,213361,93109,away,15275509,05/04/2026,Primera B Argentina,0.85,59,6.5,0,0,2003,23,True
+859658,Javier Iritier,10,M,False,787881600,San Telmo,Deportivo Morón,213361,93109,away,15275509,05/04/2026,Primera B Argentina,0.85,90,7.2,0,0,1994,32,False
+789949,Lucas Baldunciel,11,F,False,701222400,San Telmo,Deportivo Morón,213361,93109,away,15275509,05/04/2026,Primera B Argentina,0.85,59,7.2,0,0,1992,34,False
+1182417,Franco Tisera,9,F,False,623721600,San Telmo,Deportivo Morón,213361,93109,away,15275509,05/04/2026,Primera B Argentina,0.85,90,6.8,0,0,1989,37,False
+2468955,Emanuel Alejandro Díaz,13,D,True,879120000,San Telmo,Deportivo Morón,213361,93109,away,15275509,05/04/2026,Primera B Argentina,0.85,58,6.9,0,0,1997,29,False
+1086331,Elías Britez,14,M,True,984268800,San Telmo,Deportivo Morón,213361,93109,away,15275509,05/04/2026,Primera B Argentina,0.85,31,6.5,0,0,2001,25,False
+1110286,Martín Batallini,19,F,True,682560000,San Telmo,Deportivo Morón,213361,93109,away,15275509,05/04/2026,Primera B Argentina,0.85,31,6.3,0,0,1991,35,False
+1807648,Román Alejandro Gamarra Escobar,18,D,True,1011830400,San Telmo,Deportivo Morón,213361,93109,away,15275509,05/04/2026,Primera B Argentina,0.85,31,6.7,0,0,2002,24,False
+146950,Matías Laba,15,M,True,692409600,San Telmo,Deportivo Morón,213361,93109,away,15275509,05/04/2026,Primera B Argentina,0.85,20,6.4,0,0,1991,35,False
+895204,Milton Álvarez,1,G,False,601776000,Gimnasia Jujuy,Patronato,5292,43741,home,15275511,05/04/2026,Primera B Argentina,0.85,90,7.8,0,0,1989,37,False
+950814,Delfor Minervino,4,D,False,829094400,Gimnasia Jujuy,Patronato,5292,43741,home,15275511,05/04/2026,Primera B Argentina,0.85,90,6.9,0,1,1996,30,False
+1383864,Juan Pablo Córdoba,6,D,False,1056585600,Gimnasia Jujuy,Patronato,5292,43741,home,15275511,05/04/2026,Primera B Argentina,0.85,90,7.4,0,0,2003,23,True
+295165,Guillermo Cosaro,2,D,False,605232000,Gimnasia Jujuy,Patronato,5292,43741,home,15275511,05/04/2026,Primera B Argentina,0.85,90,8.1,1,0,1989,37,False
+895230,Emiliano Endrizzi,3,D,False,762998400,Gimnasia Jujuy,Patronato,5292,43741,home,15275511,05/04/2026,Primera B Argentina,0.85,90,6.9,0,0,1994,32,False
+246161,Hugo Soria,5,M,False,635126400,Gimnasia Jujuy,Patronato,5292,43741,home,15275511,05/04/2026,Primera B Argentina,0.85,90,7.0,1,0,1990,36,False
+1126884,Francisco Maidana,7,M,False,1009584000,Gimnasia Jujuy,Patronato,5292,43741,home,15275511,05/04/2026,Primera B Argentina,0.85,79,7.6,0,0,2001,25,False
+943167,David Gallardo,8,M,False,857088000,Gimnasia Jujuy,Patronato,5292,43741,home,15275511,05/04/2026,Primera B Argentina,0.85,86,6.9,0,0,1997,29,False
+1018449,Pablo Argañaraz,9,M,False,900979200,Gimnasia Jujuy,Patronato,5292,43741,home,15275511,05/04/2026,Primera B Argentina,0.85,64,6.9,0,0,1998,28,False
+943794,Francisco Molina,10,M,False,655344000,Gimnasia Jujuy,Patronato,5292,43741,home,15275511,05/04/2026,Primera B Argentina,0.85,64,7.3,0,0,1990,36,False
+47333,Cristian Menéndez,11,F,False,575942400,Gimnasia Jujuy,Patronato,5292,43741,home,15275511,05/04/2026,Primera B Argentina,0.85,86,6.8,0,0,1988,38,False
+981329,Axel Pinto,19,M,True,969235200,Gimnasia Jujuy,Patronato,5292,43741,home,15275511,05/04/2026,Primera B Argentina,0.85,26,6.9,0,0,2000,26,False
+1094073,Mauro Cachi,18,M,True,903744000,Gimnasia Jujuy,Patronato,5292,43741,home,15275511,05/04/2026,Primera B Argentina,0.85,26,6.8,0,0,1998,28,False
+1615360,Gonzalo Villarreal,13,D,True,890179200,Gimnasia Jujuy,Patronato,5292,43741,home,15275511,05/04/2026,Primera B Argentina,0.85,11,6.6,0,0,1998,28,False
+1183525,Octavio Bianchi,20,F,True,812851200,Gimnasia Jujuy,Patronato,5292,43741,home,15275511,05/04/2026,Primera B Argentina,0.85,4,6.6,0,0,1995,31,False
+1119881,Federico Paradela,16,M,True,994118400,Gimnasia Jujuy,Patronato,5292,43741,home,15275511,05/04/2026,Primera B Argentina,0.85,4,6.6,0,0,2001,25,False
+872392,Alan Sosa,1,G,False,830563200,Patronato,Gimnasia Jujuy,43741,5292,away,15275511,05/04/2026,Primera B Argentina,0.85,90,6.3,0,0,1996,30,False
+992108,Walter Rueda,4,D,False,881020800,Patronato,Gimnasia Jujuy,43741,5292,away,15275511,05/04/2026,Primera B Argentina,0.85,90,6.5,0,0,1997,29,False
+992966,Franco Meritello,2,D,False,826588800,Patronato,Gimnasia Jujuy,43741,5292,away,15275511,05/04/2026,Primera B Argentina,0.85,90,6.7,0,0,1996,30,False
+1597464,Fernando Ezequiel Moreyra Aldana,3,D,False,650160000,Patronato,Gimnasia Jujuy,43741,5292,away,15275511,05/04/2026,Primera B Argentina,0.85,90,6.9,0,0,1990,36,False
+1381797,Santiago Piccioni,6,D,False,946684800,Patronato,Gimnasia Jujuy,43741,5292,away,15275511,05/04/2026,Primera B Argentina,0.85,88,6.8,0,0,2000,26,False
+990059,Juan Salas,8,M,False,923443200,Patronato,Gimnasia Jujuy,43741,5292,away,15275511,05/04/2026,Primera B Argentina,0.85,79,6.8,0,0,1999,27,False
+321463,Federico Bravo,5,M,False,749779200,Patronato,Gimnasia Jujuy,43741,5292,away,15275511,05/04/2026,Primera B Argentina,0.85,90,6.7,0,0,1993,33,False
+980767,Brandon Cortés,10,M,False,993513600,Patronato,Gimnasia Jujuy,43741,5292,away,15275511,05/04/2026,Primera B Argentina,0.85,79,7.2,0,0,2001,25,False
+1597485,Lautaro Valentín Pereyra,11,M,False,1019088000,Patronato,Gimnasia Jujuy,43741,5292,away,15275511,05/04/2026,Primera B Argentina,0.85,86,7.1,0,0,2002,24,False
+789446,Franco Soldano,7,F,False,779500800,Patronato,Gimnasia Jujuy,43741,5292,away,15275511,05/04/2026,Primera B Argentina,0.85,79,6.9,0,0,1994,32,False
+864074,Tomas Attis,9,F,False,938822400,Patronato,Gimnasia Jujuy,43741,5292,away,15275511,05/04/2026,Primera B Argentina,0.85,73,7.1,0,0,1999,27,False
+912789,Renzo Reynaga,19,F,True,928281600,Patronato,Gimnasia Jujuy,43741,5292,away,15275511,05/04/2026,Primera B Argentina,0.85,17,6.5,0,0,1999,27,False
+938560,Hernán Rivero,20,F,True,716256000,Patronato,Gimnasia Jujuy,43741,5292,away,15275511,05/04/2026,Primera B Argentina,0.85,11,6.5,0,0,1992,34,False
+1214766,Juan Pablo Barinaga,16,M,True,960854400,Patronato,Gimnasia Jujuy,43741,5292,away,15275511,05/04/2026,Primera B Argentina,0.85,11,6.3,0,0,2000,26,False
+859971,Agustín Araujo,18,M,True,928713600,Patronato,Gimnasia Jujuy,43741,5292,away,15275511,05/04/2026,Primera B Argentina,0.85,11,6.4,0,0,1999,27,False
+1598286,Alejo Agustín Miró,17,M,True,1108684800,Patronato,Gimnasia Jujuy,43741,5292,away,15275511,05/04/2026,Primera B Argentina,0.85,4,6.2,0,0,2005,21,True
+42571,Gonzalo Marinelli,1,G,False,602812800,Quilmes Atlético Club,Deportivo Maipú,4936,213042,home,15275513,05/04/2026,Primera B Argentina,0.85,90,7.4,0,0,1989,37,False
+1514482,Martín Vallejos,4,D,False,977702400,Quilmes Atlético Club,Deportivo Maipú,4936,213042,home,15275513,05/04/2026,Primera B Argentina,0.85,90,6.7,0,1,2000,26,False
+883236,Ariel Kippes,2,D,False,762134400,Quilmes Atlético Club,Deportivo Maipú,4936,213042,home,15275513,05/04/2026,Primera B Argentina,0.85,90,6.7,0,0,1994,32,False
+896879,Luciano Recalde,6,D,False,808185600,Quilmes Atlético Club,Deportivo Maipú,4936,213042,home,15275513,05/04/2026,Primera B Argentina,0.85,90,7.9,0,0,1995,31,False
+1017439,Thomas Ortega,3,D,False,976060800,Quilmes Atlético Club,Deportivo Maipú,4936,213042,home,15275513,05/04/2026,Primera B Argentina,0.85,90,6.9,0,0,2000,26,False
+1799515,Ramiro Martínez,8,M,False,1064620800,Quilmes Atlético Club,Deportivo Maipú,4936,213042,home,15275513,05/04/2026,Primera B Argentina,0.85,81,6.7,0,0,2003,23,True
+895347,Agustín Bolívar,5,M,False,821145600,Quilmes Atlético Club,Deportivo Maipú,4936,213042,home,15275513,05/04/2026,Primera B Argentina,0.85,90,7.6,0,0,1996,30,False
+1512471,Axel Batista,10,M,False,1020902400,Quilmes Atlético Club,Deportivo Maipú,4936,213042,home,15275513,05/04/2026,Primera B Argentina,0.85,74,7.5,0,1,2002,24,False
+1465702,Ulises Vera,11,M,False,1066694400,Quilmes Atlético Club,Deportivo Maipú,4936,213042,home,15275513,05/04/2026,Primera B Argentina,0.85,88,6.7,1,0,2003,23,True
+1021876,Agustín Lavezzi,7,F,False,821664000,Quilmes Atlético Club,Deportivo Maipú,4936,213042,home,15275513,05/04/2026,Primera B Argentina,0.85,81,7.2,1,0,1996,30,False
+879625,Alexis Domínguez,9,F,False,846633600,Quilmes Atlético Club,Deportivo Maipú,4936,213042,home,15275513,05/04/2026,Primera B Argentina,0.85,74,6.6,0,0,1996,30,False
+974746,José Barreto,19,F,True,951177600,Quilmes Atlético Club,Deportivo Maipú,4936,213042,home,15275513,05/04/2026,Primera B Argentina,0.85,16,7.1,0,0,2000,26,False
+1084975,Ramiro Luna,17,M,True,806284800,Quilmes Atlético Club,Deportivo Maipú,4936,213042,home,15275513,05/04/2026,Primera B Argentina,0.85,16,6.6,0,0,1995,31,False
+1101716,Ian Rasso,13,M,True,966211200,Quilmes Atlético Club,Deportivo Maipú,4936,213042,home,15275513,05/04/2026,Primera B Argentina,0.85,9,6.1,0,0,2000,26,False
+1418610,Joaquin Postigo,16,F,True,1069891200,Quilmes Atlético Club,Deportivo Maipú,4936,213042,home,15275513,05/04/2026,Primera B Argentina,0.85,9,6.5,0,0,2003,23,True
+174509,Mauro Fernández,18,M,True,607305600,Quilmes Atlético Club,Deportivo Maipú,4936,213042,home,15275513,05/04/2026,Primera B Argentina,0.85,2,6.2,0,0,1989,37,False
+2046433,Nahuel Galardi,1,G,False,1021420800,Deportivo Maipú,Quilmes Atlético Club,213042,4936,away,15275513,05/04/2026,Primera B Argentina,0.85,90,6.7,0,0,2002,24,False
+1597461,Lucas Nicolás Faggioli,4,D,False,855619200,Deportivo Maipú,Quilmes Atlético Club,213042,4936,away,15275513,05/04/2026,Primera B Argentina,0.85,90,7.2,1,0,1997,29,False
+1490990,Luciano Arnijas,2,D,False,1048118400,Deportivo Maipú,Quilmes Atlético Club,213042,4936,away,15275513,05/04/2026,Primera B Argentina,0.85,90,6.7,0,0,2003,23,True
+1479452,Aron Rodrigo Aguero Gimenez,6,D,False,1041033600,Deportivo Maipú,Quilmes Atlético Club,213042,4936,away,15275513,05/04/2026,Primera B Argentina,0.85,90,6.7,0,0,2002,24,False
+1393295,Juan De la Reta,3,D,False,1114992000,Deportivo Maipú,Quilmes Atlético Club,213042,4936,away,15275513,05/04/2026,Primera B Argentina,0.85,90,6.8,0,0,2005,21,True
+249331,Fausto Montero,8,M,False,593481600,Deportivo Maipú,Quilmes Atlético Club,213042,4936,away,15275513,05/04/2026,Primera B Argentina,0.85,70,7.2,0,0,1988,38,False
+1128477,Gastón Mansilla,5,M,False,864950400,Deportivo Maipú,Quilmes Atlético Club,213042,4936,away,15275513,05/04/2026,Primera B Argentina,0.85,62,6.8,0,0,1997,29,False
+1404361,Franco Saccone,7,M,False,1008720000,Deportivo Maipú,Quilmes Atlético Club,213042,4936,away,15275513,05/04/2026,Primera B Argentina,0.85,90,6.8,0,0,2001,25,False
+1191418,Marcelo Eggel,10,M,False,916531200,Deportivo Maipú,Quilmes Atlético Club,213042,4936,away,15275513,05/04/2026,Primera B Argentina,0.85,90,8.0,0,0,1999,27,False
+1094083,Juan Pablo Gobetto,11,M,False,830044800,Deportivo Maipú,Quilmes Atlético Club,213042,4936,away,15275513,05/04/2026,Primera B Argentina,0.85,81,6.8,0,0,1996,30,False
+1113642,Lisandro Cabrera,9,F,False,883872000,Deportivo Maipú,Quilmes Atlético Club,213042,4936,away,15275513,05/04/2026,Primera B Argentina,0.85,81,6.4,0,0,1998,28,False
+989395,Matías Viguet,20,M,True,896486400,Deportivo Maipú,Quilmes Atlético Club,213042,4936,away,15275513,05/04/2026,Primera B Argentina,0.85,28,7.0,0,0,1998,28,False
+1656941,Juan Cruz Giacone,19,M,True,1073606400,Deportivo Maipú,Quilmes Atlético Club,213042,4936,away,15275513,05/04/2026,Primera B Argentina,0.85,20,6.7,0,0,2004,22,True
+1914534,Mirko Bonfigli,16,M,True,1084406400,Deportivo Maipú,Quilmes Atlético Club,213042,4936,away,15275513,05/04/2026,Primera B Argentina,0.85,9,6.6,0,0,2004,22,True
+2047512,Tomás Ricardo Rodrigo Silva,17,M,True,979257600,Deportivo Maipú,Quilmes Atlético Club,213042,4936,away,15275513,05/04/2026,Primera B Argentina,0.85,9,7.0,0,1,2001,25,False
+897132,Brian Olivera,1,G,False,755740800,Racing de Córdoba,Ciudad de Bolivar,273657,340432,home,15275502,05/04/2026,Primera B Argentina,0.85,90,6.6,0,0,1993,33,False
+1210390,Santiago Rinaudo,4,D,False,892512000,Racing de Córdoba,Ciudad de Bolivar,273657,340432,home,15275502,05/04/2026,Primera B Argentina,0.85,90,6.6,0,0,1998,28,False
+1131027,Gabriel Aranda,2,D,False,987379200,Racing de Córdoba,Ciudad de Bolivar,273657,340432,home,15275502,05/04/2026,Primera B Argentina,0.85,90,6.5,0,0,2001,25,False
+1411386,Matias Sanchez,6,D,False,915148800,Racing de Córdoba,Ciudad de Bolivar,273657,340432,home,15275502,05/04/2026,Primera B Argentina,0.85,87,6.5,0,0,1999,27,False
+1507575,Emanuel Diaz,3,D,False,1020470400,Racing de Córdoba,Ciudad de Bolivar,273657,340432,home,15275502,05/04/2026,Primera B Argentina,0.85,74,6.5,0,0,2002,24,False
+1491299,Alan Olinick,5,M,False,964828800,Racing de Córdoba,Ciudad de Bolivar,273657,340432,home,15275502,05/04/2026,Primera B Argentina,0.85,90,6.7,0,0,2000,26,False
+1403409,Tomás Kummer,8,M,False,1100044800,Racing de Córdoba,Ciudad de Bolivar,273657,340432,home,15275502,05/04/2026,Primera B Argentina,0.85,46,6.8,0,0,2004,22,True
+2469039,Leandro Cordoba,11,M,False,1115856000,Racing de Córdoba,Ciudad de Bolivar,273657,340432,home,15275502,05/04/2026,Primera B Argentina,0.85,90,6.4,0,0,2005,21,True
+1831678,Fernando Ortiz,10,M,False,876614400,Racing de Córdoba,Ciudad de Bolivar,273657,340432,home,15275502,05/04/2026,Primera B Argentina,0.85,46,6.3,0,0,1997,29,False
+1802479,Luciano Viano,7,M,False,1043107200,Racing de Córdoba,Ciudad de Bolivar,273657,340432,home,15275502,05/04/2026,Primera B Argentina,0.85,62,6.5,0,0,2003,23,True
+121973,Pablo Chavarría,9,F,False,568080000,Racing de Córdoba,Ciudad de Bolivar,273657,340432,home,15275502,05/04/2026,Primera B Argentina,0.85,90,7.0,0,0,1988,38,False
+2045783,Matías Machado,15,M,True,991785600,Racing de Córdoba,Ciudad de Bolivar,273657,340432,home,15275502,05/04/2026,Primera B Argentina,0.85,44,6.3,0,0,2001,25,False
+790806,Sergio Gonzalez,19,M,True,797040000,Racing de Córdoba,Ciudad de Bolivar,273657,340432,home,15275502,05/04/2026,Primera B Argentina,0.85,44,6.5,0,0,1995,31,False
+894138,Facundo Juárez,17,M,True,752716800,Racing de Córdoba,Ciudad de Bolivar,273657,340432,home,15275502,05/04/2026,Primera B Argentina,0.85,28,6.6,0,0,1993,33,False
+2045803,Francisco Monticelli,18,M,True,1058313600,Racing de Córdoba,Ciudad de Bolivar,273657,340432,home,15275502,05/04/2026,Primera B Argentina,0.85,16,6.9,0,0,2003,23,True
+1018456,Raúl Chamorro,14,D,True,924220800,Racing de Córdoba,Ciudad de Bolivar,273657,340432,home,15275502,05/04/2026,Primera B Argentina,0.85,3,6.5,0,0,1999,27,False
+974632,Agustín Rufinetti,1,G,False,948931200,Ciudad de Bolivar,Racing de Córdoba,340432,273657,away,15275502,05/04/2026,Primera B Argentina,0.85,90,6.9,0,0,2000,26,False
+1187969,Agustín Paredes,4,D,False,1009843200,Ciudad de Bolivar,Racing de Córdoba,340432,273657,away,15275502,05/04/2026,Primera B Argentina,0.85,90,7.2,0,0,2002,24,False
+989836,Ezequiel Navarro,2,D,False,994377600,Ciudad de Bolivar,Racing de Córdoba,340432,273657,away,15275502,05/04/2026,Primera B Argentina,0.85,90,7.7,0,0,2001,25,False
+1891465,Elias Martinez,6,D,False,769046400,Ciudad de Bolivar,Racing de Córdoba,340432,273657,away,15275502,05/04/2026,Primera B Argentina,0.85,90,7.4,0,0,1994,32,False
+2066036,Federico Peralta,3,D,False,1007337600,Ciudad de Bolivar,Racing de Córdoba,340432,273657,away,15275502,05/04/2026,Primera B Argentina,0.85,90,7.1,0,0,2001,25,False
+974638,Brian Duarte,7,M,False,929404800,Ciudad de Bolivar,Racing de Córdoba,340432,273657,away,15275502,05/04/2026,Primera B Argentina,0.85,87,7.2,1,0,1999,27,False
+129719,Nahuel Yeri,8,M,False,684633600,Ciudad de Bolivar,Racing de Córdoba,340432,273657,away,15275502,05/04/2026,Primera B Argentina,0.85,90,7.3,0,0,1991,35,False
+941433,Cristian Vega,5,M,False,748224000,Ciudad de Bolivar,Racing de Córdoba,340432,273657,away,15275502,05/04/2026,Primera B Argentina,0.85,90,7.2,0,0,1993,33,False
+1125230,Álex Díaz,11,M,False,931910400,Ciudad de Bolivar,Racing de Córdoba,340432,273657,away,15275502,05/04/2026,Primera B Argentina,0.85,90,6.9,0,1,1999,27,False
+340957,Arnaldo Gonzalez,10,M,False,611020800,Ciudad de Bolivar,Racing de Córdoba,340432,273657,away,15275502,05/04/2026,Primera B Argentina,0.85,62,7.0,0,0,1989,37,False
+1502101,Jonatan Maciel,9,F,False,762134400,Ciudad de Bolivar,Racing de Córdoba,340432,273657,away,15275502,05/04/2026,Primera B Argentina,0.85,90,5.9,0,0,1994,32,False
+1491300,Facundo Mucignat,17,M,True,928368000,Ciudad de Bolivar,Racing de Córdoba,340432,273657,away,15275502,05/04/2026,Primera B Argentina,0.85,28,7.1,1,0,1999,27,False
+1650462,Maximiliano Gutiérrez,18,M,True,852336000,Ciudad de Bolivar,Racing de Córdoba,340432,273657,away,15275502,05/04/2026,Primera B Argentina,0.85,3,6.4,0,0,1997,29,False
+925193,Emanuel Cuello,19,M,True,776908800,Ciudad de Bolivar,Racing de Córdoba,340432,273657,away,15275502,05/04/2026,Primera B Argentina,0.85,1,0.0,0,0,1994,32,False
+2299575,Thiago Rodríguez,15,M,True,1091923200,Ciudad de Bolivar,Racing de Córdoba,340432,273657,away,15275502,05/04/2026,Primera B Argentina,0.85,1,0.0,0,0,2004,22,True
+1092476,Ignacio Pietrobono,1,G,False,678153600,CA Mitre,Deportivo Madryn,255425,222120,home,15275504,05/04/2026,Primera B Argentina,0.85,90,6.3,0,0,1991,35,False
+973551,Iván Antunes,4,D,False,893289600,CA Mitre,Deportivo Madryn,255425,222120,home,15275504,05/04/2026,Primera B Argentina,0.85,90,7.0,0,0,1998,28,False
+1017448,Pablo Minissale,2,D,False,979430400,CA Mitre,Deportivo Madryn,255425,222120,home,15275504,05/04/2026,Primera B Argentina,0.85,90,6.3,0,0,2001,25,False
+1650473,Tiago Ferreyra,6,D,False,1019001600,CA Mitre,Deportivo Madryn,255425,222120,home,15275504,05/04/2026,Primera B Argentina,0.85,90,6.6,0,0,2002,24,False
+2045786,Luciano Correa,3,D,False,1025308800,CA Mitre,Deportivo Madryn,255425,222120,home,15275504,05/04/2026,Primera B Argentina,0.85,85,6.6,0,0,2002,24,False
+824589,Claudio Salto,10,M,False,789177600,CA Mitre,Deportivo Madryn,255425,222120,home,15275504,05/04/2026,Primera B Argentina,0.85,90,7.8,0,0,1995,31,False
+1196558,Maximiliano Romero,8,M,False,785721600,CA Mitre,Deportivo Madryn,255425,222120,home,15275504,05/04/2026,Primera B Argentina,0.85,73,6.6,0,0,1994,32,False
+1125761,Juan Francisc Alessandroni,5,M,False,,CA Mitre,Deportivo Madryn,255425,222120,home,15275504,05/04/2026,Primera B Argentina,0.85,90,6.9,0,0,0,0,False
+2465603,Mateo Maldonado,11,M,False,1124236800,CA Mitre,Deportivo Madryn,255425,222120,home,15275504,05/04/2026,Primera B Argentina,0.85,67,6.3,0,0,2005,21,True
+1117173,Marcos Machado,7,F,False,990144000,CA Mitre,Deportivo Madryn,255425,222120,home,15275504,05/04/2026,Primera B Argentina,0.85,85,6.7,0,0,2001,25,False
+47451,Gustavo Martin Fernandez,9,F,False,649728000,CA Mitre,Deportivo Madryn,255425,222120,home,15275504,05/04/2026,Primera B Argentina,0.85,90,7.6,1,0,1990,36,False
+1109292,Rodrigo González,16,M,True,963878400,CA Mitre,Deportivo Madryn,255425,222120,home,15275504,05/04/2026,Primera B Argentina,0.85,23,6.5,0,0,2000,26,False
+881250,Juan Pablo Zarate,20,M,True,666748800,CA Mitre,Deportivo Madryn,255425,222120,home,15275504,05/04/2026,Primera B Argentina,0.85,17,6.6,0,0,1991,35,False
+2509684,Alan Lopez,17,M,True,,CA Mitre,Deportivo Madryn,255425,222120,home,15275504,05/04/2026,Primera B Argentina,0.85,5,6.7,0,0,0,0,False
+980926,Agustín Ramírez,15,D,True,957225600,CA Mitre,Deportivo Madryn,255425,222120,home,15275504,05/04/2026,Primera B Argentina,0.85,5,6.4,0,0,2000,26,False
+340847,Yair Bonnin,1,G,False,653788800,Deportivo Madryn,CA Mitre,222120,255425,away,15275504,05/04/2026,Primera B Argentina,0.85,90,7.6,0,0,1990,36,False
+922443,Agustín Sosa,4,D,False,967420800,Deportivo Madryn,CA Mitre,222120,255425,away,15275504,05/04/2026,Primera B Argentina,0.85,90,7.6,1,0,2000,26,False
+1016645,Facundo Giacopuzzi,2,D,False,988243200,Deportivo Madryn,CA Mitre,222120,255425,away,15275504,05/04/2026,Primera B Argentina,0.85,90,6.8,0,0,2001,25,False
+882598,Nicolás Ortíz,6,D,False,794275200,Deportivo Madryn,CA Mitre,222120,255425,away,15275504,05/04/2026,Primera B Argentina,0.85,90,7.8,1,0,1995,31,False
+790190,Rodrigo Ayala,3,D,False,776563200,Deportivo Madryn,CA Mitre,222120,255425,away,15275504,05/04/2026,Primera B Argentina,0.85,90,6.3,0,0,1994,32,False
+978872,Yvo Calleros,5,M,False,889833600,Deportivo Madryn,CA Mitre,222120,255425,away,15275504,05/04/2026,Primera B Argentina,0.85,90,7.4,1,0,1998,28,False
+249081,Mauricio Cuero,7,M,False,728179200,Deportivo Madryn,CA Mitre,222120,255425,away,15275504,05/04/2026,Primera B Argentina,0.85,67,6.6,0,0,1993,33,False
+896871,Federico Recalde,8,M,False,839721600,Deportivo Madryn,CA Mitre,222120,255425,away,15275504,05/04/2026,Primera B Argentina,0.85,80,6.4,0,0,1996,30,False
+971173,Camilo Machado,11,M,False,917827200,Deportivo Madryn,CA Mitre,222120,255425,away,15275504,05/04/2026,Primera B Argentina,0.85,61,6.6,0,0,1999,27,False
+838304,Nicolás Servetto,9,F,False,827884800,Deportivo Madryn,CA Mitre,222120,255425,away,15275504,05/04/2026,Primera B Argentina,0.85,61,6.4,0,0,1996,30,False
+2063992,Nazareno Solís,10,F,False,766972800,Deportivo Madryn,CA Mitre,222120,255425,away,15275504,05/04/2026,Primera B Argentina,0.85,67,7.2,0,1,1994,32,False
+789383,Ezequiel Montagna,19,M,True,771033600,Deportivo Madryn,CA Mitre,222120,255425,away,15275504,05/04/2026,Primera B Argentina,0.85,29,6.7,0,0,1994,32,False
+951083,Luis Silba,18,F,True,634176000,Deportivo Madryn,CA Mitre,222120,255425,away,15275504,05/04/2026,Primera B Argentina,0.85,29,6.5,0,0,1990,36,False
+1111801,Nicolas Barrientos,17,F,True,797040000,Deportivo Madryn,CA Mitre,222120,255425,away,15275504,05/04/2026,Primera B Argentina,0.85,23,6.7,0,0,1995,31,False
+358628,Facundo Ospitaleche,16,M,True,829180800,Deportivo Madryn,CA Mitre,222120,255425,away,15275504,05/04/2026,Primera B Argentina,0.85,23,6.8,0,0,1996,30,False
+1170679,Alejandro Gutiérrez,14,D,True,789004800,Deportivo Madryn,CA Mitre,222120,255425,away,15275504,05/04/2026,Primera B Argentina,0.85,10,6.8,0,0,1995,31,False
+1597451,Mayco  Bergia,1,G,False,1027987200,Atlético de Rafaela,Güemes,34976,224646,home,15275518,05/04/2026,Primera B Argentina,0.85,90,0.0,0,0,2002,24,False
+927671,Leonardo Flores,4,D,False,858556800,Atlético de Rafaela,Güemes,34976,224646,home,15275518,05/04/2026,Primera B Argentina,0.85,90,0.0,0,0,1997,29,False
+1111807,Gabriel Fernandez,2,D,False,702259200,Atlético de Rafaela,Güemes,34976,224646,home,15275518,05/04/2026,Primera B Argentina,0.85,90,0.0,0,0,1992,34,False
+1020055,Nicolás Ramos,6,D,False,921024000,Atlético de Rafaela,Güemes,34976,224646,home,15275518,05/04/2026,Primera B Argentina,0.85,90,0.0,0,0,1999,27,False
+1897921,Enzo Wuattier,3,D,False,1114560000,Atlético de Rafaela,Güemes,34976,224646,home,15275518,05/04/2026,Primera B Argentina,0.85,90,0.0,0,0,2005,21,True
+333761,Juan Capurro,8,M,False,774576000,Atlético de Rafaela,Güemes,34976,224646,home,15275518,05/04/2026,Primera B Argentina,0.85,46,0.0,0,0,1994,32,False
+857479,Facundo Soloa,5,M,False,846979200,Atlético de Rafaela,Güemes,34976,224646,home,15275518,05/04/2026,Primera B Argentina,0.85,86,0.0,0,0,1996,30,False
+922441,Agustín Obando,10,F,False,952732800,Atlético de Rafaela,Güemes,34976,224646,home,15275518,05/04/2026,Primera B Argentina,0.85,86,0.0,0,0,2000,26,False
+2086030,Ciro Andrés Leineker,7,F,False,1022803200,Atlético de Rafaela,Güemes,34976,224646,home,15275518,05/04/2026,Primera B Argentina,0.85,72,0.0,0,1,2002,24,False
+248105,Lucas Albertengo,9,F,False,665193600,Atlético de Rafaela,Güemes,34976,224646,home,15275518,05/04/2026,Primera B Argentina,0.85,90,0.0,0,0,1991,35,False
+941421,Francisco Nouet,11,D,False,896054400,Atlético de Rafaela,Güemes,34976,224646,home,15275518,05/04/2026,Primera B Argentina,0.85,46,0.0,0,0,1998,28,False
+249905,Marcos Gabriel Fernandez,17,M,True,735264000,Atlético de Rafaela,Güemes,34976,224646,home,15275518,05/04/2026,Primera B Argentina,0.85,44,0.0,0,0,1993,33,False
+1485384,Martiniano Moreno,19,F,True,1052870400,Atlético de Rafaela,Güemes,34976,224646,home,15275518,05/04/2026,Primera B Argentina,0.85,44,0.0,1,0,2003,23,True
+796999,Ijiel Cesar Protti,20,M,True,791510400,Atlético de Rafaela,Güemes,34976,224646,home,15275518,05/04/2026,Primera B Argentina,0.85,18,0.0,0,0,1995,31,False
+1127325,Pablo Furtado,18,M,True,1075852800,Atlético de Rafaela,Güemes,34976,224646,home,15275518,05/04/2026,Primera B Argentina,0.85,4,0.0,0,0,2004,22,True
+2550434,Jeremias Torrens,15,,True,,Atlético de Rafaela,Güemes,34976,224646,home,15275518,05/04/2026,Primera B Argentina,0.85,4,0.0,0,0,0,0,False
+892473,Leandro Finochietto,1,G,False,861926400,Güemes,Atlético de Rafaela,224646,34976,away,15275518,05/04/2026,Primera B Argentina,0.85,90,0.0,0,0,1997,29,False
+872142,Axel Bordon,4,D,False,827971200,Güemes,Atlético de Rafaela,224646,34976,away,15275518,05/04/2026,Primera B Argentina,0.85,90,0.0,0,0,1996,30,False
+1015630,Óscar Vanegas,2,D,False,831427200,Güemes,Atlético de Rafaela,224646,34976,away,15275518,05/04/2026,Primera B Argentina,0.85,90,0.0,0,0,1996,30,False
+1879573,Emilio Lazza,6,D,False,773712000,Güemes,Atlético de Rafaela,224646,34976,away,15275518,05/04/2026,Primera B Argentina,0.85,90,0.0,0,0,1994,32,False
+583660,Marcelo Benítez,3,D,False,663724800,Güemes,Atlético de Rafaela,224646,34976,away,15275518,05/04/2026,Primera B Argentina,0.85,90,0.0,0,0,1991,35,False
+1654488,Milton  Gerez,8,M,False,883094400,Güemes,Atlético de Rafaela,224646,34976,away,15275518,05/04/2026,Primera B Argentina,0.85,78,0.0,0,0,1997,29,False
+1464121,Gianfranco Baier,5,M,False,919296000,Güemes,Atlético de Rafaela,224646,34976,away,15275518,05/04/2026,Primera B Argentina,0.85,78,0.0,0,0,1999,27,False
+1134870,David Véliz,10,M,False,962323200,Güemes,Atlético de Rafaela,224646,34976,away,15275518,05/04/2026,Primera B Argentina,0.85,68,0.0,0,1,2000,26,False
+122614,Fernando Godoy,11,M,False,641520000,Güemes,Atlético de Rafaela,224646,34976,away,15275518,05/04/2026,Primera B Argentina,0.85,90,0.0,0,0,1990,36,False
+1092609,Santiago Sala,7,M,False,1006992000,Güemes,Atlético de Rafaela,224646,34976,away,15275518,05/04/2026,Primera B Argentina,0.85,86,0.0,0,1,2001,25,False
+226544,Juan Sánchez Sotelo,9,F,False,560131200,Güemes,Atlético de Rafaela,224646,34976,away,15275518,05/04/2026,Primera B Argentina,0.85,68,0.0,1,0,1987,39,False
+966511,Thomas Amilivia,19,F,True,900288000,Güemes,Atlético de Rafaela,224646,34976,away,15275518,05/04/2026,Primera B Argentina,0.85,22,0.0,0,0,1998,28,False
+1654083,Franco Berges,15,M,True,993859200,Güemes,Atlético de Rafaela,224646,34976,away,15275518,05/04/2026,Primera B Argentina,0.85,22,0.0,1,0,2001,25,False
+941539,Gianluca Pugliese,18,M,True,762998400,Güemes,Atlético de Rafaela,224646,34976,away,15275518,05/04/2026,Primera B Argentina,0.85,12,0.0,0,0,1994,32,False
+1067810,Maico Quiroz,17,M,True,1006214400,Güemes,Atlético de Rafaela,224646,34976,away,15275518,05/04/2026,Primera B Argentina,0.85,12,0.0,0,0,2001,25,False
+871814,Tomás Oneto,13,D,True,887846400,Güemes,Atlético de Rafaela,224646,34976,away,15275518,05/04/2026,Primera B Argentina,0.85,4,0.0,0,0,1998,28,False
