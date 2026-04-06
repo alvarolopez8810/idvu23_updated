@@ -56,12 +56,7 @@ jobs:
       - name: Install dependencies
         run: |
           pip install --upgrade pip
-          pip install \
-            requests pandas numpy scipy \
-            reportlab \
-            selenium \
-            beautifulsoup4 rapidfuzz \
-            openai
+          pip install -r requirements.txt
 
       # -----------------------------------------------------------------------
       # 3. Chrome + ChromeDriver (versión compatible automática)

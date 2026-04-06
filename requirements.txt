@@ -1,0 +1,9 @@
+requests
+pandas
+numpy
+scipy
+reportlab
+selenium
+beautifulsoup4
+rapidfuzz
+openai
