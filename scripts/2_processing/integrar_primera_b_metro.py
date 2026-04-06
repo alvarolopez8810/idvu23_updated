@@ -51,7 +51,7 @@ def main():
     print("="*70)
     
     # Leer Primera B Metro
-    pbm_file = BASE_DIR / 'u23_primera_b_metro_resumen.csv'
+    pbm_file = DATA_DIR / 'u23_primera_b_metro_resumen.csv'
     print(f"\n📂 Leyendo Primera B Metro: {pbm_file}")
     df_pbm = pd.read_csv(pbm_file)
     print(f"   {len(df_pbm)} jugadores U23 cargados")

@@ -24,6 +24,8 @@ jobs:
   rebuild:
     runs-on: ubuntu-latest
     timeout-minutes: 360  # 6 horas — suficiente para reconstruir desde enero
+    permissions:
+      contents: write
 
     steps:
       - name: Checkout repo
