@@ -61,6 +61,7 @@ jobs:
             --start "$START_DATE" \
             --end "${END_DATE:-$(date +%Y-%m-%d)}" \
             --week-size "$WEEK_SIZE" \
+            --chunk-timeout 1800 \
             $( [ -n "$TOURNAMENT_IDS" ] && echo "--tournaments $TOURNAMENT_IDS" )
 
       # -----------------------------------------------------------------------
