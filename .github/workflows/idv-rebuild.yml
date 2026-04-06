@@ -12,7 +12,7 @@ on:
         required: false
         default: ''
       tournament_ids:
-        description: 'IDs de torneos separados por coma (vacio = todos)'
+        description: 'IDs a procesar separados por coma (vacio = todos los de config/tournaments.json)'
         required: false
         default: ''
       week_size_days:

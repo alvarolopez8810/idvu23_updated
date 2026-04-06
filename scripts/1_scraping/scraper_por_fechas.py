@@ -51,23 +51,18 @@ DATA_DIR.mkdir(parents=True, exist_ok=True)
 SOFASCORE_BASE = 'https://www.sofascore.com/api/v1'
 
 # ---------------------------------------------------------------------------
-# Catálogo de torneos
-#   strategy: 'scheduled'  -> aparece en scheduled-events global
+# Catálogo de torneos — cargado desde config/tournaments.json
+#   strategy: 'scheduled'  -> aparece en /scheduled-events/{date}
 #             'tournament' -> hay que paginar /events/last/{page}
 # ---------------------------------------------------------------------------
-TOURNAMENT_CATALOG = {
-    372:  {'nombre': 'Paulista A1',    'peso_liga': 0.90, 'season': 86993, 'strategy': 'tournament'},
-    1234: {'nombre': 'Paulista A2',    'peso_liga': 0.65, 'season': 87118, 'strategy': 'tournament'},
-    382:  {'nombre': 'Paranaense',     'peso_liga': 0.90, 'season': 86658, 'strategy': 'tournament'},
-    379:  {'nombre': 'Mineiro',        'peso_liga': 0.78, 'season': 87236, 'strategy': 'scheduled'},
-    92:   {'nombre': 'Carioca',        'peso_liga': 0.85, 'season': 86674, 'strategy': 'scheduled'},
-    377:  {'nombre': 'Gaucho',         'peso_liga': 0.85, 'season': 86736, 'strategy': 'scheduled'},
-    374:  {'nombre': 'Baiano',         'peso_liga': 0.85, 'season': 86656, 'strategy': 'tournament'},
-    373:  {'nombre': 'Copa Brasil',    'peso_liga': 0.75, 'season': 89353, 'strategy': 'tournament'},
-    1238: {'nombre': 'Colombia 2 Div', 'peso_liga': 0.60, 'season': 89001, 'strategy': 'scheduled'},
-    703:  {'nombre': 'Primera B Argentina', 'peso_liga': 0.85, 'season': 87940, 'strategy': 'scheduled'},
-    1024: {'nombre': 'Copa Argentina', 'peso_liga': 0.85, 'season': 88177, 'strategy': 'scheduled'}
-}
+_CONFIG_PATH = PROJECT_ROOT / 'config' / 'tournaments.json'
+
+def _load_catalog(path: Path) -> dict:
+    with open(path, encoding='utf-8') as f:
+        raw = json.load(f)
+    return {int(k): v for k, v in raw['tournaments'].items()}
+
+TOURNAMENT_CATALOG = _load_catalog(_CONFIG_PATH)
 
 
 # ---------------------------------------------------------------------------
