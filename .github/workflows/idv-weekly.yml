@@ -59,14 +59,15 @@ jobs:
           pip install -r requirements.txt
 
       # -----------------------------------------------------------------------
-      # 3. Chrome + ChromeDriver (versión compatible automática)
+      # 3. Chrome — Selenium Manager (incluido en selenium 4.6+) descarga
+      #    automáticamente el ChromeDriver compatible. Solo necesitamos Chrome.
       # -----------------------------------------------------------------------
       - name: Setup Chrome
         uses: browser-actions/setup-chrome@v1
         id: setup-chrome
 
-      - name: Setup ChromeDriver
-        uses: nanasess/setup-chromedriver@v2
+      - name: Verificar Chrome
+        run: google-chrome --version || chromium --version
 
       # -----------------------------------------------------------------------
       # 4. Calcular rango de fechas
@@ -98,7 +99,6 @@ jobs:
           DATE_FROM: ${{ steps.dates.outputs.date_from }}
           DATE_TO: ${{ steps.dates.outputs.date_to }}
           TOURNAMENT_IDS: ${{ github.event.inputs.tournament_ids }}
-          CHROMEDRIVER_PATH: chromedriver
         run: |
           python scripts/1_scraping/scraper_por_fechas.py \
             --from "$DATE_FROM" \
@@ -109,10 +109,7 @@ jobs:
       # 6. PASO 1b — Ratings acumulados de temporada
       # -----------------------------------------------------------------------
       - name: Obtener ratings acumulados SofaScore
-        env:
-          CHROMEDRIVER_PATH: chromedriver
-        run: |
-          python scripts/1_scraping/obtener_ratings_acumulados_sofascore.py
+        run: python scripts/1_scraping/obtener_ratings_acumulados_sofascore.py
         continue-on-error: true  # No bloquear si falla (datos opcionales)
 
       # -----------------------------------------------------------------------
@@ -138,8 +135,6 @@ jobs:
       # 8. PASO 3 — Descarga de escudos
       # -----------------------------------------------------------------------
       - name: Descargar escudos de equipos
-        env:
-          CHROMEDRIVER_PATH: chromedriver
         run: python scripts/utils/descargar_escudos.py
         continue-on-error: true
 
