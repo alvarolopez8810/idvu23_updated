@@ -40,6 +40,7 @@ from selenium import webdriver
 from selenium.webdriver.chrome.options import Options
 from selenium.webdriver.chrome.service import Service
 from selenium.webdriver.common.by import By
+from selenium.common.exceptions import TimeoutException
 
 # ---------------------------------------------------------------------------
 # Rutas relativas al repo
@@ -83,6 +84,7 @@ def build_driver(chromedriver_path: str | None = None) -> webdriver.Chrome:
 
     service = Service(executable_path=chromedriver_path) if chromedriver_path else Service()
     driver = webdriver.Chrome(service=service, options=opts)
+    driver.set_page_load_timeout(30)   # máx 30s por página; evita colgar en rate-limit
     driver.execute_script("Object.defineProperty(navigator, 'webdriver', {get: () => undefined})")
     return driver
 
@@ -98,6 +100,10 @@ def fetch_json(driver: webdriver.Chrome, url: str, retries: int = 3) -> dict | N
                 print(f'    API error {url}: {data["error"]}')
                 return None
             return data
+        except TimeoutException:
+            print(f'    Timeout cargando {url} (intento {attempt + 1}/{retries})')
+            if attempt < retries - 1:
+                time.sleep(3)
         except Exception as exc:
             if attempt < retries - 1:
                 time.sleep(3)
@@ -367,7 +373,14 @@ def main():
             time.sleep(1)
 
     finally:
-        driver.quit()
+        try:
+            driver.quit()
+        except Exception:
+            pass
+        try:
+            driver.service.stop()
+        except Exception:
+            pass
 
     if not all_players:
         print('\nSin datos. Revisa el rango de fechas o los tournament_ids.')

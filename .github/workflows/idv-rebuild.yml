@@ -70,6 +70,11 @@ jobs:
 
             echo "=== Chunk $CURRENT a $CHUNK_END ==="
 
+            # Limpiar procesos Chrome/ChromeDriver residuales del chunk anterior
+            pkill -f "chrome" || true
+            pkill -f "chromedriver" || true
+            sleep 2
+
             RESET_FLAG=""
             [[ "$FIRST" == "true" ]] && RESET_FLAG="--reset" && FIRST=false
 
