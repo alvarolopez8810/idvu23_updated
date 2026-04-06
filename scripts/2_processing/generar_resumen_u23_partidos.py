@@ -7,8 +7,10 @@ Primera B Metro - Jornada 3 (9 marzo 2026)
 import pandas as pd
 
 # Archivos
-PARTIDOS_FILE = '/Users/alvarolopezmolina/Desktop/Python/IDV_project/RONDA 18 - 08 MAR 2026/EXTRACCION/primera_b_metro_j3_ronda18.csv'
-OUTPUT_FILE = '/Users/alvarolopezmolina/Desktop/Python/IDV_project/RONDA_02-08_03_26/u23_primera_b_metro_resumen.csv'
+from pathlib import Path
+_DATA = Path(__file__).resolve().parents[2] / 'data'
+PARTIDOS_FILE = str(_DATA / 'primera_b_metro_j3.csv')
+OUTPUT_FILE = str(_DATA / 'u23_primera_b_metro_resumen.csv')
 
 def main():
     print("="*80)

@@ -17,8 +17,8 @@ from selenium.webdriver.support import expected_conditions as EC
 import random
 from datetime import datetime
 
-BASE_DIR = Path('/Users/alvarolopezmolina/Desktop/Python/IDV_project/RONDA_02-08_03_26')
-DATA_DIR = BASE_DIR / 'data'
+PROJECT_ROOT = Path(__file__).resolve().parents[2]
+DATA_DIR = PROJECT_ROOT / 'data'
 
 # Mapping de ligas a tournament_id y season_id
 LIGAS_CONFIG = {

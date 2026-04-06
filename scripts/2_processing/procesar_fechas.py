@@ -8,8 +8,8 @@ from datetime import datetime
 from pathlib import Path
 
 # Paths
-BASE_DIR = Path('/Users/alvarolopezmolina/Desktop/Python/IDV_project/RONDA_02-08_03_26')
-DATA_DIR = BASE_DIR / 'data'
+PROJECT_ROOT = Path(__file__).resolve().parents[2]
+DATA_DIR = PROJECT_ROOT / 'data'
 
 def convert_timestamp_to_date(timestamp):
     """Convierte timestamp a formato DD/MM/YYYY"""

@@ -12,8 +12,8 @@ from pathlib import Path
 from scipy import stats
 
 # Paths
-BASE_DIR = Path('/Users/alvarolopezmolina/Desktop/Python/IDV_project/RONDA_02-08_03_26')
-DATA_DIR = BASE_DIR / 'data'
+PROJECT_ROOT = Path(__file__).resolve().parents[2]
+DATA_DIR = PROJECT_ROOT / 'data'
 
 def calcular_zscore_por_grupos(df):
     """Calcula z-score por grupos separados"""

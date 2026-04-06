@@ -3,14 +3,15 @@
 Copiar escudos de Primera B Metro desde directorio de escudos existente
 """
 
+import os
 import pandas as pd
 import shutil
 from pathlib import Path
 
 # Paths
-BASE_DIR = Path('/Users/alvarolopezmolina/Desktop/Python/IDV_project/RONDA_02-08_03_26')
-LOGOS_DIR = BASE_DIR / 'team_logos'
-ESCUDOS_SOURCE = Path('/Users/alvarolopezmolina/Desktop/Python/escudos')
+PROJECT_ROOT = Path(__file__).resolve().parents[2]
+LOGOS_DIR = PROJECT_ROOT / 'team_logos'
+ESCUDOS_SOURCE = Path(os.getenv('ESCUDOS_SOURCE_DIR', str(PROJECT_ROOT / 'escudos')))
 
 # Crear directorio si no existe
 LOGOS_DIR.mkdir(parents=True, exist_ok=True)
@@ -27,7 +28,7 @@ def main():
     print("="*70)
     
     # Leer CSV de Primera B Metro
-    pbm_file = BASE_DIR / 'u23_primera_b_metro_resumen.csv'
+    pbm_file = PROJECT_ROOT / 'data' / 'u23_primera_b_metro_resumen.csv'
     df = pd.read_csv(pbm_file)
     
     # Obtener equipos únicos

@@ -66,8 +66,7 @@ TOURNAMENT_CATALOG = {
     373:  {'nombre': 'Copa Brasil',    'peso_liga': 0.75, 'season': 89353, 'strategy': 'tournament'},
     1238: {'nombre': 'Colombia 2 Div', 'peso_liga': 0.60, 'season': 89001, 'strategy': 'scheduled'},
     703:  {'nombre': 'Primera B Argentina', 'peso_liga': 0.85, 'season': 87940, 'strategy': 'scheduled'},
-    1024: {'nombre': 'Copa Argentina', 'peso_liga': 0.85, 'season': 88177, 'strategy': 'scheduled'},
-    373: {'nombre': 'Copa Brasil', 'peso_liga': 0.75, 'season': 89353, 'strategy': 'scheduled'},
+    1024: {'nombre': 'Copa Argentina', 'peso_liga': 0.85, 'season': 88177, 'strategy': 'scheduled'}
 }
 
 
@@ -305,6 +304,8 @@ def parse_args() -> argparse.Namespace:
                         help='Ruta al chromedriver (o env CHROMEDRIVER_PATH)')
     parser.add_argument('--output', default=str(DATA_DIR / 'jugadores_ronda_nueva.csv'),
                         help='Ruta del CSV de salida')
+    parser.add_argument('--reset', action='store_true',
+                        help='Borra el acumulado histórico antes de empezar (para reconstrucción)')
     return parser.parse_args()
 
 
@@ -389,7 +390,29 @@ def main():
         'birth_year', 'age', 'is_u23',
     ]
     df = df[cols]
+
+    # --- Guardar semana actual ---
     df.to_csv(args.output, index=False, encoding='utf-8')
+
+    # --- Actualizar acumulado histórico ---
+    acumulado_path = DATA_DIR / 'jugadores_acumulado.csv'
+    if args.reset and acumulado_path.exists():
+        acumulado_path.unlink()
+        print('Acumulado reseteado.')
+    if acumulado_path.exists():
+        df_acum = pd.read_csv(acumulado_path, encoding='utf-8')
+        # Deduplicar: match_id + player_id + home_away identifica una fila única
+        df_combined = pd.concat([df_acum, df], ignore_index=True)
+        df_combined = df_combined.drop_duplicates(
+            subset=['match_id', 'player_id', 'home_away'], keep='last'
+        )
+        partidos_nuevos = df_combined['match_id'].nunique() - df_acum['match_id'].nunique()
+    else:
+        df_combined = df.copy()
+        partidos_nuevos = df_combined['match_id'].nunique()
+
+    df_combined = df_combined[cols]
+    df_combined.to_csv(acumulado_path, index=False, encoding='utf-8')
 
     print('\n' + '=' * 70)
     print('RESUMEN')
@@ -400,8 +423,11 @@ def main():
         U23=('is_u23', 'sum'),
     )
     print(summary.to_string())
-    print(f'\nTotal: {len(df)} jugadores con minutos | {df["match_id"].nunique()} partidos unicos')
-    print(f'Guardado en: {args.output}')
+    print(f'\nTotal semana  : {len(df)} jugadores | {df["match_id"].nunique()} partidos')
+    print(f'Partidos nuevos al acumulado: {partidos_nuevos}')
+    print(f'Total acumulado: {len(df_combined)} jugadores | {df_combined["match_id"].nunique()} partidos')
+    print(f'\nGuardado en    : {args.output}')
+    print(f'Acumulado en   : {acumulado_path}')
 
 
 if __name__ == '__main__':

@@ -80,7 +80,7 @@ class PrimeraBScraper:
     
     def _get_matches_from_csv(self) -> List[Dict]:
         """Obtener partidos desde CSV local de BeSoccer"""
-        csv_file = '/Users/alvarolopezmolina/Desktop/Python/IDV_project/RONDA 18 - 08 MAR 2026/EXTRACCION/primera_b_metro_j3_ronda18.csv'
+        csv_file = str(Path(__file__).resolve().parents[2] / 'data' / 'primera_b_metro_j3.csv')
         
         try:
             df = pd.read_csv(csv_file, encoding='utf-8')
@@ -126,7 +126,7 @@ class PrimeraBScraper:
     
     def _get_lineups_from_csv(self, match_id: int) -> Optional[Dict]:
         """Obtener alineaciones desde CSV local de BeSoccer"""
-        csv_file = '/Users/alvarolopezmolina/Desktop/Python/IDV_project/RONDA 18 - 08 MAR 2026/EXTRACCION/primera_b_metro_j3_ronda18.csv'
+        csv_file = str(Path(__file__).resolve().parents[2] / 'data' / 'primera_b_metro_j3.csv')
         
         try:
             df = pd.read_csv(csv_file, encoding='utf-8')

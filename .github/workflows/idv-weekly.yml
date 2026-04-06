@@ -1,0 +1,182 @@
+name: IDV Weekly Scouting Report
+
+on:
+  # Ejecución automática cada lunes a las 08:00 UTC
+  # (los partidos del fin de semana ya están terminados)
+  schedule:
+    - cron: '0 8 * * 1'
+
+  # Ejecución manual con parámetros de fecha
+  workflow_dispatch:
+    inputs:
+      date_from:
+        description: 'Fecha inicio (YYYY-MM-DD)'
+        required: true
+        default: ''
+      date_to:
+        description: 'Fecha fin (YYYY-MM-DD)'
+        required: true
+        default: ''
+      tournament_ids:
+        description: 'IDs de torneos separados por coma (vacío = todos)'
+        required: false
+        default: ''
+
+jobs:
+  generate-report:
+    runs-on: ubuntu-latest
+    timeout-minutes: 90
+
+    steps:
+      # -----------------------------------------------------------------------
+      # 1. Checkout
+      # -----------------------------------------------------------------------
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      # -----------------------------------------------------------------------
+      # 2. Python
+      # -----------------------------------------------------------------------
+      - name: Setup Python 3.11
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+          cache: 'pip'
+
+      - name: Install dependencies
+        run: |
+          pip install --upgrade pip
+          pip install -r requirements.txt
+
+      # -----------------------------------------------------------------------
+      # 3. Chrome — Selenium Manager (incluido en selenium 4.6+) descarga
+      #    automáticamente el ChromeDriver compatible. Solo necesitamos Chrome.
+      # -----------------------------------------------------------------------
+      - name: Setup Chrome
+        uses: browser-actions/setup-chrome@v1
+        id: setup-chrome
+
+      - name: Verificar Chrome
+        run: google-chrome --version || chromium --version
+
+      # -----------------------------------------------------------------------
+      # 4. Calcular rango de fechas
+      #    - Manual: usa los inputs del usuario
+      #    - Automático: lunes anterior → domingo anterior (semana pasada)
+      # -----------------------------------------------------------------------
+      - name: Calcular rango de fechas
+        id: dates
+        run: |
+          if [ -n "${{ github.event.inputs.date_from }}" ]; then
+            DATE_FROM="${{ github.event.inputs.date_from }}"
+            DATE_TO="${{ github.event.inputs.date_to }}"
+          else
+            # Semana pasada: lunes a domingo
+            DATE_FROM=$(date -d "last monday - 7 days" +%Y-%m-%d 2>/dev/null || \
+                        date -v-mon -v-7d +%Y-%m-%d)
+            DATE_TO=$(date -d "last sunday" +%Y-%m-%d 2>/dev/null || \
+                      date -v-sun +%Y-%m-%d)
+          fi
+          echo "date_from=$DATE_FROM" >> $GITHUB_OUTPUT
+          echo "date_to=$DATE_TO" >> $GITHUB_OUTPUT
+          echo "Rango: $DATE_FROM a $DATE_TO"
+
+      # -----------------------------------------------------------------------
+      # 5. PASO 1 — Scraping principal (por rango de fechas)
+      # -----------------------------------------------------------------------
+      - name: Scraping por fechas
+        env:
+          DATE_FROM: ${{ steps.dates.outputs.date_from }}
+          DATE_TO: ${{ steps.dates.outputs.date_to }}
+          TOURNAMENT_IDS: ${{ github.event.inputs.tournament_ids }}
+        run: |
+          python scripts/1_scraping/scraper_por_fechas.py \
+            --from "$DATE_FROM" \
+            --to "$DATE_TO" \
+            $( [ -n "$TOURNAMENT_IDS" ] && echo "--tournaments $TOURNAMENT_IDS" )
+
+      # -----------------------------------------------------------------------
+      # 6. PASO 1b — Ratings acumulados de temporada
+      # -----------------------------------------------------------------------
+      - name: Obtener ratings acumulados SofaScore
+        run: python scripts/1_scraping/obtener_ratings_acumulados_sofascore.py
+        continue-on-error: true  # No bloquear si falla (datos opcionales)
+
+      # -----------------------------------------------------------------------
+      # 7. PASO 2 — Procesamiento
+      # -----------------------------------------------------------------------
+      - name: Integrar Primera B Metro
+        run: python scripts/2_processing/integrar_primera_b_metro.py
+        continue-on-error: true
+
+      - name: Calcular MPS
+        run: python scripts/2_processing/calcular_mps.py
+
+      - name: Recalcular Z-Score por grupos
+        run: python scripts/2_processing/recalcular_zscore_grupos.py
+
+      - name: Generar descripciones con OpenAI
+        env:
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+        run: python scripts/2_processing/generar_descripciones_chatgpt.py
+        continue-on-error: true  # No bloquear si no hay API key configurada
+
+      # -----------------------------------------------------------------------
+      # 8. PASO 3 — Descarga de escudos
+      # -----------------------------------------------------------------------
+      - name: Descargar escudos de equipos
+        run: python scripts/utils/descargar_escudos.py
+        continue-on-error: true
+
+      # -----------------------------------------------------------------------
+      # 9. PASO 4 — Generación de PDFs
+      # -----------------------------------------------------------------------
+      - name: Generar PDF principal (desglose ronda)
+        run: python scripts/3_pdf_generation/generar_pdf_ronda_nueva.py
+        continue-on-error: true
+
+      - name: Generar PDF anexos acumulados U23/U21
+        run: python scripts/3_pdf_generation/generar_pdf_anexos_acumulados.py
+        continue-on-error: true
+
+      # -----------------------------------------------------------------------
+      # 10. Commit del acumulado histórico al repo
+      #     Se ejecuta siempre que el scraping haya producido datos.
+      #     Si no hay cambios, el commit falla silenciosamente (|| true).
+      # -----------------------------------------------------------------------
+      - name: Commit acumulado historico
+        if: always()
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/jugadores_acumulado.csv
+          git diff --cached --quiet || git commit -m \
+            "datos: acumulado ${{ steps.dates.outputs.date_from }} a ${{ steps.dates.outputs.date_to }} [skip ci]"
+          git push || true
+
+      # -----------------------------------------------------------------------
+      # 11. Subir PDFs como artefacto
+      # -----------------------------------------------------------------------
+      - name: Subir PDFs
+        uses: actions/upload-artifact@v4
+        if: always()  # Subir aunque algún paso falle
+        with:
+          name: IDV-report-${{ steps.dates.outputs.date_from }}_${{ steps.dates.outputs.date_to }}
+          path: output/*.pdf
+          retention-days: 90
+          if-no-files-found: warn
+
+      # -----------------------------------------------------------------------
+      # 11. Subir datos intermedios (útil para debug)
+      # -----------------------------------------------------------------------
+      - name: Subir datos procesados
+        uses: actions/upload-artifact@v4
+        if: always()
+        with:
+          name: IDV-data-${{ steps.dates.outputs.date_from }}_${{ steps.dates.outputs.date_to }}
+          path: |
+            data/jugadores_ronda_nueva.csv
+            data/PARTIDOS_COMPACTO_CON_MPS.csv
+            data/descripciones_partidos.json
+          retention-days: 30
+          if-no-files-found: warn

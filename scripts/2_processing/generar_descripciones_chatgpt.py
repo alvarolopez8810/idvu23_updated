@@ -9,11 +9,12 @@ from pathlib import Path
 from openai import OpenAI
 
 # Paths
-BASE_DIR = Path('/Users/alvarolopezmolina/Desktop/Python/IDV_project/RONDA_02-08_03_26')
-DATA_DIR = BASE_DIR / 'data'
+PROJECT_ROOT = Path(__file__).resolve().parents[2]
+DATA_DIR = PROJECT_ROOT / 'data'
 
-# API Key
-API_KEY = "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"
+# API Key — usar variable de entorno (GitHub Secret: OPENAI_API_KEY)
+import os
+API_KEY = os.getenv('OPENAI_API_KEY', '')
 
 SYSTEM_PROMPT = """Eres un analista de scouting especializado en priorización de partidos para fútbol profesional.
 Tu tarea es explicar de forma breve, clara y útil por qué un partido merece ser visto, basándote EXCLUSIVAMENTE en los datos de entrada.

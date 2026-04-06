@@ -8,8 +8,10 @@ import pandas as pd
 from datetime import datetime
 
 # Rutas de archivos
-U23_FILE = '/Users/alvarolopezmolina/Desktop/Python/IDV_project/RONDA_02-08_03_26/20260309.csv'
-OUTPUT_FILE = '/Users/alvarolopezmolina/Desktop/Python/IDV_project/RONDA_02-08_03_26/u23_primera_b_metro_marzo_3_5.csv'
+from pathlib import Path
+_DATA = Path(__file__).resolve().parents[2] / 'data'
+U23_FILE = str(_DATA / '20260309.csv')
+OUTPUT_FILE = str(_DATA / 'u23_primera_b_metro_marzo_3_5.csv')
 
 # Partidos de Primera B Metro (3-5 marzo 2026)
 PARTIDOS = [
