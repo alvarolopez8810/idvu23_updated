@@ -6,6 +6,16 @@ on:
   schedule:
     - cron: '0 8 * * 1'
 
+  # Trigger en push a main (para activar Actions en el repo por primera vez)
+  push:
+    branches:
+      - main
+
+  # Trigger en Pull Requests contra main
+  pull_request:
+    branches:
+      - main
+
   # Ejecución manual con parámetros de fecha
   workflow_dispatch:
     inputs:
