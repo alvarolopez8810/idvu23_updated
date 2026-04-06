@@ -15,8 +15,8 @@ from selenium.webdriver.support import expected_conditions as EC
 import time
 import random
 
-BASE_DIR = Path('/Users/alvarolopezmolina/Desktop/Python/IDV_project/RONDA_02-08_03_26')
-DATA_DIR = BASE_DIR / 'data'
+PROJECT_ROOT = Path(__file__).resolve().parents[2]
+DATA_DIR = PROJECT_ROOT / 'data'
 
 class TeamNameFixer:
     def __init__(self):

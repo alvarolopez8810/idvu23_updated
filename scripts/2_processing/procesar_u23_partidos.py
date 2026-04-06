@@ -8,9 +8,11 @@ import pandas as pd
 from datetime import datetime
 
 # Rutas de archivos
-U23_FILE = '/Users/alvarolopezmolina/Desktop/Python/IDV_project/RONDA_02-08_03_26/20260309.csv'
-MATCHES_FILE = '/Users/alvarolopezmolina/Desktop/Python/IDV_project/RONDA_02-08_03_26/data/jugadores_ronda_nueva.csv'
-OUTPUT_FILE = '/Users/alvarolopezmolina/Desktop/Python/IDV_project/RONDA_02-08_03_26/u23_partidos_primera_b.csv'
+from pathlib import Path
+_DATA = Path(__file__).resolve().parents[2] / 'data'
+U23_FILE = str(_DATA / '20260309.csv')
+MATCHES_FILE = str(_DATA / 'jugadores_ronda_nueva.csv')
+OUTPUT_FILE = str(_DATA / 'u23_partidos_primera_b.csv')
 
 def main():
     print("="*80)

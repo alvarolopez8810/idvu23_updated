@@ -14,8 +14,8 @@ import time
 import base64
 
 # Paths
-BASE_DIR = Path('/Users/alvarolopezmolina/Desktop/Python/IDV_project/RONDA_02-08_03_26')
-LOGOS_DIR = BASE_DIR / 'team_logos'
+PROJECT_ROOT = Path(__file__).resolve().parents[2]
+LOGOS_DIR = PROJECT_ROOT / 'team_logos'
 STANDINGS_URL = 'https://www.sofascore.com/api/v1/tournament/7893/season/87941/standings/total'
 
 # Equipos sin match

@@ -66,8 +66,7 @@ TOURNAMENT_CATALOG = {
     373:  {'nombre': 'Copa Brasil',    'peso_liga': 0.75, 'season': 89353, 'strategy': 'tournament'},
     1238: {'nombre': 'Colombia 2 Div', 'peso_liga': 0.60, 'season': 89001, 'strategy': 'scheduled'},
     703:  {'nombre': 'Primera B Argentina', 'peso_liga': 0.85, 'season': 87940, 'strategy': 'scheduled'},
-    1024: {'nombre': 'Copa Argentina', 'peso_liga': 0.85, 'season': 88177, 'strategy': 'scheduled'},
-    373: {'nombre': 'Copa Brasil', 'peso_liga': 0.75, 'season': 89353, 'strategy': 'scheduled'},
+    1024: {'nombre': 'Copa Argentina', 'peso_liga': 0.85, 'season': 88177, 'strategy': 'scheduled'}
 }
 
 

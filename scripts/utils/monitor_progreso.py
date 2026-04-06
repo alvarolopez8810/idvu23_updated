@@ -5,7 +5,7 @@ import time
 import os
 from pathlib import Path
 
-DATA_DIR = Path('/Users/alvarolopezmolina/Desktop/Python/IDV_project/RONDA_02-08_03_26/data')
+DATA_DIR = Path(__file__).resolve().parents[2] / 'data'
 
 print("\n" + "="*80)
 print("MONITOR DE PROGRESO - SCRAPING U23")

@@ -19,9 +19,9 @@ from reportlab.pdfgen import canvas
 from datetime import datetime
 
 # Paths
-BASE_DIR = Path('/Users/alvarolopezmolina/Desktop/Python/IDV_project/RONDA_02-08_03_26')
-DATA_DIR = BASE_DIR / 'data'
-PDF_DIR = BASE_DIR
+PROJECT_ROOT = Path(__file__).resolve().parents[2]
+DATA_DIR = PROJECT_ROOT / 'data'
+PDF_DIR = PROJECT_ROOT / 'output'
 
 # Colores
 COLOR_NEGRO = colors.HexColor('#1a1a1a')
@@ -103,7 +103,7 @@ class PDFAnexosAcumulados:
         
         # Header con logo IDV
         header_data = []
-        logo_path = Path('/Users/alvarolopezmolina/Desktop/Python/IDV_project/independientedelvalle.png')
+        logo_path = PROJECT_ROOT / 'independientedelvalle.png'
         
         if logo_path.exists():
             try:
@@ -188,7 +188,7 @@ class PDFAnexosAcumulados:
         story.append(Spacer(1, 0.4*inch))
         
         # Logo Álvaro
-        logo_alvaro = Path('/Users/alvarolopezmolina/Desktop/Python/IDV_project/Logo_Alvaro_resized.png')
+        logo_alvaro = PROJECT_ROOT / 'Logo_Alvaro_resized.png'
         if logo_alvaro.exists():
             try:
                 logo_img = Image(str(logo_alvaro), width=1.5*inch, height=0.6*inch, mask='auto')

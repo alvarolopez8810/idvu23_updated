@@ -8,9 +8,11 @@ import pandas as pd
 from datetime import datetime
 
 # Rutas de archivos
-U23_FILE = '/Users/alvarolopezmolina/Desktop/Python/IDV_project/RONDA_02-08_03_26/20260309.csv'
-PARTIDOS_FILE = '/Users/alvarolopezmolina/Desktop/Python/IDV_project/RONDA 18 - 08 MAR 2026/EXTRACCION/primera_b_metro_j3_ronda18.csv'
-OUTPUT_FILE = '/Users/alvarolopezmolina/Desktop/Python/IDV_project/RONDA_02-08_03_26/u23_primera_b_metro_jornada3.csv'
+from pathlib import Path
+_DATA = Path(__file__).resolve().parents[2] / 'data'
+U23_FILE = str(_DATA / '20260309.csv')
+PARTIDOS_FILE = str(_DATA / 'primera_b_metro_j3.csv')
+OUTPUT_FILE = str(_DATA / 'u23_primera_b_metro_jornada3.csv')
 
 def normalize_name(name):
     """Normalizar nombres para comparación"""

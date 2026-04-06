@@ -9,16 +9,16 @@ import numpy as np
 import sys
 import os
 import json
+from pathlib import Path
 
-# Paths
-PROJECT_DIR = '/Users/alvarolopezmolina/Desktop/Python/IDV_project'
-RONDA_DIR = '/Users/alvarolopezmolina/Desktop/Python/IDV_project/RONDA_02-08_03_26'
-DATA_DIR = os.path.join(RONDA_DIR, 'data')
-LOGOS_DIR = os.path.join(RONDA_DIR, 'team_logos')
-PDF_DIR = RONDA_DIR
+# Paths — relativos al repo
+PROJECT_ROOT = Path(__file__).resolve().parents[2]
+DATA_DIR = str(PROJECT_ROOT / 'data')
+LOGOS_DIR = str(PROJECT_ROOT / 'team_logos')
+PDF_DIR = str(PROJECT_ROOT / 'output')
 
-# Añadir PROJECT_DIR al path para imports
-sys.path.insert(0, PROJECT_DIR)
+# Añadir directorio actual al path para importar generar_pdf_final_idv
+sys.path.insert(0, str(Path(__file__).resolve().parent))
 
 from generar_pdf_final_idv import PDFGeneratorIDV, COLOR_NEGRO, COLOR_GRIS, COLOR_GRIS_OSCURO, COLOR_DORADO, COLOR_GRIS_CLARO, COLOR_DORADO_CLARO
 from reportlab.lib.pagesizes import letter, A4
@@ -85,7 +85,7 @@ class PDFGeneratorRonda17(PDFGeneratorIDV):
         """Portada con fecha SEMANA 02-03-2026 - 08-03-2026"""
         header_data = []
 
-        logo_path = os.path.join(PROJECT_DIR, 'independientedelvalle.png')
+        logo_path = str(PROJECT_ROOT / 'independientedelvalle.png')
         if os.path.exists(logo_path):
             try:
                 logo_idv = Image(logo_path, width=1.5*inch, height=1.5*inch, mask='auto')
@@ -149,7 +149,7 @@ class PDFGeneratorRonda17(PDFGeneratorIDV):
         story.append(Spacer(1, 0.4*inch))
 
         # Solo logo de Álvaro
-        logo_alvaro = os.path.join(PROJECT_DIR, 'Logo_Alvaro_resized.png')
+        logo_alvaro = str(PROJECT_ROOT / 'Logo_Alvaro_resized.png')
         if os.path.exists(logo_alvaro):
             try:
                 logo_img = Image(logo_alvaro, width=1.5*inch, height=0.6*inch, mask='auto')
@@ -169,7 +169,7 @@ class PDFGeneratorRonda17(PDFGeneratorIDV):
             canvas.restoreState()
             return
 
-        logo_path = os.path.join(PROJECT_DIR, 'independientedelvalle.png')
+        logo_path = str(PROJECT_ROOT / 'independientedelvalle.png')
         if os.path.exists(logo_path):
             try:
                 canvas.drawImage(logo_path, 0.75*inch, self.height - 0.55*inch,
@@ -879,7 +879,7 @@ class PDFGeneratorRonda17(PDFGeneratorIDV):
         story.append(Spacer(1, 0.2*inch))
         
         # Cargar datos JSON
-        json_path = os.path.join(RONDA_DIR, 'jugadores_jornada_primerabmetro_reap.json')
+        json_path = os.path.join(DATA_DIR, 'jugadores_jornada_primerabmetro_reap.json')
         try:
             with open(json_path, 'r', encoding='utf-8') as f:
                 data = json.load(f)
@@ -1434,7 +1434,7 @@ class PDFGeneratorRonda17(PDFGeneratorIDV):
 
 if __name__ == "__main__":
     # Change to project dir for logo/image resolution
-    os.chdir(PROJECT_DIR)
+    os.chdir(str(PROJECT_ROOT))
 
     generator = PDFGeneratorRonda17()
     
