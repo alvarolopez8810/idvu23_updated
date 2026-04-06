@@ -47,22 +47,44 @@ jobs:
         run: google-chrome --version || chromium --version
 
       # -----------------------------------------------------------------------
-      # Iterar semana a semana desde start_date hasta end_date
-      # El script Python gestiona la iteración para mayor robustez
+      # Bucle bash que llama al scraper directamente como shell command
+      # (igual que el workflow semanal — sin subprocess-de-subprocess).
+      # Python sólo calcula los rangos de fechas; bash ejecuta cada chunk.
       # -----------------------------------------------------------------------
       - name: Reconstruir acumulado semana a semana
         env:
-          START_DATE: ${{ github.event.inputs.start_date }}
-          END_DATE: ${{ github.event.inputs.end_date }}
+          START_DATE:     ${{ github.event.inputs.start_date }}
+          END_DATE:       ${{ github.event.inputs.end_date }}
           TOURNAMENT_IDS: ${{ github.event.inputs.tournament_ids }}
-          WEEK_SIZE: ${{ github.event.inputs.week_size_days }}
+          WEEK_SIZE:      ${{ github.event.inputs.week_size_days }}
         run: |
-          python scripts/1_scraping/rebuild_acumulado.py \
-            --start "$START_DATE" \
-            --end "${END_DATE:-$(date +%Y-%m-%d)}" \
-            --week-size "$WEEK_SIZE" \
-            --chunk-timeout 1800 \
-            $( [ -n "$TOURNAMENT_IDS" ] && echo "--tournaments $TOURNAMENT_IDS" )
+          END="${END_DATE:-$(date +%Y-%m-%d)}"
+          WEEK="${WEEK_SIZE:-7}"
+          CURRENT="$START_DATE"
+          FIRST=true
+          FAILURES=0
+
+          while [[ "$CURRENT" < "$END" || "$CURRENT" == "$END" ]]; do
+            CHUNK_END=$(date -d "$CURRENT + $((WEEK - 1)) days" +%Y-%m-%d)
+            [[ "$CHUNK_END" > "$END" ]] && CHUNK_END="$END"
+
+            echo "=== Chunk $CURRENT a $CHUNK_END ==="
+
+            RESET_FLAG=""
+            [[ "$FIRST" == "true" ]] && RESET_FLAG="--reset" && FIRST=false
+
+            python scripts/1_scraping/scraper_por_fechas.py \
+              --from "$CURRENT" \
+              --to   "$CHUNK_END" \
+              $( [ -n "$TOURNAMENT_IDS" ] && echo "--tournaments $TOURNAMENT_IDS" ) \
+              $RESET_FLAG \
+            || { echo "  AVISO: chunk fallo"; FAILURES=$((FAILURES + 1)); }
+
+            CURRENT=$(date -d "$CHUNK_END + 1 day" +%Y-%m-%d)
+          done
+
+          echo "=== Reconstruccion completada — chunks fallidos: $FAILURES ==="
+          [[ $FAILURES -gt 0 ]] && exit 1 || exit 0
 
       # -----------------------------------------------------------------------
       # Commit del acumulado reconstruido
