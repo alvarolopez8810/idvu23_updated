@@ -40,6 +40,7 @@ from selenium import webdriver
 from selenium.webdriver.chrome.options import Options
 from selenium.webdriver.chrome.service import Service
 from selenium.webdriver.common.by import By
+from selenium.common.exceptions import TimeoutException
 
 # ---------------------------------------------------------------------------
 # Rutas relativas al repo
@@ -51,23 +52,18 @@ DATA_DIR.mkdir(parents=True, exist_ok=True)
 SOFASCORE_BASE = 'https://www.sofascore.com/api/v1'
 
 # ---------------------------------------------------------------------------
-# Catálogo de torneos
-#   strategy: 'scheduled'  -> aparece en scheduled-events global
+# Catálogo de torneos — cargado desde config/tournaments.json
+#   strategy: 'scheduled'  -> aparece en /scheduled-events/{date}
 #             'tournament' -> hay que paginar /events/last/{page}
 # ---------------------------------------------------------------------------
-TOURNAMENT_CATALOG = {
-    372:  {'nombre': 'Paulista A1',    'peso_liga': 0.90, 'season': 86993, 'strategy': 'tournament'},
-    1234: {'nombre': 'Paulista A2',    'peso_liga': 0.65, 'season': 87118, 'strategy': 'tournament'},
-    382:  {'nombre': 'Paranaense',     'peso_liga': 0.90, 'season': 86658, 'strategy': 'tournament'},
-    379:  {'nombre': 'Mineiro',        'peso_liga': 0.78, 'season': 87236, 'strategy': 'scheduled'},
-    92:   {'nombre': 'Carioca',        'peso_liga': 0.85, 'season': 86674, 'strategy': 'scheduled'},
-    377:  {'nombre': 'Gaucho',         'peso_liga': 0.85, 'season': 86736, 'strategy': 'scheduled'},
-    374:  {'nombre': 'Baiano',         'peso_liga': 0.85, 'season': 86656, 'strategy': 'tournament'},
-    373:  {'nombre': 'Copa Brasil',    'peso_liga': 0.75, 'season': 89353, 'strategy': 'tournament'},
-    1238: {'nombre': 'Colombia 2 Div', 'peso_liga': 0.60, 'season': 89001, 'strategy': 'scheduled'},
-    703:  {'nombre': 'Primera B Argentina', 'peso_liga': 0.85, 'season': 87940, 'strategy': 'scheduled'},
-    1024: {'nombre': 'Copa Argentina', 'peso_liga': 0.85, 'season': 88177, 'strategy': 'scheduled'}
-}
+_CONFIG_PATH = PROJECT_ROOT / 'config' / 'tournaments.json'
+
+def _load_catalog(path: Path) -> dict:
+    with open(path, encoding='utf-8') as f:
+        raw = json.load(f)
+    return {int(k): v for k, v in raw['tournaments'].items()}
+
+TOURNAMENT_CATALOG = _load_catalog(_CONFIG_PATH)
 
 
 # ---------------------------------------------------------------------------
@@ -88,6 +84,7 @@ def build_driver(chromedriver_path: str | None = None) -> webdriver.Chrome:
 
     service = Service(executable_path=chromedriver_path) if chromedriver_path else Service()
     driver = webdriver.Chrome(service=service, options=opts)
+    driver.set_page_load_timeout(30)   # máx 30s por página; evita colgar en rate-limit
     driver.execute_script("Object.defineProperty(navigator, 'webdriver', {get: () => undefined})")
     return driver
 
@@ -103,6 +100,10 @@ def fetch_json(driver: webdriver.Chrome, url: str, retries: int = 3) -> dict | N
                 print(f'    API error {url}: {data["error"]}')
                 return None
             return data
+        except TimeoutException:
+            print(f'    Timeout cargando {url} (intento {attempt + 1}/{retries})')
+            if attempt < retries - 1:
+                time.sleep(3)
         except Exception as exc:
             if attempt < retries - 1:
                 time.sleep(3)
@@ -372,7 +373,14 @@ def main():
             time.sleep(1)
 
     finally:
-        driver.quit()
+        try:
+            driver.quit()
+        except Exception:
+            pass
+        try:
+            driver.service.stop()
+        except Exception:
+            pass
 
     if not all_players:
         print('\nSin datos. Revisa el rango de fechas o los tournament_ids.')
