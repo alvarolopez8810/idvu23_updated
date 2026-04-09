@@ -134,10 +134,16 @@ jobs:
       # 9. PASO 4 — Generación de PDFs
       # -----------------------------------------------------------------------
       - name: Generar PDF principal (desglose ronda)
+        env:
+          DATE_FROM: ${{ steps.dates.outputs.date_from }}
+          DATE_TO:   ${{ steps.dates.outputs.date_to }}
         run: python scripts/3_pdf_generation/generar_pdf_ronda_nueva.py
         continue-on-error: true
 
       - name: Generar PDF anexos acumulados U23/U21
+        env:
+          DATE_FROM: ${{ steps.dates.outputs.date_from }}
+          DATE_TO:   ${{ steps.dates.outputs.date_to }}
         run: python scripts/3_pdf_generation/generar_pdf_anexos_acumulados.py
         continue-on-error: true
 
@@ -146,12 +152,13 @@ jobs:
       #     Se ejecuta siempre que el scraping haya producido datos.
       #     Si no hay cambios, el commit falla silenciosamente (|| true).
       # -----------------------------------------------------------------------
-      - name: Commit acumulado historico
+      - name: Commit acumulado y escudos nuevos
         if: always()
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add data/jugadores_acumulado.csv
+          git add team_logos/
           git diff --cached --quiet || git commit -m \
             "datos: acumulado ${{ steps.dates.outputs.date_from }} a ${{ steps.dates.outputs.date_to }} [skip ci]"
           git push || true

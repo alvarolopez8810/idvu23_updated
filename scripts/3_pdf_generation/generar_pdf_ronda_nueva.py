@@ -9,10 +9,25 @@ import numpy as np
 import sys
 import os
 import json
+from datetime import datetime
 from pathlib import Path
 
 # Paths — relativos al repo
 PROJECT_ROOT = Path(__file__).resolve().parents[2]
+
+
+def _semana_label() -> str:
+    """Construye 'SEMANA DD-MM-YYYY - DD-MM-YYYY' desde env vars DATE_FROM/DATE_TO."""
+    def fmt(iso: str) -> str:
+        try:
+            return datetime.strptime(iso, '%Y-%m-%d').strftime('%d-%m-%Y')
+        except Exception:
+            return iso
+    d_from = os.getenv('DATE_FROM', '')
+    d_to   = os.getenv('DATE_TO', '')
+    if d_from and d_to:
+        return f'SEMANA {fmt(d_from)} - {fmt(d_to)}'
+    return 'SEMANA'
 DATA_DIR = str(PROJECT_ROOT / 'data')
 LOGOS_DIR = str(PROJECT_ROOT / 'team_logos')
 PDF_DIR = str(PROJECT_ROOT / 'output')
@@ -144,7 +159,7 @@ class PDFGeneratorRonda17(PDFGeneratorIDV):
             fontSize=14, textColor=COLOR_GRIS_OSCURO, alignment=TA_CENTER,
             fontName='Helvetica', spaceAfter=40
         )
-        story.append(Paragraph("SEMANA 02-03-2026 - 08-03-2026", subtitulo_rondas))
+        story.append(Paragraph(_semana_label(), subtitulo_rondas))
 
         story.append(Spacer(1, 0.4*inch))
 

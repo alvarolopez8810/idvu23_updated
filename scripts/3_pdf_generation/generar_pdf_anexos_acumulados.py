@@ -6,9 +6,25 @@ Genera PDF separado con ANEXOS ACUMULADOS U23 & U21
 - ANEXO III: TOP jugadores más jóvenes (rating > 7, ordenados de menor a mayor edad)
 """
 
+import os
 import pandas as pd
 import json
+from datetime import datetime
 from pathlib import Path
+
+
+def _semana_label() -> str:
+    """Construye 'SEMANA DD-MM-YYYY - DD-MM-YYYY' desde env vars DATE_FROM/DATE_TO."""
+    def fmt(iso: str) -> str:
+        try:
+            return datetime.strptime(iso, '%Y-%m-%d').strftime('%d-%m-%Y')
+        except Exception:
+            return iso
+    d_from = os.getenv('DATE_FROM', '')
+    d_to   = os.getenv('DATE_TO', '')
+    if d_from and d_to:
+        return f'SEMANA {fmt(d_from)} - {fmt(d_to)}'
+    return 'SEMANA'
 from reportlab.lib.pagesizes import A4
 from reportlab.lib import colors
 from reportlab.lib.units import inch
@@ -183,7 +199,7 @@ class PDFAnexosAcumulados:
             fontName='Helvetica',
             spaceAfter=40
         )
-        story.append(Paragraph("SEMANA 02-03-2026 - 08-03-2026", subtitulo_rondas))
+        story.append(Paragraph(_semana_label(), subtitulo_rondas))
         
         story.append(Spacer(1, 0.4*inch))
         

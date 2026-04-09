@@ -4,6 +4,7 @@ Con portada IDV, header, estrellas para ratings ≥7.0, resultado/fecha/ronda
 Colores: Negro, Gris, Dorado
 """
 
+import os
 import pandas as pd
 from reportlab.lib.pagesizes import A4
 from reportlab.lib import colors
@@ -13,7 +14,20 @@ from reportlab.lib.styles import getSampleStyleSheet, ParagraphStyle
 from reportlab.lib.enums import TA_CENTER, TA_LEFT, TA_RIGHT
 from reportlab.pdfgen import canvas
 from datetime import datetime
-import os
+
+
+def _semana_label() -> str:
+    """Construye 'SEMANA DD-MM-YYYY - DD-MM-YYYY' desde env vars DATE_FROM/DATE_TO."""
+    def fmt(iso: str) -> str:
+        try:
+            return datetime.strptime(iso, '%Y-%m-%d').strftime('%d-%m-%Y')
+        except Exception:
+            return iso
+    d_from = os.getenv('DATE_FROM', '')
+    d_to   = os.getenv('DATE_TO', '')
+    if d_from and d_to:
+        return f'SEMANA {fmt(d_from)} - {fmt(d_to)}'
+    return 'SEMANA'
 
 # Colores personalizados
 COLOR_NEGRO = colors.HexColor('#000000')
@@ -225,7 +239,7 @@ class PDFGeneratorIDV:
             fontName='Helvetica',
             spaceAfter=40
         )
-        story.append(Paragraph("SEMANA 04-02-2026 - 09-02-2026", subtitulo_rondas))
+        story.append(Paragraph(_semana_label(), subtitulo_rondas))
         
         story.append(Spacer(1, 0.4*inch))
         
