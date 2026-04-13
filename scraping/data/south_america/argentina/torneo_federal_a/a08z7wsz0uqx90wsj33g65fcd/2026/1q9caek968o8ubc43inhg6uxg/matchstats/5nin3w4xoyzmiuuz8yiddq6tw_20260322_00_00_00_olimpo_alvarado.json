@@ -1,0 +1,514 @@
+{
+  "matchInfo": {
+    "id": "5nin3w4xoyzmiuuz8yiddq6tw",
+    "coverageLevel": "7",
+    "date": "2026-03-22Z",
+    "time": "19:00:00Z",
+    "localDate": "2026-03-22",
+    "localTime": "16:00:00",
+    "week": "1",
+    "numberOfPeriods": 2,
+    "periodLength": 45,
+    "lastUpdated": "2026-04-06T14:34:59Z",
+    "description": "Olimpo vs Alvarado",
+    "sport": {
+      "id": "289u5typ3vp4ifwh5thalohmq",
+      "name": "Soccer"
+    },
+    "ruleset": {
+      "id": "79plas4983031idr6vw83nuel",
+      "name": "Men"
+    },
+    "competition": {
+      "id": "a08z7wsz0uqx90wsj33g65fcd",
+      "name": "Torneo Federal A",
+      "competitionCode": "TFA",
+      "competitionFormat": "Domestic league",
+      "country": {
+        "id": "2vovxa97k7v7ofa85dah2xktb",
+        "name": "Argentina"
+      }
+    },
+    "tournamentCalendar": {
+      "id": "1q9caek968o8ubc43inhg6uxg",
+      "startDate": "2026-03-21Z",
+      "endDate": "2026-12-14Z",
+      "name": "2026"
+    },
+    "stage": {
+      "id": "1tir4qigazbsof5nt5mv3lmvo",
+      "formatId": "25o7caxa4b40wvbro573ga579",
+      "startDate": "2026-03-22Z",
+      "endDate": "2026-07-19Z",
+      "name": "Group 4"
+    },
+    "contestant": [
+      {
+        "id": "ea26weq1oj1261wk474rhqlt2",
+        "name": "Olimpo",
+        "shortName": "Olimpo",
+        "officialName": "Club Olimpo de Bahía Blanca",
+        "code": "OLI",
+        "position": "home",
+        "country": {
+          "id": "2vovxa97k7v7ofa85dah2xktb",
+          "name": "Argentina"
+        }
+      },
+      {
+        "id": "9jhnq1jsy4nfufvd2ensu6xpb",
+        "name": "Alvarado",
+        "shortName": "Alvarado",
+        "officialName": "CA Alvarado",
+        "code": "ALV",
+        "position": "away",
+        "country": {
+          "id": "2vovxa97k7v7ofa85dah2xktb",
+          "name": "Argentina"
+        }
+      }
+    ],
+    "venue": {
+      "id": "7o94zrqhrpw7ch2q4aqweuxsa",
+      "neutral": "no",
+      "longName": "Estadio Roberto Natalio Carminatti",
+      "shortName": "Estadio Roberto Natalio Carminatti",
+      "latitude": "-38.727128809",
+      "longitude": "-62.275984883"
+    }
+  },
+  "liveData": {
+    "matchDetails": {
+      "periodId": 14,
+      "matchStatus": "Played",
+      "winner": "home",
+      "matchLengthMin": 100,
+      "matchLengthSec": 41,
+      "period": [
+        {
+          "id": 1,
+          "start": "2026-03-22T19:07:42Z",
+          "end": "2026-03-22T19:54:32Z",
+          "lengthMin": 46,
+          "lengthSec": 50
+        },
+        {
+          "id": 2,
+          "start": "2026-03-22T20:14:48Z",
+          "end": "2026-03-22T21:08:39Z",
+          "lengthMin": 53,
+          "lengthSec": 51
+        }
+      ],
+      "scores": {
+        "ht": {
+          "home": 0,
+          "away": 0
+        },
+        "ft": {
+          "home": 2,
+          "away": 0
+        },
+        "total": {
+          "home": 2,
+          "away": 0
+        }
+      }
+    },
+    "goal": [
+      {
+        "contestantId": "ea26weq1oj1261wk474rhqlt2",
+        "periodId": 2,
+        "timeMin": 68,
+        "lastUpdated": "2026-03-22T20:38:53Z",
+        "type": "G",
+        "scorerId": "bowam1qkk5zyfsye2td6f0bqi",
+        "scorerName": "M. Ferreyra",
+        "homeScore": 1,
+        "awayScore": 0
+      },
+      {
+        "contestantId": "ea26weq1oj1261wk474rhqlt2",
+        "periodId": 2,
+        "timeMin": 71,
+        "lastUpdated": "2026-03-22T20:41:18Z",
+        "type": "G",
+        "scorerId": "bai5ub28jbcl6tjjgcjl8sel1",
+        "scorerName": "D. Ramírez",
+        "homeScore": 2,
+        "awayScore": 0
+      }
+    ],
+    "card": [
+      {
+        "contestantId": "ea26weq1oj1261wk474rhqlt2",
+        "periodId": 1,
+        "timeMin": 6,
+        "lastUpdated": "2026-03-24T17:40:18Z",
+        "type": "YC",
+        "playerId": "32y1pggwkvmokzkmltdlwjys",
+        "playerName": "A. Stancato",
+        "cardReason": "Foul"
+      },
+      {
+        "contestantId": "9jhnq1jsy4nfufvd2ensu6xpb",
+        "periodId": 2,
+        "timeMin": 59,
+        "lastUpdated": "2026-03-24T17:41:37Z",
+        "type": "YC",
+        "playerId": "f4kvrq3h4389t5blt3cxsk48a",
+        "playerName": "T. Federico",
+        "cardReason": "Foul"
+      },
+      {
+        "contestantId": "9jhnq1jsy4nfufvd2ensu6xpb",
+        "periodId": 2,
+        "timeMin": 76,
+        "lastUpdated": "2026-03-24T17:42:23Z",
+        "type": "YC",
+        "playerId": "1e0u4t8j3lvanh13y7qxqyvah",
+        "playerName": "G. Cervera",
+        "cardReason": "Foul"
+      },
+      {
+        "contestantId": "ea26weq1oj1261wk474rhqlt2",
+        "periodId": 2,
+        "timeMin": 83,
+        "lastUpdated": "2026-03-24T17:43:26Z",
+        "type": "YC",
+        "playerId": "bai5ub28jbcl6tjjgcjl8sel1",
+        "playerName": "D. Ramírez",
+        "cardReason": "Foul"
+      },
+      {
+        "contestantId": "ea26weq1oj1261wk474rhqlt2",
+        "periodId": 2,
+        "timeMin": 87,
+        "lastUpdated": "2026-03-24T17:44:01Z",
+        "type": "YC",
+        "playerId": "6qoqv0y70kswmuy3sd2igqaqx",
+        "playerName": "B. Guille",
+        "cardReason": "Foul"
+      }
+    ],
+    "substitute": [
+      {
+        "contestantId": "ea26weq1oj1261wk474rhqlt2",
+        "periodId": 2,
+        "timeMin": 63,
+        "lastUpdated": "2026-03-24T17:33:37Z",
+        "playerOnId": "2vt2o3lrwi57x497rvbchb6dw",
+        "playerOnName": "S. Fernández",
+        "playerOffId": "32y1pggwkvmokzkmltdlwjys",
+        "playerOffName": "A. Stancato",
+        "subReason": "Tactical"
+      },
+      {
+        "contestantId": "9jhnq1jsy4nfufvd2ensu6xpb",
+        "periodId": 2,
+        "timeMin": 68,
+        "lastUpdated": "2026-03-24T17:37:36Z",
+        "playerOnId": "ebm2o0rt9mfzdtksonfydql4a",
+        "playerOnName": "N. Speck",
+        "playerOffId": "cuclz14hh1rwxzbivspeneusq",
+        "playerOffName": "S. Gutiérrez",
+        "subReason": "Tactical"
+      },
+      {
+        "contestantId": "9jhnq1jsy4nfufvd2ensu6xpb",
+        "periodId": 2,
+        "timeMin": 68,
+        "lastUpdated": "2026-03-24T17:37:57Z",
+        "playerOnId": "9x7y2k03sqhpkmvshuit86djo",
+        "playerOnName": "M. Miori",
+        "playerOffId": "ay1sh6z4xf4gjoiv9u1zi0npw",
+        "playerOffName": "M. Pérez",
+        "subReason": "Tactical"
+      },
+      {
+        "contestantId": "ea26weq1oj1261wk474rhqlt2",
+        "periodId": 2,
+        "timeMin": 71,
+        "lastUpdated": "2026-03-27T08:37:16Z",
+        "playerOnId": "c0ogbhout0pc8n7apckavrk7o",
+        "playerOnName": "S. Llanos",
+        "playerOffId": "d02q13grayqlh1w5db2wh2ket",
+        "playerOffName": "C. Amarilla",
+        "subReason": "Tactical"
+      },
+      {
+        "contestantId": "9jhnq1jsy4nfufvd2ensu6xpb",
+        "periodId": 2,
+        "timeMin": 73,
+        "lastUpdated": "2026-03-24T17:38:26Z",
+        "playerOnId": "46eeed3yj4v3ymtba8ciebx4a",
+        "playerOnName": "L. Núñez",
+        "playerOffId": "cbdfqyx34bbi1qg5pn5idti50",
+        "playerOffName": "F. Iriarte",
+        "subReason": "Tactical"
+      },
+      {
+        "contestantId": "9jhnq1jsy4nfufvd2ensu6xpb",
+        "periodId": 2,
+        "timeMin": 73,
+        "lastUpdated": "2026-03-24T17:38:41Z",
+        "playerOnId": "ca5sg66hhcfh6jpxkfv70vqxg",
+        "playerOnName": "R. Makarte",
+        "playerOffId": "f4kvrq3h4389t5blt3cxsk48a",
+        "playerOffName": "T. Federico",
+        "subReason": "Tactical"
+      },
+      {
+        "contestantId": "9jhnq1jsy4nfufvd2ensu6xpb",
+        "periodId": 2,
+        "timeMin": 73,
+        "lastUpdated": "2026-03-24T17:38:56Z",
+        "playerOnId": "bvl5bpbdx0yq7fmlq8hscjv8p",
+        "playerOnName": "A. Castellano",
+        "playerOffId": "30h01t9w3poes1i8xj3sjs0t0",
+        "playerOffName": "L. Chiozza",
+        "subReason": "Tactical"
+      },
+      {
+        "contestantId": "ea26weq1oj1261wk474rhqlt2",
+        "periodId": 2,
+        "timeMin": 85,
+        "lastUpdated": "2026-03-24T17:36:46Z",
+        "playerOnId": "9e8nh725vwpwhgwy58x8094vd",
+        "playerOnName": "A. Hernández",
+        "playerOffId": "23jy23d0tjq2j7l3slh6oobxm",
+        "playerOffName": "E. Coacci",
+        "subReason": "Tactical"
+      },
+      {
+        "contestantId": "ea26weq1oj1261wk474rhqlt2",
+        "periodId": 2,
+        "timeMin": 85,
+        "lastUpdated": "2026-03-24T17:37:05Z",
+        "playerOnId": "3bqhgvl4kjab313a25va64o2x",
+        "playerOnName": "C. Ibarra",
+        "playerOffId": "820ep9uef7dk76n8s9fm8nahh",
+        "playerOffName": "F. González",
+        "subReason": "Tactical"
+      }
+    ],
+    "lineUp": [
+      {
+        "contestantId": "ea26weq1oj1261wk474rhqlt2",
+        "player": [
+          {
+            "playerId": "d02q13grayqlh1w5db2wh2ket",
+            "firstName": "Cristian Damián",
+            "lastName": "Amarilla",
+            "shortFirstName": "Cristian",
+            "shortLastName": "Amarilla",
+            "matchName": "C. Amarilla"
+          },
+          {
+            "playerId": "dnbpdrtibegs6rlv69zf3xnmd",
+            "firstName": "Christian Fernando",
+            "lastName": "Chimino",
+            "shortFirstName": "Christian",
+            "shortLastName": "Chimino",
+            "matchName": "C. Chimino"
+          },
+          {
+            "playerId": "23jy23d0tjq2j7l3slh6oobxm",
+            "firstName": "Enzo Gabriel",
+            "lastName": "Coacci",
+            "shortFirstName": "Enzo",
+            "shortLastName": "Coacci",
+            "matchName": "E. Coacci"
+          },
+          {
+            "playerId": "bowam1qkk5zyfsye2td6f0bqi",
+            "firstName": "Martín Ignacio",
+            "lastName": "Ferreyra",
+            "shortFirstName": "Martín",
+            "shortLastName": "Ferreyra",
+            "matchName": "M. Ferreyra"
+          },
+          {
+            "playerId": "820ep9uef7dk76n8s9fm8nahh",
+            "firstName": "Federico Rafael",
+            "lastName": "González",
+            "shortFirstName": "Federico",
+            "shortLastName": "González",
+            "matchName": "F. González"
+          },
+          {
+            "playerId": "6qoqv0y70kswmuy3sd2igqaqx",
+            "firstName": "Braian Alejandro",
+            "lastName": "Guille",
+            "shortFirstName": "Braian",
+            "shortLastName": "Guille",
+            "matchName": "B. Guille"
+          },
+          {
+            "playerId": "8i2g2hxnn06xjwyqx4st5l7je",
+            "firstName": "Luciano",
+            "lastName": "Lapetina",
+            "shortFirstName": "Luciano",
+            "shortLastName": "Lapetina",
+            "matchName": "L. Lapetina"
+          },
+          {
+            "playerId": "cko1q1zfefshulrshfb1prrsa",
+            "firstName": "Juan Pablo",
+            "lastName": "Lungarzo",
+            "shortFirstName": "Juan",
+            "shortLastName": "Lungarzo",
+            "matchName": "J. Lungarzo"
+          },
+          {
+            "playerId": "c1e52h4a8434vh2vkbyapjidx",
+            "firstName": "Néstor Emanuel",
+            "lastName": "Moiraghi",
+            "shortFirstName": "Néstor",
+            "shortLastName": "Moiraghi",
+            "matchName": "N. Moiraghi"
+          },
+          {
+            "playerId": "bai5ub28jbcl6tjjgcjl8sel1",
+            "firstName": "Diego Ignacio",
+            "lastName": "Ramírez",
+            "shortFirstName": "Diego",
+            "shortLastName": "Ramírez",
+            "matchName": "D. Ramírez"
+          },
+          {
+            "playerId": "32y1pggwkvmokzkmltdlwjys",
+            "firstName": "Agustín",
+            "lastName": "Stancato",
+            "shortFirstName": "Agustín",
+            "shortLastName": "Stancato",
+            "matchName": "A. Stancato"
+          }
+        ],
+        "teamOfficial": [
+          {
+            "id": "eupbzabvu4li81jxeall83d2h",
+            "firstName": "Carlos María",
+            "lastName": "Mungo",
+            "shortFirstName": "Carlos",
+            "shortLastName": "Mungo",
+            "type": "manager"
+          }
+        ]
+      },
+      {
+        "contestantId": "9jhnq1jsy4nfufvd2ensu6xpb",
+        "player": [
+          {
+            "playerId": "czff2vya24wtd0rc3igmde7yt",
+            "firstName": "Tomás Glênio",
+            "lastName": "Berra",
+            "shortFirstName": "Tomás",
+            "shortLastName": "Berra",
+            "matchName": "T. Berra"
+          },
+          {
+            "playerId": "bnh6bprvh9bcv4j0eei6ns1cl",
+            "firstName": "Emanuel",
+            "lastName": "Bilbao",
+            "shortFirstName": "Emanuel",
+            "shortLastName": "Bilbao",
+            "matchName": "E. Bilbao"
+          },
+          {
+            "playerId": "1e0u4t8j3lvanh13y7qxqyvah",
+            "firstName": "Germán Agustín",
+            "lastName": "Cervera",
+            "shortFirstName": "Germán",
+            "shortLastName": "Cervera",
+            "matchName": "G. Cervera"
+          },
+          {
+            "playerId": "30h01t9w3poes1i8xj3sjs0t0",
+            "firstName": "Lucas Federico",
+            "lastName": "Chiozza",
+            "shortFirstName": "Lucas",
+            "shortLastName": "Chiozza",
+            "matchName": "L. Chiozza"
+          },
+          {
+            "playerId": "f4kvrq3h4389t5blt3cxsk48a",
+            "firstName": "Tomás",
+            "lastName": "Federico",
+            "shortFirstName": "Tomás",
+            "shortLastName": "Federico",
+            "matchName": "T. Federico"
+          },
+          {
+            "playerId": "4qg51skk9tsiqvkxdvlge4up6",
+            "firstName": "Tomás Agustín",
+            "lastName": "Fernández",
+            "shortFirstName": "Tomás",
+            "shortLastName": "Fernández",
+            "matchName": "T. Fernández"
+          },
+          {
+            "playerId": "4zfpccmwi3v5y5v023lou3co9",
+            "firstName": "Cristian Luis",
+            "lastName": "Gorgerino",
+            "shortFirstName": "Cristian",
+            "shortLastName": "Gorgerino",
+            "matchName": "C. Gorgerino"
+          },
+          {
+            "playerId": "cuclz14hh1rwxzbivspeneusq",
+            "firstName": "Santiago Nicolás",
+            "lastName": "Gutiérrez",
+            "shortFirstName": "Santiago",
+            "shortLastName": "Gutiérrez",
+            "matchName": "S. Gutiérrez"
+          },
+          {
+            "playerId": "cbdfqyx34bbi1qg5pn5idti50",
+            "firstName": "Fermín",
+            "lastName": "Iriarte",
+            "matchName": "F. Iriarte"
+          },
+          {
+            "playerId": "ctrv7pixmc85d6qcqlcllxr6x",
+            "firstName": "Matías Alberto",
+            "lastName": "Mansilla",
+            "shortFirstName": "Matías",
+            "shortLastName": "Mansilla",
+            "matchName": "M. Mansilla"
+          },
+          {
+            "playerId": "ay1sh6z4xf4gjoiv9u1zi0npw",
+            "firstName": "Matías Ezequiel",
+            "lastName": "Pérez",
+            "shortFirstName": "Matías",
+            "shortLastName": "Pérez",
+            "matchName": "M. Pérez"
+          }
+        ],
+        "teamOfficial": [
+          {
+            "id": "amdu7mv7gj6h0u7lsb5wip0ix",
+            "firstName": "Pablo",
+            "lastName": "Martel",
+            "shortFirstName": "Pablo",
+            "shortLastName": "Martel",
+            "type": "manager"
+          }
+        ]
+      }
+    ],
+    "matchDetailsExtra": {
+      "matchOfficial": [
+        {
+          "id": "569ecrr65y2og69o6agmykyc5",
+          "type": "Main",
+          "firstName": "Nahuel",
+          "lastName": "Viñas",
+          "shortFirstName": "Nahuel",
+          "shortLastName": "Viñas"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,87 @@
+{
+  "matchInfo": {
+    "id": "bsa8dngrxt8iip4zc5yi4hclw",
+    "coverageLevel": "1",
+    "date": "2026-02-04Z",
+    "time": "20:00:00Z",
+    "week": "1",
+    "numberOfPeriods": 2,
+    "periodLength": 45,
+    "lastUpdated": "2026-02-04T23:32:34Z",
+    "description": "Lanús Res. vs Ferro Carril Oeste Res.",
+    "sport": {
+      "id": "289u5typ3vp4ifwh5thalohmq",
+      "name": "Soccer"
+    },
+    "ruleset": {
+      "id": "79plas4983031idr6vw83nuel",
+      "name": "Men"
+    },
+    "competition": {
+      "id": "2f3fydvyjz2svhlc1eo3qflwd",
+      "name": "Torneo Proyección",
+      "competitionCode": "TPR",
+      "competitionFormat": "Domestic league",
+      "country": {
+        "id": "2vovxa97k7v7ofa85dah2xktb",
+        "name": "Argentina"
+      }
+    },
+    "tournamentCalendar": {
+      "id": "3trr1fkbng6fnagct7101bpck",
+      "startDate": "2026-02-03Z",
+      "endDate": "2026-12-13Z",
+      "name": "2026"
+    },
+    "stage": {
+      "id": "3ua4vlna95icfkhxb22c5bok4",
+      "formatId": "36u9089d33h0ojby6bvbwl49h",
+      "startDate": "2026-02-03Z",
+      "endDate": "2026-06-17Z",
+      "name": "1st Phase"
+    },
+    "contestant": [
+      {
+        "id": "bpf54cdcn8cx43mggkjephcpw",
+        "name": "Lanús Res.",
+        "shortName": "Lanús",
+        "officialName": "CA Lanús Reserves",
+        "code": "LAN",
+        "position": "home",
+        "country": {
+          "id": "2vovxa97k7v7ofa85dah2xktb",
+          "name": "Argentina"
+        }
+      },
+      {
+        "id": "92y29ki4oe4gb9r9w8g3l3khz",
+        "name": "Ferro Carril Oeste Res.",
+        "shortName": "Ferro Carril R",
+        "officialName": "Club Ferro Carril Oeste Reserves",
+        "code": "FCO",
+        "position": "away",
+        "country": {
+          "id": "2vovxa97k7v7ofa85dah2xktb",
+          "name": "Argentina"
+        }
+      }
+    ]
+  },
+  "liveData": {
+    "matchDetails": {
+      "periodId": 14,
+      "matchStatus": "Played",
+      "winner": "home",
+      "scores": {
+        "ft": {
+          "home": 2,
+          "away": 0
+        },
+        "total": {
+          "home": 2,
+          "away": 0
+        }
+      }
+    }
+  }
+}

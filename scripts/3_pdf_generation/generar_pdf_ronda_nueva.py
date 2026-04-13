@@ -82,7 +82,6 @@ def normalize_besoccer(df_bs):
 LEAGUE_WEIGHTS = {
     'Colombia 2 Div': 0.60,
     'Copa Brasil': 0.75,
-    'Primera B Metro': 0.90,
     'Paulista A2': 0.65,
     'Paulista A1': 0.90,
     'Carioca': 0.85,
@@ -253,7 +252,7 @@ class PDFGeneratorRonda17(PDFGeneratorIDV):
         <b>Sistema de Scoring MPS (Match Priority Score):</b><br/>
         Índice propio que prioriza partidos según: <b>cantidad de U23</b>, <b>minutos reales jugados</b>, <b>titularidad</b>, <b>rating individual</b>, <b>edad</b> (bonus sub-20) y <b>peso de liga</b>. Se estandariza con Z-Score para clasificar por prioridad.<br/>
         <br/>
-        <b>Ligas:</b> 🇧🇷 Paulista A1/A2, Carioca QF, Paranaense SF, Mineiro, Gaúcho SF, Baiano · 🇨🇴 Colombia 2 Div · 🇦🇷 Copa Argentina, Primera B, Primera B Met
+        <b>Ligas:</b> 🇧🇷 Paulista A1/A2, Carioca QF, Paranaense SF, Mineiro, Gaúcho SF, Baiano · 🇨🇴 Colombia 2 Div · 🇦🇷 Copa Argentina, Primera B
         """
         story.append(Paragraph(explicacion, self.normal_style))
         story.append(Spacer(1, 0.2*inch))
@@ -875,117 +874,6 @@ class PDFGeneratorRonda17(PDFGeneratorIDV):
         story.append(tabla)
         story.append(Spacer(1, 0.3*inch))
 
-    def create_anexo_reap_primera_b_metro(self, story):
-        """ANEXO III: Jugadores con mayor REAP - Primera B Metro"""
-        
-        story.append(PageBreak())
-        story.append(Paragraph("<b>ANEXO III: JUGADORES CON MAYOR REAP - PRIMERA B METRO</b>", self.title_style))
-        story.append(Spacer(1, 0.3*inch))
-        
-        explicacion_style = ParagraphStyle('Explicacion', parent=self.normal_style, fontSize=10, spaceAfter=15)
-        story.append(Paragraph(
-            "<b>Criterios de selección:</b><br/>"
-            "• Jugadores U23 de Primera B Metro<br/>"
-            "• REAP (Rendimiento Esperado Ajustado por Potencial) ≥ 1.29<br/>"
-            "• Jornada 3 - 09/03/2026<br/>"
-            "• Ordenados por REAP descendente",
-            explicacion_style
-        ))
-        story.append(Spacer(1, 0.2*inch))
-        
-        # Cargar datos JSON
-        json_path = os.path.join(DATA_DIR, 'jugadores_jornada_primerabmetro_reap.json')
-        try:
-            with open(json_path, 'r', encoding='utf-8') as f:
-                data = json.load(f)
-        except Exception as e:
-            story.append(Paragraph(f"<i>Error al cargar datos: {str(e)}</i>", self.normal_style))
-            return
-        
-        jugadores = data.get('jugadores_destacados', [])
-        
-        if len(jugadores) == 0:
-            story.append(Paragraph("<i>No hay jugadores que cumplan los criterios</i>", self.normal_style))
-            return
-        
-        # Crear tabla
-        tabla_data = [['#', 'Nombre', 'Equipo', 'Pos', 'Edad', 'REAP', 'ELO', 'Pot', 'VM (M€)', 'Contrato']]
-        
-        for idx, j in enumerate(jugadores, 1):
-            # Formatear valor de mercado
-            vm = j.get('valor_mercado_millones', 0)
-            vm_str = f"{vm:.3f}" if vm else "-"
-            
-            # Formatear contrato
-            contrato = j.get('fin_contrato', '')
-            if contrato and contrato != 'null':
-                try:
-                    contrato_str = contrato.split('-')[0]  # Solo año
-                except:
-                    contrato_str = "-"
-            else:
-                contrato_str = "-"
-            
-            tabla_data.append([
-                str(idx),
-                j.get('nombre', ''),
-                j.get('equipo', ''),
-                j.get('posicion', ''),
-                str(j.get('edad', '')),
-                f"{j.get('reap', 0):.2f}",
-                str(j.get('elo', '')),
-                str(j.get('potencial', '')),
-                vm_str,
-                contrato_str
-            ])
-        
-        # Crear tabla con estilo
-        tabla = Table(tabla_data, colWidths=[
-            0.3*inch,  # #
-            1.5*inch,  # Nombre
-            1.3*inch,  # Equipo
-            0.5*inch,  # Pos
-            0.5*inch,  # Edad
-            0.6*inch,  # REAP
-            0.5*inch,  # ELO
-            0.5*inch,  # Pot
-            0.7*inch,  # VM
-            0.7*inch   # Contrato
-        ])
-        
-        tabla.setStyle(TableStyle([
-            ('BACKGROUND', (0, 0), (-1, 0), COLOR_DORADO),
-            ('TEXTCOLOR', (0, 0), (-1, 0), colors.whitesmoke),
-            ('ALIGN', (0, 0), (-1, -1), 'CENTER'),
-            ('FONTNAME', (0, 0), (-1, 0), 'Helvetica-Bold'),
-            ('FONTSIZE', (0, 0), (-1, 0), 9),
-            ('FONTSIZE', (0, 1), (-1, -1), 8),
-            ('BOTTOMPADDING', (0, 0), (-1, 0), 12),
-            ('GRID', (0, 0), (-1, -1), 0.5, COLOR_GRIS),
-            ('ROWBACKGROUNDS', (0, 1), (-1, -1), [colors.white, COLOR_GRIS_CLARO]),
-        ]))
-        
-        # Resaltar TOP 3
-        for i in range(1, min(4, len(tabla_data))):
-            tabla.setStyle(TableStyle([
-                ('BACKGROUND', (0, i), (-1, i), COLOR_DORADO_CLARO),
-            ]))
-        
-        story.append(tabla)
-        story.append(Spacer(1, 0.3*inch))
-        
-        # Añadir estadísticas
-        stats = data.get('estadisticas', {})
-        if stats:
-            stats_style = ParagraphStyle('Stats', parent=self.normal_style, fontSize=9, textColor=COLOR_GRIS_OSCURO)
-            story.append(Paragraph(
-                f"<b>Estadísticas:</b> REAP promedio: {stats.get('reap_promedio', 0):.2f} | "
-                f"ELO promedio: {stats.get('elo_promedio', 0):.0f} | "
-                f"Potencial promedio: {stats.get('potencial_promedio', 0):.0f} | "
-                f"Edad promedio: {stats.get('edad_promedio', 0):.1f} años",
-                stats_style
-            ))
-
     def generar_insight(self, partido, jugadores_u23):
         """Override para usar descripción de ChatGPT si existe, sino usar la automática"""
         
@@ -1010,18 +898,10 @@ class PDFGeneratorRonda17(PDFGeneratorIDV):
         return super().generar_insight(partido, jugadores_u23)
     
     def create_partido_section(self, story, partido, jugadores_u23, logos_df, fotos_df, match_info, ranking, categoria):
-        """Override para mostrar REAP en vez de rating para Primera B Metro"""
-        
+        """Override para usar descripción de ChatGPT en el insight"""
+
         elements = []
-        liga = partido.get('liga', '')
-        es_primera_b_metro = 'Primera B Met' in liga
-        
-        # Si es Primera B Metro, copiar y modificar DataFrame
-        if es_primera_b_metro:
-            jugadores_u23 = jugadores_u23.copy()
-            if 'reap' in jugadores_u23.columns:
-                jugadores_u23['rating'] = jugadores_u23['reap']
-        
+
         # Título del partido
         titulo = f"#{ranking}. {partido['partido']} - {partido['liga']} - {categoria}"
         elements.append(Paragraph(f"<b>{titulo}</b>", self.match_title_style))
@@ -1086,11 +966,8 @@ class PDFGeneratorRonda17(PDFGeneratorIDV):
             
             elements.append(HRFlowable(width="100%", thickness=1, color=COLOR_NEGRO, spaceBefore=3, spaceAfter=5))
             
-            # Tabla de jugadores - CAMBIAR ENCABEZADO SEGÚN LIGA
-            if es_primera_b_metro:
-                jugadores_data = [['Dorsal', 'Nombre', 'Pos', 'Min', 'REAP', 'Año Nac.']]
-            else:
-                jugadores_data = [['Dorsal', 'Nombre', 'Pos', 'Min', 'Rating', 'Fecha Nac.']]
+            # Tabla de jugadores
+            jugadores_data = [['Dorsal', 'Nombre', 'Pos', 'Min', 'Rating', 'Fecha Nac.']]
             
             df_equipo_sorted = df_equipo.sort_values('minutes_played', ascending=False)
             
@@ -1105,30 +982,17 @@ class PDFGeneratorRonda17(PDFGeneratorIDV):
                 
                 minutos = str(int(jugador['minutes_played']))
                 
-                # Rating/REAP
+                # Rating
                 if pd.notna(jugador['rating']) and jugador['rating'] != '':
-                    rating_str = f"{jugador['rating']:.2f}" if es_primera_b_metro else f"{jugador['rating']:.1f}"
+                    rating_str = f"{jugador['rating']:.1f}"
                     rating_cell = Paragraph(rating_str, self.normal_style)
                 else:
                     rating_cell = Paragraph('N/A', self.normal_style)
-                
+
                 # Fecha de nacimiento
-                if es_primera_b_metro:
-                    # Solo año para Primera B Metro
-                    fecha_nac = 'N/A'
-                    if 'birth_year' in jugador and pd.notna(jugador['birth_year']):
-                        fecha_nac = str(int(jugador['birth_year']))
-                    elif 'date_of_birth' in jugador and pd.notna(jugador['date_of_birth']):
-                        dob_str = str(jugador['date_of_birth'])
-                        if '/' in dob_str:
-                            fecha_nac = dob_str.split('/')[-1]
-                        elif '-' in dob_str:
-                            fecha_nac = dob_str.split('-')[0]
-                else:
-                    # Fecha completa para otras ligas
-                    fecha_nac = 'N/A'
-                    if 'date_of_birth' in jugador and pd.notna(jugador['date_of_birth']):
-                        fecha_nac = str(jugador['date_of_birth'])
+                fecha_nac = 'N/A'
+                if 'date_of_birth' in jugador and pd.notna(jugador['date_of_birth']):
+                    fecha_nac = str(jugador['date_of_birth'])
                 
                 jugadores_data.append([dorsal, nombre_cell, pos, minutos, rating_cell, fecha_nac])
             
@@ -1193,11 +1057,11 @@ class PDFGeneratorRonda17(PDFGeneratorIDV):
         if use_brasil_data:
             # Usar datos de RONDA_02-08_03_26
             ranking_path = os.path.join(DATA_DIR, 'PARTIDOS_COMPACTO_CON_MPS.csv')
-            jugadores_path = os.path.join(DATA_DIR, 'jugadores_completo_con_pbm.csv')
+            jugadores_path = os.path.join(DATA_DIR, 'jugadores_ronda_nueva.csv')
             LOGOS_DIR_ACT = LOGOS_DIR
         else:
             ranking_path = os.path.join(DATA_DIR, 'PARTIDOS_COMPACTO_CON_MPS.csv')
-            jugadores_path = os.path.join(DATA_DIR, 'jugadores_completo_con_pbm.csv')
+            jugadores_path = os.path.join(DATA_DIR, 'jugadores_ronda_nueva.csv')
             LOGOS_DIR_ACT = LOGOS_DIR
             
         print(f"\n📂 Cargando ranking: {ranking_path}")
@@ -1251,17 +1115,7 @@ class PDFGeneratorRonda17(PDFGeneratorIDV):
             )
             print(f"   Fuente 1 (SofaScore): {len(df_f1)} registros, {df_f1['match_id'].nunique()} partidos")
 
-            # Fuente 2: BeSoccer
-            besoccer_path = os.path.join(EXTRACCION_DIR, 'primera_b_met_jornada2.csv')
-            if os.path.exists(besoccer_path):
-                df_bs = pd.read_csv(besoccer_path)
-                df_f2 = normalize_besoccer(df_bs, 'Primera B Met')
-                print(f"   Fuente 2 (BeSoccer): {len(df_f2)} registros, {df_f2['match_id'].nunique()} partidos")
-            else:
-                df_f2 = pd.DataFrame()
-                print("   ⚠️ Fuente 2 no encontrada")
-
-            # Unificar
+            # Unificar columnas
             unified_cols = ['match_id', 'player_name', 'position', 'is_substitute', 'date_of_birth',
                             'birth_year_direct', 'is_u23', 'team', 'opponent', 'home_away',
                             'minutes_played', 'rating', 'liga', 'round',
@@ -1271,14 +1125,10 @@ class PDFGeneratorRonda17(PDFGeneratorIDV):
                 if col not in df_f1.columns:
                     df_f1[col] = np.nan
 
-            dfs = [df_f1[unified_cols]]
-            if not df_f2.empty:
-                dfs.append(df_f2)
-            df_all = pd.concat(dfs, ignore_index=True)
+            df_all = df_f1[unified_cols].copy()
 
             # Add shirt_number if missing (needed by base class)
             if 'shirt_number' not in df_all.columns:
-                # Try to get from original F1
                 if 'shirt_number' in df_f1.columns:
                     df_all = df_all.merge(
                         df_f1[['match_id', 'player_name', 'team', 'shirt_number']].drop_duplicates(),
@@ -1286,15 +1136,6 @@ class PDFGeneratorRonda17(PDFGeneratorIDV):
                     )
                 else:
                     df_all['shirt_number'] = np.nan
-
-            # For BeSoccer, try to get dorsal
-            if not df_f2.empty and 'dorsal' in df_bs.columns:
-                bs_dorsal = df_bs[['partido_id', 'nombre', 'equipo', 'dorsal']].copy()
-                bs_dorsal.columns = ['match_id', 'player_name', 'team', 'shirt_number_bs']
-                df_all = df_all.merge(bs_dorsal, on=['match_id', 'player_name', 'team'], how='left')
-                mask = df_all['shirt_number'].isna() & df_all['shirt_number_bs'].notna()
-                df_all.loc[mask, 'shirt_number'] = df_all.loc[mask, 'shirt_number_bs']
-                df_all.drop(columns=['shirt_number_bs'], inplace=True, errors='ignore')
 
             print(f"\n📊 Dataset combinado: {len(df_all)} registros, {df_all['match_id'].nunique()} partidos")
 
@@ -1428,10 +1269,6 @@ class PDFGeneratorRonda17(PDFGeneratorIDV):
         print("\n📄 Generando ANEXO II: Mejores jugadores 18-21 años...")
         self.create_anexo_mejores_18_21(story, df_all)
 
-        # ANEXO III: Jugadores con mayor REAP - Primera B Metro
-        print("\n📄 Generando ANEXO III: Jugadores con mayor REAP - Primera B Metro...")
-        self.create_anexo_reap_primera_b_metro(story)
-        
         # ANEXOS ACUMULADOS ELIMINADOS (jugadores de equipos U20 no disponibles en SofaScore)
         # - ANEXO Acumulado U23 (eliminado)
         # - ANEXO Acumulado 18-21 (eliminado)
@@ -1466,4 +1303,3 @@ if __name__ == "__main__":
     print(f"  • 96 escudos de equipos")
     print(f"  • ANEXO I: Jugadores U23 destacados (rating ≥ 7.5)")
     print(f"  • ANEXO II: Mejores jugadores 18-21 años")
-    print(f"  • ANEXO III: Jugadores con mayor REAP - Primera B Metro")

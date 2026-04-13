@@ -1,0 +1,165 @@
+{
+  "matchInfo": {
+    "id": "5t923ln3fcs7bo8jd8cy5xul0",
+    "coverageLevel": "7",
+    "date": "2026-04-11Z",
+    "time": "21:30:00Z",
+    "localDate": "2026-04-11",
+    "localTime": "18:30:00",
+    "week": "4",
+    "numberOfPeriods": 2,
+    "periodLength": 45,
+    "lastUpdated": "2026-04-11T23:22:24Z",
+    "description": "Deportivo Santamarina vs Circulo Deportivo",
+    "sport": {
+      "id": "289u5typ3vp4ifwh5thalohmq",
+      "name": "Soccer"
+    },
+    "ruleset": {
+      "id": "79plas4983031idr6vw83nuel",
+      "name": "Men"
+    },
+    "competition": {
+      "id": "a08z7wsz0uqx90wsj33g65fcd",
+      "name": "Torneo Federal A",
+      "competitionCode": "TFA",
+      "competitionFormat": "Domestic league",
+      "country": {
+        "id": "2vovxa97k7v7ofa85dah2xktb",
+        "name": "Argentina"
+      }
+    },
+    "tournamentCalendar": {
+      "id": "1q9caek968o8ubc43inhg6uxg",
+      "startDate": "2026-03-21Z",
+      "endDate": "2026-12-14Z",
+      "name": "2026"
+    },
+    "stage": {
+      "id": "1tir4qigazbsof5nt5mv3lmvo",
+      "formatId": "25o7caxa4b40wvbro573ga579",
+      "startDate": "2026-03-22Z",
+      "endDate": "2026-07-19Z",
+      "name": "Group 4"
+    },
+    "contestant": [
+      {
+        "id": "5o9kxd3kuwkus62eu1tpruyvh",
+        "name": "Deportivo Santamarina",
+        "shortName": "Santamarina",
+        "officialName": "CD Santamarina de Tandil",
+        "code": "SAN",
+        "position": "home",
+        "country": {
+          "id": "2vovxa97k7v7ofa85dah2xktb",
+          "name": "Argentina"
+        }
+      },
+      {
+        "id": "5gbyhtnjrpffvujd54ltl0xp4",
+        "name": "Circulo Deportivo",
+        "shortName": "Circulo Dep.",
+        "officialName": "Club Circulo Deportivo",
+        "code": "CRC",
+        "position": "away",
+        "country": {
+          "id": "2vovxa97k7v7ofa85dah2xktb",
+          "name": "Argentina"
+        }
+      }
+    ],
+    "venue": {
+      "id": "aoz6iutjjilnwgzzgpy7of8aj",
+      "neutral": "no",
+      "longName": "Estadio Municipal General San Martín de Tandil",
+      "shortName": "Estadio Municipal General San Martín de Tandil",
+      "latitude": "-37.332942414",
+      "longitude": "-59.143953323"
+    }
+  },
+  "liveData": {
+    "matchDetails": {
+      "periodId": 14,
+      "matchStatus": "Played",
+      "winner": "home",
+      "matchLengthMin": 93,
+      "matchLengthSec": 8,
+      "period": [
+        {
+          "id": 1,
+          "start": "2026-04-11T21:32:29Z",
+          "end": "2026-04-11T22:20:13Z",
+          "lengthMin": 47,
+          "lengthSec": 44
+        },
+        {
+          "id": 2,
+          "start": "2026-04-11T22:36:59Z",
+          "end": "2026-04-11T23:22:23Z",
+          "lengthMin": 45,
+          "lengthSec": 24
+        }
+      ],
+      "scores": {
+        "ht": {
+          "home": 2,
+          "away": 0
+        },
+        "ft": {
+          "home": 4,
+          "away": 0
+        },
+        "total": {
+          "home": 4,
+          "away": 0
+        }
+      }
+    },
+    "goal": [
+      {
+        "contestantId": "5o9kxd3kuwkus62eu1tpruyvh",
+        "periodId": 1,
+        "timeMin": 20,
+        "lastUpdated": "2026-04-11T21:54:06Z",
+        "type": "G",
+        "scorerId": "3fjty7qac3n77v5x1jq4watxw",
+        "scorerName": "J. Ijurco",
+        "homeScore": 1,
+        "awayScore": 0
+      },
+      {
+        "contestantId": "5o9kxd3kuwkus62eu1tpruyvh",
+        "periodId": 1,
+        "timeMin": 44,
+        "lastUpdated": "2026-04-11T22:18:00Z",
+        "type": "PG",
+        "scorerId": "3mwmdb59esbckhkl9y0jdfx1",
+        "scorerName": "D. Sosa",
+        "homeScore": 2,
+        "awayScore": 0
+      },
+      {
+        "contestantId": "5o9kxd3kuwkus62eu1tpruyvh",
+        "periodId": 2,
+        "timeMin": 48,
+        "lastUpdated": "2026-04-11T22:39:24Z",
+        "type": "PG",
+        "scorerId": "3mwmdb59esbckhkl9y0jdfx1",
+        "scorerName": "D. Sosa",
+        "homeScore": 3,
+        "awayScore": 0
+      },
+      {
+        "contestantId": "5o9kxd3kuwkus62eu1tpruyvh",
+        "periodId": 2,
+        "timeMin": 79,
+        "lastUpdated": "2026-04-11T23:15:38Z",
+        "type": "G",
+        "scorerId": "1bib9yj79tl4gqve9m9c796nd",
+        "scorerName": "N. Franco",
+        "homeScore": 4,
+        "awayScore": 0
+      }
+    ]
+  }
+}

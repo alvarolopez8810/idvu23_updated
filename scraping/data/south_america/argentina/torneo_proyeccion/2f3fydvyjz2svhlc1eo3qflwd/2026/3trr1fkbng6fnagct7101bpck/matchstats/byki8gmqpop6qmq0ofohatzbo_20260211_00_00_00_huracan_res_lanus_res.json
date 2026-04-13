@@ -1,0 +1,87 @@
+{
+  "matchInfo": {
+    "id": "byki8gmqpop6qmq0ofohatzbo",
+    "coverageLevel": "1",
+    "date": "2026-02-11Z",
+    "time": "20:00:00Z",
+    "week": "2",
+    "numberOfPeriods": 2,
+    "periodLength": 45,
+    "lastUpdated": "2026-02-12T01:49:30Z",
+    "description": "Huracán Res. vs Lanús Res.",
+    "sport": {
+      "id": "289u5typ3vp4ifwh5thalohmq",
+      "name": "Soccer"
+    },
+    "ruleset": {
+      "id": "79plas4983031idr6vw83nuel",
+      "name": "Men"
+    },
+    "competition": {
+      "id": "2f3fydvyjz2svhlc1eo3qflwd",
+      "name": "Torneo Proyección",
+      "competitionCode": "TPR",
+      "competitionFormat": "Domestic league",
+      "country": {
+        "id": "2vovxa97k7v7ofa85dah2xktb",
+        "name": "Argentina"
+      }
+    },
+    "tournamentCalendar": {
+      "id": "3trr1fkbng6fnagct7101bpck",
+      "startDate": "2026-02-03Z",
+      "endDate": "2026-12-13Z",
+      "name": "2026"
+    },
+    "stage": {
+      "id": "3ua4vlna95icfkhxb22c5bok4",
+      "formatId": "36u9089d33h0ojby6bvbwl49h",
+      "startDate": "2026-02-03Z",
+      "endDate": "2026-06-17Z",
+      "name": "1st Phase"
+    },
+    "contestant": [
+      {
+        "id": "381dgyt9yl86mkiwubj68uqcp",
+        "name": "Huracán Res.",
+        "shortName": "Huracán",
+        "officialName": "CA Huracán Reserves",
+        "code": "HUR",
+        "position": "home",
+        "country": {
+          "id": "2vovxa97k7v7ofa85dah2xktb",
+          "name": "Argentina"
+        }
+      },
+      {
+        "id": "bpf54cdcn8cx43mggkjephcpw",
+        "name": "Lanús Res.",
+        "shortName": "Lanús",
+        "officialName": "CA Lanús Reserves",
+        "code": "LAN",
+        "position": "away",
+        "country": {
+          "id": "2vovxa97k7v7ofa85dah2xktb",
+          "name": "Argentina"
+        }
+      }
+    ]
+  },
+  "liveData": {
+    "matchDetails": {
+      "periodId": 14,
+      "matchStatus": "Played",
+      "winner": "draw",
+      "scores": {
+        "ft": {
+          "home": 1,
+          "away": 1
+        },
+        "total": {
+          "home": 1,
+          "away": 1
+        }
+      }
+    }
+  }
+}

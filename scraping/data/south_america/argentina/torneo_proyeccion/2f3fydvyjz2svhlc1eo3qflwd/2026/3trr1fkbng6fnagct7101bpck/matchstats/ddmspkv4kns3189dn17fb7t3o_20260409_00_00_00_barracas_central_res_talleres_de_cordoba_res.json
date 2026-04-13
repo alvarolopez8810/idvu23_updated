@@ -1,0 +1,87 @@
+{
+  "matchInfo": {
+    "id": "ddmspkv4kns3189dn17fb7t3o",
+    "coverageLevel": "1",
+    "date": "2026-04-09Z",
+    "time": "18:00:00Z",
+    "week": "8",
+    "numberOfPeriods": 2,
+    "periodLength": 45,
+    "lastUpdated": "2026-04-09T21:12:51Z",
+    "description": "Barracas Central Res. vs Talleres de Córdoba Res.",
+    "sport": {
+      "id": "289u5typ3vp4ifwh5thalohmq",
+      "name": "Soccer"
+    },
+    "ruleset": {
+      "id": "79plas4983031idr6vw83nuel",
+      "name": "Men"
+    },
+    "competition": {
+      "id": "2f3fydvyjz2svhlc1eo3qflwd",
+      "name": "Torneo Proyección",
+      "competitionCode": "TPR",
+      "competitionFormat": "Domestic league",
+      "country": {
+        "id": "2vovxa97k7v7ofa85dah2xktb",
+        "name": "Argentina"
+      }
+    },
+    "tournamentCalendar": {
+      "id": "3trr1fkbng6fnagct7101bpck",
+      "startDate": "2026-02-03Z",
+      "endDate": "2026-12-13Z",
+      "name": "2026"
+    },
+    "stage": {
+      "id": "3ua4vlna95icfkhxb22c5bok4",
+      "formatId": "36u9089d33h0ojby6bvbwl49h",
+      "startDate": "2026-02-03Z",
+      "endDate": "2026-06-17Z",
+      "name": "1st Phase"
+    },
+    "contestant": [
+      {
+        "id": "2h7cvpx138g3qkoqs37i55dk9",
+        "name": "Barracas Central Res.",
+        "shortName": "Barracas",
+        "officialName": "CA Barracas Central Reserves",
+        "code": "BAC",
+        "position": "home",
+        "country": {
+          "id": "2vovxa97k7v7ofa85dah2xktb",
+          "name": "Argentina"
+        }
+      },
+      {
+        "id": "8ypcjxloy7asey5dbm7pkudjq",
+        "name": "Talleres de Córdoba Res.",
+        "shortName": "Talleres",
+        "officialName": "CA Talleres Reserves",
+        "code": "TAL",
+        "position": "away",
+        "country": {
+          "id": "2vovxa97k7v7ofa85dah2xktb",
+          "name": "Argentina"
+        }
+      }
+    ]
+  },
+  "liveData": {
+    "matchDetails": {
+      "periodId": 14,
+      "matchStatus": "Played",
+      "winner": "away",
+      "scores": {
+        "ft": {
+          "home": 0,
+          "away": 1
+        },
+        "total": {
+          "home": 0,
+          "away": 1
+        }
+      }
+    }
+  }
+}

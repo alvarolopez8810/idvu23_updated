@@ -1,0 +1,20 @@
+2026-04-12 19:43:28,625 [INFO] root: Initialized ProcessorFixture with storage_type=local, data_dir=data, schema_dir=schema, log_dir=logs
+2026-04-12 19:43:28,625 [INFO] root: Starting processing of 3 seasons
+2026-04-12 19:43:28,646 [INFO] root: Processed fixture: data\south_america\argentina\torneo_federal_a\a08z7wsz0uqx90wsj33g65fcd\2026\fixture.json → 306 matches
+2026-04-12 19:43:28,651 [INFO] root: Saved individual matches: data\south_america\argentina\torneo_federal_a\a08z7wsz0uqx90wsj33g65fcd\2026\matches.csv
+2026-04-12 19:43:28,675 [INFO] root: Processed fixture: data\south_america\argentina\prim_b_metro\66nxwll8fur0rtp9q7wqaki1l\2026\fixture.json → 400 matches
+2026-04-12 19:43:28,679 [INFO] root: Saved individual matches: data\south_america\argentina\prim_b_metro\66nxwll8fur0rtp9q7wqaki1l\2026\matches.csv
+2026-04-12 19:43:28,694 [INFO] root: Processed fixture: data\south_america\argentina\torneo_proyeccion\2f3fydvyjz2svhlc1eo3qflwd\2026\fixture.json → 324 matches
+2026-04-12 19:43:28,700 [INFO] root: Saved individual matches: data\south_america\argentina\torneo_proyeccion\2f3fydvyjz2svhlc1eo3qflwd\2026\matches.csv
+2026-04-12 19:43:28,770 [INFO] root: Consolidated matches saved to: schema\all_matches.csv
+2026-04-12 19:43:28,770 [INFO] root: ==================================================
+2026-04-12 19:43:28,770 [INFO] root: FINAL SUMMARY
+2026-04-12 19:43:28,770 [INFO] root: ==================================================
+2026-04-12 19:43:28,770 [INFO] root: Processed files: 3
+2026-04-12 19:43:28,770 [INFO] root: Skipped files: 0
+2026-04-12 19:43:28,770 [INFO] root: Error files: 0
+2026-04-12 19:43:28,770 [INFO] root: Total matches extracted: 1030
+2026-04-12 19:43:28,770 [INFO] root: Unique competitions: 3
+2026-04-12 19:43:28,770 [INFO] root: Unique countries: 1
+2026-04-12 19:43:28,771 [INFO] root: Unique teams: 95
+2026-04-12 19:43:28,772 [INFO] root: Date range: 2026-02-03 00:00:00 to 2026-10-31 00:00:00

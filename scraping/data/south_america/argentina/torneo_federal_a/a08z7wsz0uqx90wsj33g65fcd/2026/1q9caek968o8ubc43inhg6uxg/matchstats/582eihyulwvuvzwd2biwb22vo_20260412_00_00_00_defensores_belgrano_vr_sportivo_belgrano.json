@@ -1,0 +1,86 @@
+{
+  "matchInfo": {
+    "id": "582eihyulwvuvzwd2biwb22vo",
+    "coverageLevel": "7",
+    "date": "2026-04-12Z",
+    "time": "19:00:00Z",
+    "localDate": "2026-04-12",
+    "localTime": "16:00:00",
+    "week": "4",
+    "numberOfPeriods": 2,
+    "periodLength": 45,
+    "lastUpdated": "2026-04-08T23:52:32Z",
+    "description": "Defensores Belgrano VR vs Sportivo Belgrano",
+    "sport": {
+      "id": "289u5typ3vp4ifwh5thalohmq",
+      "name": "Soccer"
+    },
+    "ruleset": {
+      "id": "79plas4983031idr6vw83nuel",
+      "name": "Men"
+    },
+    "competition": {
+      "id": "a08z7wsz0uqx90wsj33g65fcd",
+      "name": "Torneo Federal A",
+      "competitionCode": "TFA",
+      "competitionFormat": "Domestic league",
+      "country": {
+        "id": "2vovxa97k7v7ofa85dah2xktb",
+        "name": "Argentina"
+      }
+    },
+    "tournamentCalendar": {
+      "id": "1q9caek968o8ubc43inhg6uxg",
+      "startDate": "2026-03-21Z",
+      "endDate": "2026-12-14Z",
+      "name": "2026"
+    },
+    "stage": {
+      "id": "1s4a4il4nivwxiewoxwf9ft3o",
+      "formatId": "d3xbsmnqx3gpl9h4q42wplu51",
+      "startDate": "2026-03-21Z",
+      "endDate": "2026-07-19Z",
+      "name": "Group 1"
+    },
+    "contestant": [
+      {
+        "id": "47ymf59mjid6vsq72z9dwju7n",
+        "name": "Defensores Belgrano VR",
+        "shortName": "Def Belgrano",
+        "officialName": "CAyS Defensores de Belgrano de Villa Ramallo",
+        "code": "DEF",
+        "position": "home",
+        "country": {
+          "id": "2vovxa97k7v7ofa85dah2xktb",
+          "name": "Argentina"
+        }
+      },
+      {
+        "id": "4a1ana7ud4efxs6z5p4s0qzn5",
+        "name": "Sportivo Belgrano",
+        "shortName": "Belgrano",
+        "officialName": "CS Belgrano de San Francisco",
+        "code": "SBE",
+        "position": "away",
+        "country": {
+          "id": "2vovxa97k7v7ofa85dah2xktb",
+          "name": "Argentina"
+        }
+      }
+    ],
+    "venue": {
+      "id": "83ufl0haszcvg7myluy4o93fi",
+      "neutral": "no",
+      "longName": "Estadio Salomón Boeseldín",
+      "shortName": "Estadio Salomón Boeseldín",
+      "latitude": "-33.495888524",
+      "longitude": "-60.069972575"
+    }
+  },
+  "liveData": {
+    "matchDetails": {
+      "periodId": 16,
+      "matchStatus": "Fixture"
+    }
+  }
+}

@@ -1,0 +1,119 @@
+{
+  "matchInfo": {
+    "id": "b244shjyevc6mya28df4bpfkk",
+    "coverageLevel": "7",
+    "date": "2026-04-11Z",
+    "time": "19:30:00Z",
+    "localDate": "2026-04-11",
+    "localTime": "16:30:00",
+    "week": "4",
+    "numberOfPeriods": 2,
+    "periodLength": 45,
+    "lastUpdated": "2026-04-11T21:30:52Z",
+    "description": "Bartolomé Mitre vs Sol de América",
+    "sport": {
+      "id": "289u5typ3vp4ifwh5thalohmq",
+      "name": "Soccer"
+    },
+    "ruleset": {
+      "id": "79plas4983031idr6vw83nuel",
+      "name": "Men"
+    },
+    "competition": {
+      "id": "a08z7wsz0uqx90wsj33g65fcd",
+      "name": "Torneo Federal A",
+      "competitionCode": "TFA",
+      "competitionFormat": "Domestic league",
+      "country": {
+        "id": "2vovxa97k7v7ofa85dah2xktb",
+        "name": "Argentina"
+      }
+    },
+    "tournamentCalendar": {
+      "id": "1q9caek968o8ubc43inhg6uxg",
+      "startDate": "2026-03-21Z",
+      "endDate": "2026-12-14Z",
+      "name": "2026"
+    },
+    "stage": {
+      "id": "1sl9u9n8n5kwrx1apiui5hvdg",
+      "formatId": "2pt7qip0egr975wsgise8gr9",
+      "startDate": "2026-03-21Z",
+      "endDate": "2026-07-19Z",
+      "name": "Group 2"
+    },
+    "contestant": [
+      {
+        "id": "8ulb21tk2jm7t7ukf8j0n67c9",
+        "name": "Bartolomé Mitre",
+        "shortName": "Bartolomé Mit.",
+        "officialName": "CA Bartolomé Mitre",
+        "code": "BAR",
+        "position": "home",
+        "country": {
+          "id": "2vovxa97k7v7ofa85dah2xktb",
+          "name": "Argentina"
+        }
+      },
+      {
+        "id": "522mp6j6hmoo671etzul59l6n",
+        "name": "Sol de América",
+        "shortName": "Sol de América",
+        "officialName": "CA Sol de América de Formosa",
+        "code": "SDA",
+        "position": "away",
+        "country": {
+          "id": "2vovxa97k7v7ofa85dah2xktb",
+          "name": "Argentina"
+        }
+      }
+    ],
+    "venue": {
+      "id": "5j450t0i9c2klwvq8nr3j8yqx",
+      "neutral": "no",
+      "longName": "Estadio Tito Cucchiaroni",
+      "shortName": "Estadio Tito Cucchiaroni",
+      "latitude": "-27.383491483",
+      "longitude": "-55.917604251"
+    }
+  },
+  "liveData": {
+    "matchDetails": {
+      "periodId": 14,
+      "matchStatus": "Played",
+      "winner": "draw",
+      "matchLengthMin": 104,
+      "matchLengthSec": 37,
+      "period": [
+        {
+          "id": 1,
+          "start": "2026-04-11T19:31:30Z",
+          "end": "2026-04-11T20:23:25Z",
+          "lengthMin": 51,
+          "lengthSec": 55
+        },
+        {
+          "id": 2,
+          "start": "2026-04-11T20:35:53Z",
+          "end": "2026-04-11T21:28:35Z",
+          "lengthMin": 52,
+          "lengthSec": 42
+        }
+      ],
+      "scores": {
+        "ht": {
+          "home": 0,
+          "away": 0
+        },
+        "ft": {
+          "home": 0,
+          "away": 0
+        },
+        "total": {
+          "home": 0,
+          "away": 0
+        }
+      }
+    }
+  }
+}

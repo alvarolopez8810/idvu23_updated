@@ -1,0 +1,86 @@
+{
+  "matchInfo": {
+    "id": "b2lqx30f3wps420hi72nzsb2s",
+    "coverageLevel": "7",
+    "date": "2026-04-12Z",
+    "time": "22:00:00Z",
+    "localDate": "2026-04-12",
+    "localTime": "19:00:00",
+    "week": "4",
+    "numberOfPeriods": 2,
+    "periodLength": 45,
+    "lastUpdated": "2026-04-08T23:52:09Z",
+    "description": "Sarmiento de La Banda vs Juventud Antoniana",
+    "sport": {
+      "id": "289u5typ3vp4ifwh5thalohmq",
+      "name": "Soccer"
+    },
+    "ruleset": {
+      "id": "79plas4983031idr6vw83nuel",
+      "name": "Men"
+    },
+    "competition": {
+      "id": "a08z7wsz0uqx90wsj33g65fcd",
+      "name": "Torneo Federal A",
+      "competitionCode": "TFA",
+      "competitionFormat": "Domestic league",
+      "country": {
+        "id": "2vovxa97k7v7ofa85dah2xktb",
+        "name": "Argentina"
+      }
+    },
+    "tournamentCalendar": {
+      "id": "1q9caek968o8ubc43inhg6uxg",
+      "startDate": "2026-03-21Z",
+      "endDate": "2026-12-14Z",
+      "name": "2026"
+    },
+    "stage": {
+      "id": "1sl9u9n8n5kwrx1apiui5hvdg",
+      "formatId": "2pt7qip0egr975wsgise8gr9",
+      "startDate": "2026-03-21Z",
+      "endDate": "2026-07-19Z",
+      "name": "Group 2"
+    },
+    "contestant": [
+      {
+        "id": "b6odaiwxaz8qfnjbdrb2xm8du",
+        "name": "Sarmiento de La Banda",
+        "shortName": "Sar La Banda",
+        "officialName": "CA Sarmiento de La Banda",
+        "code": "SLB",
+        "position": "home",
+        "country": {
+          "id": "2vovxa97k7v7ofa85dah2xktb",
+          "name": "Argentina"
+        }
+      },
+      {
+        "id": "7pmr8mu0jynhvj0wci8ddfi6u",
+        "name": "Juventud Antoniana",
+        "shortName": "Juv Antoniana",
+        "officialName": "Centro Juventud Antoniana",
+        "code": "ANT",
+        "position": "away",
+        "country": {
+          "id": "2vovxa97k7v7ofa85dah2xktb",
+          "name": "Argentina"
+        }
+      }
+    ],
+    "venue": {
+      "id": "2b7obd0trmq8j55pmlmn9b8f7",
+      "neutral": "no",
+      "longName": "Estadio Ciudad de La Banda",
+      "shortName": "Estadio Ciudad de La Banda",
+      "latitude": "-27.728988852",
+      "longitude": "-64.247869849"
+    }
+  },
+  "liveData": {
+    "matchDetails": {
+      "periodId": 16,
+      "matchStatus": "Fixture"
+    }
+  }
+}

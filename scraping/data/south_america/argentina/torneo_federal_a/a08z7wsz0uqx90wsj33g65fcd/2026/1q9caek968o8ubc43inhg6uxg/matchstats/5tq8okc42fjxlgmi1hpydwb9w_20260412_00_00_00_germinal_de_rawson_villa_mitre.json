@@ -1,0 +1,86 @@
+{
+  "matchInfo": {
+    "id": "5tq8okc42fjxlgmi1hpydwb9w",
+    "coverageLevel": "7",
+    "date": "2026-04-12Z",
+    "time": "18:00:00Z",
+    "localDate": "2026-04-12",
+    "localTime": "15:00:00",
+    "week": "4",
+    "numberOfPeriods": 2,
+    "periodLength": 45,
+    "lastUpdated": "2026-04-08T23:54:35Z",
+    "description": "Germinal de Rawson vs Villa Mitre",
+    "sport": {
+      "id": "289u5typ3vp4ifwh5thalohmq",
+      "name": "Soccer"
+    },
+    "ruleset": {
+      "id": "79plas4983031idr6vw83nuel",
+      "name": "Men"
+    },
+    "competition": {
+      "id": "a08z7wsz0uqx90wsj33g65fcd",
+      "name": "Torneo Federal A",
+      "competitionCode": "TFA",
+      "competitionFormat": "Domestic league",
+      "country": {
+        "id": "2vovxa97k7v7ofa85dah2xktb",
+        "name": "Argentina"
+      }
+    },
+    "tournamentCalendar": {
+      "id": "1q9caek968o8ubc43inhg6uxg",
+      "startDate": "2026-03-21Z",
+      "endDate": "2026-12-14Z",
+      "name": "2026"
+    },
+    "stage": {
+      "id": "1tir4qigazbsof5nt5mv3lmvo",
+      "formatId": "25o7caxa4b40wvbro573ga579",
+      "startDate": "2026-03-22Z",
+      "endDate": "2026-07-19Z",
+      "name": "Group 4"
+    },
+    "contestant": [
+      {
+        "id": "a74fme5viiiafhaezmsni73pn",
+        "name": "Germinal de Rawson",
+        "shortName": "Ger Rawson",
+        "officialName": "CA Germinal Trelew",
+        "code": "RAW",
+        "position": "home",
+        "country": {
+          "id": "2vovxa97k7v7ofa85dah2xktb",
+          "name": "Argentina"
+        }
+      },
+      {
+        "id": "drm43t0hes6tnv10800wkgybw",
+        "name": "Villa Mitre",
+        "shortName": "Villa Mitre",
+        "officialName": "Club Villa Mitre",
+        "code": "VIL",
+        "position": "away",
+        "country": {
+          "id": "2vovxa97k7v7ofa85dah2xktb",
+          "name": "Argentina"
+        }
+      }
+    ],
+    "venue": {
+      "id": "dy8c4f5x8l8q2gmyrzg95eq00",
+      "neutral": "no",
+      "longName": "Estadio El Fortín",
+      "shortName": "Estadio El Fortín",
+      "latitude": "-43.290638899",
+      "longitude": "-65.114529133"
+    }
+  },
+  "liveData": {
+    "matchDetails": {
+      "periodId": 16,
+      "matchStatus": "Fixture"
+    }
+  }
+}

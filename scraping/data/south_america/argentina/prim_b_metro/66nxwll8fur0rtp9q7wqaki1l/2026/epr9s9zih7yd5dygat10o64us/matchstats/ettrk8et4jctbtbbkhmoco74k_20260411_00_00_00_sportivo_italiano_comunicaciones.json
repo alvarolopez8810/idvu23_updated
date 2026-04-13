@@ -1,0 +1,144 @@
+{
+  "matchInfo": {
+    "id": "ettrk8et4jctbtbbkhmoco74k",
+    "coverageLevel": "7",
+    "date": "2026-04-11Z",
+    "time": "18:30:00Z",
+    "localDate": "2026-04-11",
+    "localTime": "15:30:00",
+    "week": "10",
+    "numberOfPeriods": 2,
+    "periodLength": 45,
+    "lastUpdated": "2026-04-11T20:29:23Z",
+    "description": "Sportivo Italiano vs Comunicaciones",
+    "sport": {
+      "id": "289u5typ3vp4ifwh5thalohmq",
+      "name": "Soccer"
+    },
+    "ruleset": {
+      "id": "79plas4983031idr6vw83nuel",
+      "name": "Men"
+    },
+    "competition": {
+      "id": "66nxwll8fur0rtp9q7wqaki1l",
+      "name": "Prim B Metro",
+      "knownName": "Argentina Primera B (Metropolitana)",
+      "competitionCode": "PBM",
+      "competitionFormat": "Domestic league",
+      "country": {
+        "id": "2vovxa97k7v7ofa85dah2xktb",
+        "name": "Argentina"
+      }
+    },
+    "tournamentCalendar": {
+      "id": "epr9s9zih7yd5dygat10o64us",
+      "startDate": "2026-02-14Z",
+      "endDate": "2026-12-05Z",
+      "name": "2026"
+    },
+    "stage": {
+      "id": "eqawf5nrl55itr30kcr097mdw",
+      "formatId": "e2q01r9o9jwiq1fls93d1sslx",
+      "startDate": "2026-02-14Z",
+      "endDate": "2026-10-31Z",
+      "name": "Regular Season"
+    },
+    "contestant": [
+      {
+        "id": "6v9i6trg5zm8nhsq38htka88n",
+        "name": "Sportivo Italiano",
+        "shortName": "Italiano",
+        "officialName": "Club Sportivo Italiano",
+        "code": "SIT",
+        "position": "home",
+        "country": {
+          "id": "2vovxa97k7v7ofa85dah2xktb",
+          "name": "Argentina"
+        }
+      },
+      {
+        "id": "icy5wed57qug0qnvunnv6c15",
+        "name": "Comunicaciones",
+        "shortName": "Comunicaciones",
+        "officialName": "Club Comunicaciones de Buenos Aires",
+        "code": "COM",
+        "position": "away",
+        "country": {
+          "id": "2vovxa97k7v7ofa85dah2xktb",
+          "name": "Argentina"
+        }
+      }
+    ],
+    "venue": {
+      "id": "cuny4zzrxajr5vmtwa4z6ucoa",
+      "neutral": "no",
+      "longName": "Estadio República de Italia",
+      "shortName": "Estadio República de Italia",
+      "latitude": "-34.737971324",
+      "longitude": "-58.517249823"
+    }
+  },
+  "liveData": {
+    "matchDetails": {
+      "periodId": 14,
+      "matchStatus": "Played",
+      "winner": "draw",
+      "matchLengthMin": 102,
+      "matchLengthSec": 29,
+      "period": [
+        {
+          "id": 1,
+          "start": "2026-04-11T18:30:10Z",
+          "end": "2026-04-11T19:18:55Z",
+          "lengthMin": 48,
+          "lengthSec": 45
+        },
+        {
+          "id": 2,
+          "start": "2026-04-11T19:35:38Z",
+          "end": "2026-04-11T20:29:22Z",
+          "lengthMin": 53,
+          "lengthSec": 44
+        }
+      ],
+      "scores": {
+        "ht": {
+          "home": 0,
+          "away": 1
+        },
+        "ft": {
+          "home": 1,
+          "away": 1
+        },
+        "total": {
+          "home": 1,
+          "away": 1
+        }
+      }
+    },
+    "goal": [
+      {
+        "contestantId": "icy5wed57qug0qnvunnv6c15",
+        "periodId": 1,
+        "timeMin": 5,
+        "lastUpdated": "2026-04-11T18:36:55Z",
+        "type": "G",
+        "scorerId": "7u637r82sjzv3q9bzw0207pqs",
+        "scorerName": "J. Heidenreich",
+        "homeScore": 0,
+        "awayScore": 1
+      },
+      {
+        "contestantId": "6v9i6trg5zm8nhsq38htka88n",
+        "periodId": 2,
+        "timeMin": 84,
+        "lastUpdated": "2026-04-11T20:15:20Z",
+        "type": "G",
+        "scorerId": "9dh3z80mae3vairp7sdx0t8us",
+        "scorerName": "M. Guzmán",
+        "homeScore": 1,
+        "awayScore": 1
+      }
+    ]
+  }
+}

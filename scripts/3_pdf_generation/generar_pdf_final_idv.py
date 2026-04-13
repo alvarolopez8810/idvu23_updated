@@ -832,37 +832,22 @@ class PDFGeneratorIDV:
                 else:
                     rating_cell = Paragraph('N/A', self.normal_style)
                 
-                # DOB - Para Primera B Metro mostrar solo año, para otros mostrar fecha completa
+                # DOB
                 fecha_nac = 'N/A'
-                liga = partido.get('liga', '')
-                
-                # Para Primera B Metro, mostrar solo año de nacimiento
-                if 'Primera B Met' in liga:
-                    if 'birth_year' in jugador and pd.notna(jugador['birth_year']):
-                        fecha_nac = str(int(jugador['birth_year']))
-                    elif 'date_of_birth' in jugador and pd.notna(jugador['date_of_birth']):
-                        dob_str = str(jugador['date_of_birth'])
-                        # Extraer año de la fecha
-                        if '/' in dob_str:
-                            fecha_nac = dob_str.split('/')[-1]  # Último elemento es el año
-                        elif '-' in dob_str:
-                            fecha_nac = dob_str.split('-')[0]  # Primer elemento es el año
-                else:
-                    # Para otras ligas, mostrar fecha completa
-                    if 'date_of_birth' in jugador and pd.notna(jugador['date_of_birth']):
-                        dob_str = str(jugador['date_of_birth'])
-                        # Si es formato DD/MM/YYYY o YYYY-MM-DD, usar directamente
-                        if '/' in dob_str or '-' in dob_str:
-                            fecha_nac = dob_str
-                        # Si es timestamp, convertir
-                        elif dob_str.isdigit():
-                            try:
-                                from datetime import datetime
-                                fecha_nac = datetime.fromtimestamp(int(dob_str)).strftime('%d/%m/%Y')
-                            except:
-                                fecha_nac = 'N/A'
-                    elif 'fecha_nacimiento' in jugador and pd.notna(jugador['fecha_nacimiento']):
-                        fecha_nac = str(jugador['fecha_nacimiento'])
+                if 'date_of_birth' in jugador and pd.notna(jugador['date_of_birth']):
+                    dob_str = str(jugador['date_of_birth'])
+                    # Si es formato DD/MM/YYYY o YYYY-MM-DD, usar directamente
+                    if '/' in dob_str or '-' in dob_str:
+                        fecha_nac = dob_str
+                    # Si es timestamp, convertir
+                    elif dob_str.isdigit():
+                        try:
+                            from datetime import datetime
+                            fecha_nac = datetime.fromtimestamp(int(dob_str)).strftime('%d/%m/%Y')
+                        except:
+                            fecha_nac = 'N/A'
+                elif 'fecha_nacimiento' in jugador and pd.notna(jugador['fecha_nacimiento']):
+                    fecha_nac = str(jugador['fecha_nacimiento'])
                 
                 jugadores_data.append([dorsal, nombre_cell, pos, minutos, rating_cell, fecha_nac])
             

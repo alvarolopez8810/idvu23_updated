@@ -1,0 +1,86 @@
+{
+  "matchInfo": {
+    "id": "xt6zpze3ptbfa4pwmscso74k",
+    "coverageLevel": "7",
+    "date": "2026-04-12Z",
+    "time": "18:30:00Z",
+    "localDate": "2026-04-12",
+    "localTime": "15:30:00",
+    "week": "4",
+    "numberOfPeriods": 2,
+    "periodLength": 45,
+    "lastUpdated": "2026-04-08T23:54:36Z",
+    "description": "Cipolletti vs Costa Brava",
+    "sport": {
+      "id": "289u5typ3vp4ifwh5thalohmq",
+      "name": "Soccer"
+    },
+    "ruleset": {
+      "id": "79plas4983031idr6vw83nuel",
+      "name": "Men"
+    },
+    "competition": {
+      "id": "a08z7wsz0uqx90wsj33g65fcd",
+      "name": "Torneo Federal A",
+      "competitionCode": "TFA",
+      "competitionFormat": "Domestic league",
+      "country": {
+        "id": "2vovxa97k7v7ofa85dah2xktb",
+        "name": "Argentina"
+      }
+    },
+    "tournamentCalendar": {
+      "id": "1q9caek968o8ubc43inhg6uxg",
+      "startDate": "2026-03-21Z",
+      "endDate": "2026-12-14Z",
+      "name": "2026"
+    },
+    "stage": {
+      "id": "1t22080f8av01sxvq9mt7bh1w",
+      "formatId": "2vnaruyshquz7o7p09jzjvf9",
+      "startDate": "2026-03-21Z",
+      "endDate": "2026-07-19Z",
+      "name": "Group 3"
+    },
+    "contestant": [
+      {
+        "id": "djlgq8gwc3vmfi6lyllvggk5y",
+        "name": "Cipolletti",
+        "shortName": "Cipolletti",
+        "officialName": "Club Cipolletti",
+        "code": "CIP",
+        "position": "home",
+        "country": {
+          "id": "2vovxa97k7v7ofa85dah2xktb",
+          "name": "Argentina"
+        }
+      },
+      {
+        "id": "2haeqavfcp6gzlymad77skrxm",
+        "name": "Costa Brava",
+        "shortName": "Costa Brava",
+        "officialName": "CA Costa Brava",
+        "code": "CSB",
+        "position": "away",
+        "country": {
+          "id": "2vovxa97k7v7ofa85dah2xktb",
+          "name": "Argentina"
+        }
+      }
+    ],
+    "venue": {
+      "id": "dqtm5q3627b9ithqxqh6nnis",
+      "neutral": "no",
+      "longName": "Estadio La Visera de Cemento",
+      "shortName": "Estadio La Visera de Cemento",
+      "latitude": "-38.936542064",
+      "longitude": "-68.003791273"
+    }
+  },
+  "liveData": {
+    "matchDetails": {
+      "periodId": 16,
+      "matchStatus": "Fixture"
+    }
+  }
+}

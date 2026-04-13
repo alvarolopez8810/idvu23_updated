@@ -1,0 +1,86 @@
+{
+  "matchInfo": {
+    "id": "b1343wlb1d453ctdxnqcsmm8k",
+    "coverageLevel": "7",
+    "date": "2026-04-12Z",
+    "time": "19:30:00Z",
+    "localDate": "2026-04-12",
+    "localTime": "16:30:00",
+    "week": "4",
+    "numberOfPeriods": 2,
+    "periodLength": 45,
+    "lastUpdated": "2026-04-08T23:52:33Z",
+    "description": "San Martín Formosa vs Boca Unidos",
+    "sport": {
+      "id": "289u5typ3vp4ifwh5thalohmq",
+      "name": "Soccer"
+    },
+    "ruleset": {
+      "id": "79plas4983031idr6vw83nuel",
+      "name": "Men"
+    },
+    "competition": {
+      "id": "a08z7wsz0uqx90wsj33g65fcd",
+      "name": "Torneo Federal A",
+      "competitionCode": "TFA",
+      "competitionFormat": "Domestic league",
+      "country": {
+        "id": "2vovxa97k7v7ofa85dah2xktb",
+        "name": "Argentina"
+      }
+    },
+    "tournamentCalendar": {
+      "id": "1q9caek968o8ubc43inhg6uxg",
+      "startDate": "2026-03-21Z",
+      "endDate": "2026-12-14Z",
+      "name": "2026"
+    },
+    "stage": {
+      "id": "1sl9u9n8n5kwrx1apiui5hvdg",
+      "formatId": "2pt7qip0egr975wsgise8gr9",
+      "startDate": "2026-03-21Z",
+      "endDate": "2026-07-19Z",
+      "name": "Group 2"
+    },
+    "contestant": [
+      {
+        "id": "7rglhu14a03hhyen1gf4k0yn9",
+        "name": "San Martín Formosa",
+        "shortName": "SM Formosa",
+        "officialName": "CS General San Martín de Formosa",
+        "code": "SMF",
+        "position": "home",
+        "country": {
+          "id": "2vovxa97k7v7ofa85dah2xktb",
+          "name": "Argentina"
+        }
+      },
+      {
+        "id": "5mhmoqjp1qn4cbq7nwq6kwtp4",
+        "name": "Boca Unidos",
+        "shortName": "Boca Unidos",
+        "officialName": "CA Boca Unidos",
+        "code": "BUN",
+        "position": "away",
+        "country": {
+          "id": "2vovxa97k7v7ofa85dah2xktb",
+          "name": "Argentina"
+        }
+      }
+    ],
+    "venue": {
+      "id": "aauno2to6ifz75b74r7e48gdl",
+      "neutral": "no",
+      "longName": "Estadio 17 de Octubre",
+      "shortName": "Estadio 17 de Octubre",
+      "latitude": "-26.174438350",
+      "longitude": "-58.183102371"
+    }
+  },
+  "liveData": {
+    "matchDetails": {
+      "periodId": 16,
+      "matchStatus": "Fixture"
+    }
+  }
+}

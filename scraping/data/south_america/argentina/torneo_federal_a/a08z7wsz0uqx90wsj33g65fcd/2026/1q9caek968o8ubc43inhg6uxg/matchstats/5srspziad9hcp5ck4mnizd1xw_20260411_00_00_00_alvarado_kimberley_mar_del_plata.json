@@ -1,0 +1,119 @@
+{
+  "matchInfo": {
+    "id": "5srspziad9hcp5ck4mnizd1xw",
+    "coverageLevel": "7",
+    "date": "2026-04-11Z",
+    "time": "18:30:00Z",
+    "localDate": "2026-04-11",
+    "localTime": "15:30:00",
+    "week": "4",
+    "numberOfPeriods": 2,
+    "periodLength": 45,
+    "lastUpdated": "2026-04-11T20:31:28Z",
+    "description": "Alvarado vs Kimberley Mar del Plata",
+    "sport": {
+      "id": "289u5typ3vp4ifwh5thalohmq",
+      "name": "Soccer"
+    },
+    "ruleset": {
+      "id": "79plas4983031idr6vw83nuel",
+      "name": "Men"
+    },
+    "competition": {
+      "id": "a08z7wsz0uqx90wsj33g65fcd",
+      "name": "Torneo Federal A",
+      "competitionCode": "TFA",
+      "competitionFormat": "Domestic league",
+      "country": {
+        "id": "2vovxa97k7v7ofa85dah2xktb",
+        "name": "Argentina"
+      }
+    },
+    "tournamentCalendar": {
+      "id": "1q9caek968o8ubc43inhg6uxg",
+      "startDate": "2026-03-21Z",
+      "endDate": "2026-12-14Z",
+      "name": "2026"
+    },
+    "stage": {
+      "id": "1tir4qigazbsof5nt5mv3lmvo",
+      "formatId": "25o7caxa4b40wvbro573ga579",
+      "startDate": "2026-03-22Z",
+      "endDate": "2026-07-19Z",
+      "name": "Group 4"
+    },
+    "contestant": [
+      {
+        "id": "9jhnq1jsy4nfufvd2ensu6xpb",
+        "name": "Alvarado",
+        "shortName": "Alvarado",
+        "officialName": "CA Alvarado",
+        "code": "ALV",
+        "position": "home",
+        "country": {
+          "id": "2vovxa97k7v7ofa85dah2xktb",
+          "name": "Argentina"
+        }
+      },
+      {
+        "id": "3uzh6kl61xmzq1zxa59e1jul2",
+        "name": "Kimberley Mar del Plata",
+        "shortName": "Kimberley MdP",
+        "officialName": "CA Kimberley de Mar del Plata",
+        "code": "KMP",
+        "position": "away",
+        "country": {
+          "id": "2vovxa97k7v7ofa85dah2xktb",
+          "name": "Argentina"
+        }
+      }
+    ],
+    "venue": {
+      "id": "ep9bwdsvv4gw1ymc9knla2ybs",
+      "neutral": "no",
+      "longName": "Estadio José María Minella",
+      "shortName": "Estadio José María Minella",
+      "latitude": "-38.017947670",
+      "longitude": "-57.582301497"
+    }
+  },
+  "liveData": {
+    "matchDetails": {
+      "periodId": 14,
+      "matchStatus": "Played",
+      "winner": "draw",
+      "matchLengthMin": 99,
+      "matchLengthSec": 48,
+      "period": [
+        {
+          "id": 1,
+          "start": "2026-04-11T18:33:08Z",
+          "end": "2026-04-11T19:22:08Z",
+          "lengthMin": 49,
+          "lengthSec": 0
+        },
+        {
+          "id": 2,
+          "start": "2026-04-11T19:40:39Z",
+          "end": "2026-04-11T20:31:27Z",
+          "lengthMin": 50,
+          "lengthSec": 48
+        }
+      ],
+      "scores": {
+        "ht": {
+          "home": 0,
+          "away": 0
+        },
+        "ft": {
+          "home": 0,
+          "away": 0
+        },
+        "total": {
+          "home": 0,
+          "away": 0
+        }
+      }
+    }
+  }
+}

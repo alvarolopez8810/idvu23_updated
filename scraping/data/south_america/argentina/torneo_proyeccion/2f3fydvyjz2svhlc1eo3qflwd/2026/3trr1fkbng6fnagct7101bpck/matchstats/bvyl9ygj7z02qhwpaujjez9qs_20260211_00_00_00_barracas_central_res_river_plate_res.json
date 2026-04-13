@@ -1,0 +1,87 @@
+{
+  "matchInfo": {
+    "id": "bvyl9ygj7z02qhwpaujjez9qs",
+    "coverageLevel": "1",
+    "date": "2026-02-11Z",
+    "time": "20:00:00Z",
+    "week": "2",
+    "numberOfPeriods": 2,
+    "periodLength": 45,
+    "lastUpdated": "2026-02-12T01:47:46Z",
+    "description": "Barracas Central Res. vs River Plate Res.",
+    "sport": {
+      "id": "289u5typ3vp4ifwh5thalohmq",
+      "name": "Soccer"
+    },
+    "ruleset": {
+      "id": "79plas4983031idr6vw83nuel",
+      "name": "Men"
+    },
+    "competition": {
+      "id": "2f3fydvyjz2svhlc1eo3qflwd",
+      "name": "Torneo Proyección",
+      "competitionCode": "TPR",
+      "competitionFormat": "Domestic league",
+      "country": {
+        "id": "2vovxa97k7v7ofa85dah2xktb",
+        "name": "Argentina"
+      }
+    },
+    "tournamentCalendar": {
+      "id": "3trr1fkbng6fnagct7101bpck",
+      "startDate": "2026-02-03Z",
+      "endDate": "2026-12-13Z",
+      "name": "2026"
+    },
+    "stage": {
+      "id": "3ua4vlna95icfkhxb22c5bok4",
+      "formatId": "36u9089d33h0ojby6bvbwl49h",
+      "startDate": "2026-02-03Z",
+      "endDate": "2026-06-17Z",
+      "name": "1st Phase"
+    },
+    "contestant": [
+      {
+        "id": "2h7cvpx138g3qkoqs37i55dk9",
+        "name": "Barracas Central Res.",
+        "shortName": "Barracas",
+        "officialName": "CA Barracas Central Reserves",
+        "code": "BAC",
+        "position": "home",
+        "country": {
+          "id": "2vovxa97k7v7ofa85dah2xktb",
+          "name": "Argentina"
+        }
+      },
+      {
+        "id": "367hg234pmflce6zghsg41gfz",
+        "name": "River Plate Res.",
+        "shortName": "River",
+        "officialName": "CA River Plate Reserves",
+        "code": "RIV",
+        "position": "away",
+        "country": {
+          "id": "2vovxa97k7v7ofa85dah2xktb",
+          "name": "Argentina"
+        }
+      }
+    ]
+  },
+  "liveData": {
+    "matchDetails": {
+      "periodId": 14,
+      "matchStatus": "Played",
+      "winner": "home",
+      "scores": {
+        "ft": {
+          "home": 1,
+          "away": 0
+        },
+        "total": {
+          "home": 1,
+          "away": 0
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,86 @@
+{
+  "matchInfo": {
+    "id": "xceu106ov2ewxzw0mv2190yc",
+    "coverageLevel": "7",
+    "date": "2026-04-12Z",
+    "time": "19:30:00Z",
+    "localDate": "2026-04-12",
+    "localTime": "16:30:00",
+    "week": "4",
+    "numberOfPeriods": 2,
+    "periodLength": 45,
+    "lastUpdated": "2026-04-08T23:54:36Z",
+    "description": "Atenas vs Huracán Las Heras",
+    "sport": {
+      "id": "289u5typ3vp4ifwh5thalohmq",
+      "name": "Soccer"
+    },
+    "ruleset": {
+      "id": "79plas4983031idr6vw83nuel",
+      "name": "Men"
+    },
+    "competition": {
+      "id": "a08z7wsz0uqx90wsj33g65fcd",
+      "name": "Torneo Federal A",
+      "competitionCode": "TFA",
+      "competitionFormat": "Domestic league",
+      "country": {
+        "id": "2vovxa97k7v7ofa85dah2xktb",
+        "name": "Argentina"
+      }
+    },
+    "tournamentCalendar": {
+      "id": "1q9caek968o8ubc43inhg6uxg",
+      "startDate": "2026-03-21Z",
+      "endDate": "2026-12-14Z",
+      "name": "2026"
+    },
+    "stage": {
+      "id": "1t22080f8av01sxvq9mt7bh1w",
+      "formatId": "2vnaruyshquz7o7p09jzjvf9",
+      "startDate": "2026-03-21Z",
+      "endDate": "2026-07-19Z",
+      "name": "Group 3"
+    },
+    "contestant": [
+      {
+        "id": "13x6pponjb28rc5ydtk8k0yxh",
+        "name": "Atenas",
+        "shortName": "Atenas",
+        "officialName": "Club Sportivo y Biblioteca Atenas",
+        "code": "ATE",
+        "position": "home",
+        "country": {
+          "id": "2vovxa97k7v7ofa85dah2xktb",
+          "name": "Argentina"
+        }
+      },
+      {
+        "id": "dk2quzwbt80mto89bulkitruv",
+        "name": "Huracán Las Heras",
+        "shortName": "Las Heras",
+        "officialName": "CA Huracán Las Heras",
+        "code": "HUR",
+        "position": "away",
+        "country": {
+          "id": "2vovxa97k7v7ofa85dah2xktb",
+          "name": "Argentina"
+        }
+      }
+    ],
+    "venue": {
+      "id": "5xlckq1bsz8wwgrjzi6n0wpg5",
+      "neutral": "no",
+      "longName": "Estadio 9 de Julio",
+      "shortName": "Estadio 9 de Julio",
+      "latitude": "-33.117604658",
+      "longitude": "-64.351102710"
+    }
+  },
+  "liveData": {
+    "matchDetails": {
+      "periodId": 16,
+      "matchStatus": "Fixture"
+    }
+  }
+}
