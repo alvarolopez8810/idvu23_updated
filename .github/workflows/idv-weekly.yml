@@ -64,7 +64,7 @@ jobs:
       # -----------------------------------------------------------------------
       # 4. Calcular rango de fechas
       #    - Manual: usa los inputs del usuario
-      #    - Automático: lunes anterior → domingo anterior (semana pasada)
+      #    - Automático: lunes pasado (hace 7 días) → hoy (lunes actual)
       # -----------------------------------------------------------------------
       - name: Calcular rango de fechas
         id: dates
@@ -73,11 +73,10 @@ jobs:
             DATE_FROM="${{ github.event.inputs.date_from }}"
             DATE_TO="${{ github.event.inputs.date_to }}"
           else
-            # Semana pasada: lunes a domingo
-            DATE_FROM=$(date -d "last monday - 7 days" +%Y-%m-%d 2>/dev/null || \
-                        date -v-mon -v-7d +%Y-%m-%d)
-            DATE_TO=$(date -d "last sunday" +%Y-%m-%d 2>/dev/null || \
-                      date -v-sun +%Y-%m-%d)
+            # Semana actual: lunes pasado → hoy (lunes)
+            DATE_FROM=$(date -d "7 days ago" +%Y-%m-%d 2>/dev/null || \
+                        date -v-7d +%Y-%m-%d)
+            DATE_TO=$(date +%Y-%m-%d)
           fi
           echo "date_from=$DATE_FROM" >> $GITHUB_OUTPUT
           echo "date_to=$DATE_TO" >> $GITHUB_OUTPUT
