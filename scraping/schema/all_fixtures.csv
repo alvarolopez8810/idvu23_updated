@@ -1,0 +1,4 @@
+continent,country,competition,competition_id,season,fixture_path,num_matches,first_match_date,last_match_date
+,,,,,data\south_america\argentina\prim_b_metro\66nxwll8fur0rtp9q7wqaki1l\2026\fixture.json,400,2026-03-22Z,2026-10-31Z
+,,,,,data\south_america\argentina\torneo_federal_a\a08z7wsz0uqx90wsj33g65fcd\2026\fixture.json,306,2026-03-21Z,2026-07-19Z
+,,,,,data\south_america\argentina\torneo_proyeccion\2f3fydvyjz2svhlc1eo3qflwd\2026\fixture.json,324,2026-02-03Z,2026-06-17Z

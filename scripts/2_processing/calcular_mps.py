@@ -162,8 +162,8 @@ def main():
     print("CÁLCULO MPS - RONDA 02-08 MARZO 2026")
     print("="*70)
     
-    # Leer datos procesados (con Primera B Metro)
-    input_file = DATA_DIR / 'jugadores_completo_con_pbm.csv'
+    # Leer datos procesados
+    input_file = DATA_DIR / 'jugadores_ronda_nueva.csv'
     print(f"\n📂 Leyendo: {input_file}")
     
     df = pd.read_csv(input_file)

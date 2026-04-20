@@ -107,10 +107,6 @@ jobs:
       # -----------------------------------------------------------------------
       # 7. PASO 2 — Procesamiento
       # -----------------------------------------------------------------------
-      - name: Integrar Primera B Metro
-        run: python scripts/2_processing/integrar_primera_b_metro.py
-        continue-on-error: true
-
       - name: Calcular MPS
         run: python scripts/2_processing/calcular_mps.py
 
